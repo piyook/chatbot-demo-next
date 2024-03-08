@@ -1,33 +1,73 @@
 "use server";
-import OpenAI from "openai";
+import { ChatOpenAI } from "@langchain/openai";
+import { OpenAIEmbeddings } from "@langchain/openai";
+import { ChatPromptTemplate } from "@langchain/core/prompts";
+
+import { MemoryVectorStore } from "langchain/vectorstores/memory";
+import { createStuffDocumentsChain } from "langchain/chains/combine_documents";
+import { createRetrievalChain } from "langchain/chains/retrieval";
+
+import { splitDocs } from "./docloader";
 
 async function getChatBotReply(
   userQuestion: string
 ): Promise<string | undefined> {
-  const openai = new OpenAI({
-    apiKey: (process.env.OPENAI_API_KEY as string) ?? "please_provide_key",
-    dangerouslyAllowBrowser: true,
+  // Create a System Template Direction
+  const systemTemplate =
+    "You are a helpful assistant that responds to questions in a friendly and expressive manner. You dont make up answers if you dont know them";
+
+  // Create the Chat Prompt
+  const humanTemplate = "";
+
+  // Create embeddings object
+  const embeddings = new OpenAIEmbeddings({
+    openAIApiKey: process.env.OPENAI_API_KEY,
   });
-  // Prepare prompt
-  const parameters: OpenAI.Chat.ChatCompletionCreateParams = {
-    messages: [{ role: "user", content: userQuestion }],
-    model: "gpt-3.5-turbo",
-  };
 
-  // Get OAI response with user supplied prompt and await response
-  const completion: OpenAI.Chat.ChatCompletion | undefined =
-    await openai.chat.completions.create(parameters).catch((error) => {
-      if (error instanceof OpenAI.APIError) {
-        console.log(error.status);
-        console.log(error.message);
-        return undefined;
-      }
+  const myContext = await splitDocs();
 
-      throw new Error("Sorry - there was an error. Please Try again later.");
-    });
+  // Create in-memory vector store to store vectorised embeddings
+  const vectorstore = await MemoryVectorStore.fromDocuments(
+    myContext,
+    embeddings
+  );
 
-  // Set OAI response and unset loading spinner
-  return completion?.choices[0].message.content ?? "error";
+  // Create an embedding retriever
+  const retriever = vectorstore.asRetriever();
+
+  // initiate an openAI object
+  const chatModel = new ChatOpenAI({
+    openAIApiKey: process.env.OPENAI_API_KEY,
+  });
+
+  // Create a prompt
+  const prompt = ChatPromptTemplate.fromMessages([
+    [
+      "ai",
+      `You are a friendly, helpful ai that answers questions as descriptively as possible. 
+      You dont make up answers that you dont know the answer to. 
+      Answer ONLY questions based on only the following context: {context}`,
+    ],
+    ["human", "{input}"],
+  ]);
+
+  const documentChain = await createStuffDocumentsChain({
+    llm: chatModel,
+    prompt,
+  });
+
+  // Create a chain using the document embeddings
+  const retrievalChain = await createRetrievalChain({
+    combineDocsChain: documentChain,
+    retriever,
+  });
+
+  // Invoke chain to get answer
+  const result = await retrievalChain.invoke({
+    input: userQuestion,
+  });
+
+  return result.answer;
 }
 
 export { getChatBotReply };

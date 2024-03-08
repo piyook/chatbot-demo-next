@@ -13,6 +13,15 @@
   outline: none;
 }
 
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  place-items: flex-start;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
 .ChatPage {
   width: 100%;
 }
