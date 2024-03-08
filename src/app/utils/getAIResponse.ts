@@ -6,6 +6,7 @@ import { ChatPromptTemplate } from "@langchain/core/prompts";
 import { MemoryVectorStore } from "langchain/vectorstores/memory";
 import { createStuffDocumentsChain } from "langchain/chains/combine_documents";
 import { createRetrievalChain } from "langchain/chains/retrieval";
+import { RunTree } from "langsmith";
 
 import { splitDocs } from "./docloader";
 
@@ -51,6 +52,13 @@ async function getChatBotReply(
     ["human", "{input}"],
   ]);
 
+  const rt = new RunTree({
+    run_type: "llm",
+    name: "OpenAI Call RunTree",
+    inputs: { prompt },
+    project_name: "MyUoY Chatbot Demo",
+  });
+
   const documentChain = await createStuffDocumentsChain({
     llm: chatModel,
     prompt,
@@ -66,6 +74,10 @@ async function getChatBotReply(
   const result = await retrievalChain.invoke({
     input: userQuestion,
   });
+
+  // End and submit the run
+  rt.end(result);
+  await rt.postRun();
 
   return result.answer;
 }
