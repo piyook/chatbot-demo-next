@@ -2,32 +2,94 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+#root {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+#root > input:focus {
+  outline: none;
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+.ChatPage {
+  width: 100%;
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+.UserInput {
+  width: 100%;
+  line-height: 30px;
+  border-radius: 5px 5px 0px 0px;
+  border: none;
+  padding: 10px;
+  justify-self: flex-end;
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  z-index: 100;
+}
+
+.BotIcon {
+  background-color: #e9e9e9;
+  border-radius: 50%;
+  padding: 10px;
+  width: 100px;
+  height: 100px;
+  margin: 50px 0px 50px 0px;
+}
+
+.BotIcon--chat {
+  width: 50px;
+  height: 50px;
+  padding: 6px;
+}
+
+.inputBox {
+  height: auto;
+  resize: both;
+}
+
+.UserBox__userOutput {
+  width: 80%;
+  line-height: 30px;
+  border-radius: 5px;
+  margin: -40px 20px 10px 0px;
+  border: none;
+  padding: 10px;
+  z-index: -1;
+  text-align: left;
+}
+
+.BotBox {
+  width: 80%;
+  line-height: 30px;
+  border-radius: 5px;
+  margin: -40px 0px 10px 20px;
+  border: none;
+  padding: 10px;
+  z-index: -1;
+  text-align: left;
+}
+
+.LoadSpinner {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(1, 1, 1, 0.3);
+  backdrop-filter: blur(2px);
+  z-index: 9999;
+}
+
+.LoadSpinner__spinner {
+  width: 80px;
+  height: 80px;
 }
