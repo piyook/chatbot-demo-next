@@ -8,18 +8,23 @@ import { createStuffDocumentsChain } from "langchain/chains/combine_documents";
 import { createRetrievalChain } from "langchain/chains/retrieval";
 import { RunTree } from "langsmith";
 
+import { createHistoryAwareRetriever } from "langchain/chains/history_aware_retriever";
+import { MessagesPlaceholder } from "@langchain/core/prompts";
+
 import { splitDocs } from "./docloader";
 
 async function getChatBotReply(
   userQuestion: string
 ): Promise<string | undefined> {
+  // Initiate an openAI object
+  const chatModel = new ChatOpenAI({
+    openAIApiKey: process.env.OPENAI_API_KEY,
+  });
+
   // Create a System Template Direction
   const systemTemplate = `You are a friendly, sympathetic, helpful ai that answers questions as descriptively as possible. 
   You dont make up answers that you dont know the answer to. 
   Answer ONLY questions based on only the following context: {context}`;
-
-  // Create the Chat Prompt
-  const humanTemplate = "";
 
   // Create embeddings object
   const embeddings = new OpenAIEmbeddings({
@@ -37,37 +42,42 @@ async function getChatBotReply(
   // Create an embedding retriever
   const retriever = vectorstore.asRetriever();
 
-  // initiate an openAI object
-  const chatModel = new ChatOpenAI({
-    openAIApiKey: process.env.OPENAI_API_KEY,
-  });
-
-  // Create a prompt
-  const prompt = ChatPromptTemplate.fromMessages([
+  // Create a retriever thats aware of the chat history
+  const historyAwarePrompt = ChatPromptTemplate.fromMessages([
+    new MessagesPlaceholder("chat_history"),
     ["ai", systemTemplate],
     ["human", "{input}"],
   ]);
 
+  // Generate chat history aware retrival chain
+  const historyAwareRetrieverChain = await createHistoryAwareRetriever({
+    llm: chatModel,
+    retriever,
+    rephrasePrompt: historyAwarePrompt,
+  });
+
+  // Combine embedded documents
+  const historyAwareCombineDocsChain = await createStuffDocumentsChain({
+    llm: chatModel,
+    prompt: historyAwarePrompt,
+  });
+
+  // Generate conversational retrieval chain taking into account chat history for context
+  const conversationalRetrievalChain = await createRetrievalChain({
+    retriever: historyAwareRetrieverChain,
+    combineDocsChain: historyAwareCombineDocsChain,
+  });
+
+  // Send metrics to Langsmith
   const rt = new RunTree({
     run_type: "llm",
     name: "OpenAI Call RunTree",
-    inputs: { prompt },
+    inputs: { historyAwarePrompt },
     project_name: "MyUoY Chatbot Demo",
   });
 
-  const documentChain = await createStuffDocumentsChain({
-    llm: chatModel,
-    prompt,
-  });
-
-  // Create a chain using the document embeddings
-  const retrievalChain = await createRetrievalChain({
-    combineDocsChain: documentChain,
-    retriever,
-  });
-
   // Invoke chain to get answer
-  const result = await retrievalChain.invoke({
+  const result = await conversationalRetrievalChain.invoke({
     input: userQuestion,
   });
 
@@ -75,6 +85,7 @@ async function getChatBotReply(
   rt.end(result);
   await rt.postRun();
 
+  // Return AI anwser
   return result.answer;
 }
 
