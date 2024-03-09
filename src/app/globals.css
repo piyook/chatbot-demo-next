@@ -20,6 +20,8 @@ body {
 
 .ChatPage {
   width: 100%;
+  padding: 0px 10px 0px 10px;
+  color: rgb(66, 66, 66) !important;
 }
 
 .UserInput {

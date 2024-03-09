@@ -14,8 +14,9 @@ async function getChatBotReply(
   userQuestion: string
 ): Promise<string | undefined> {
   // Create a System Template Direction
-  const systemTemplate =
-    "You are a helpful assistant that responds to questions in a friendly and expressive manner. You dont make up answers if you dont know them";
+  const systemTemplate = `You are a friendly, sympathetic, helpful ai that answers questions as descriptively as possible. 
+  You dont make up answers that you dont know the answer to. 
+  Answer ONLY questions based on only the following context: {context}`;
 
   // Create the Chat Prompt
   const humanTemplate = "";
@@ -43,12 +44,7 @@ async function getChatBotReply(
 
   // Create a prompt
   const prompt = ChatPromptTemplate.fromMessages([
-    [
-      "ai",
-      `You are a friendly, helpful ai that answers questions as descriptively as possible. 
-      You dont make up answers that you dont know the answer to. 
-      Answer ONLY questions based on only the following context: {context}`,
-    ],
+    ["ai", systemTemplate],
     ["human", "{input}"],
   ]);
 

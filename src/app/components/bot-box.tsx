@@ -1,23 +1,37 @@
-import React, { useEffect, useRef } from 'react';
+import React, { useEffect, useRef, useState } from "react";
 
 function BotBox({
-	botAnswer,
+  botAnswer,
 }: {
-	readonly botAnswer: string;
+  readonly botAnswer: string;
 }): React.JSX.Element {
-	const botAnswerRef = useRef<HTMLDivElement>(null);
+  const botAnswerRef = useRef<HTMLDivElement>(null);
 
-	useEffect(() => {
-		if (botAnswerRef.current) {
-			botAnswerRef.current.scrollIntoView({ behavior: 'smooth' });
-		}
-	}, [botAnswer]);
+  const [letters, setLetters] = useState<string>("");
 
-	return (
-		<p ref={botAnswerRef} className="BotBox bg-light mb-5">
-			{botAnswer}
-		</p>
-	);
+  useEffect(() => {
+    if (botAnswerRef.current) {
+      botAnswerRef.current.scrollIntoView({ behavior: "smooth" });
+    }
+  }, [botAnswer]);
+
+  useEffect(() => {
+    const letterArray = botAnswer.split("");
+    let newLetterArray: string[] = [];
+
+    for (const [index, letter] of letterArray.entries()) {
+      setTimeout(() => {
+        newLetterArray = [...newLetterArray, letter];
+        setLetters(newLetterArray.join(""));
+      }, index * 30);
+    }
+  }, [botAnswer]);
+
+  return (
+    <p ref={botAnswerRef} className="BotBox bg-light mb-5">
+      {letters}
+    </p>
+  );
 }
 
 export default BotBox;
