@@ -8,25 +8,32 @@ function BotBox({
   const botAnswerRef = useRef<HTMLDivElement>(null);
 
   const [letters, setLetters] = useState<string>("");
-  const [typing, setTyping] = useState(false);
+  const [typing, setTyping] = useState(0);
 
   useEffect(() => {
     if (botAnswerRef.current) {
-      botAnswerRef.current.scrollIntoView({ behavior: "smooth" });
+      botAnswerRef.current.scrollIntoView({
+        behavior: "smooth",
+      });
     }
   }, [botAnswer, typing]);
 
   useEffect(() => {
     const letterArray = botAnswer.split("");
     let newLetterArray: string[] = [];
-    setTyping(true);
+
     for (const [index, letter] of letterArray.entries()) {
       setTimeout(() => {
         newLetterArray = [...newLetterArray, letter];
         setLetters(newLetterArray.join(""));
-        if (index === letterArray.length) {
+        // scroll the box up periodically
+        if (index % 50 === 0) {
+          setTyping(index);
+        }
+
+        if (index + 1 === letterArray.length) {
           // reset typing when completed so that box may be scrolled into view
-          setTyping(false);
+          setTyping(index + 1);
         }
       }, index * 30);
     }

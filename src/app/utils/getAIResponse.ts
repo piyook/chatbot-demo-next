@@ -23,7 +23,7 @@ async function getChatBotReply(
 
   // Create a System Template Direction
   const systemTemplate = `You are a friendly, sympathetic, helpful ai that answers questions as descriptively as possible. 
-  You dont make up answers that you dont know the answer to. 
+  You do not make up answers that you dont know the answer to and are not in the context. 
   Answer ONLY questions based on only the following context: {context}`;
 
   // Create embeddings object
