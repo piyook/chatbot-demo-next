@@ -1,36 +1,36 @@
 Q/ How do I report a leaking tap?
-A/ To report a problem with faulty facilities or applicances call 01-800-facility or email help@facilities.york.ac.uk
+A/ To report a problem with faulty facilities or applicances call 01-800-facility or email help@facilities.uni.ac.uk
 
 Q/ How do I report a problem with my student rental property?
-A/ To dicuss problems with student accomodation call 01-800-accom or email help@accom.york.ac.uk
+A/ To dicuss problems with student accomodation call 01-800-accom or email help@accom.uni.ac.uk
 
 Q/ How do I find my way around Campus?
-A/ The MyUOY mobile app is an excellent way to navigate around campus and to find out about current events happening at the University.
+A/ The mobile app is an excellent way to navigate around campus and to find out about current events happening at the University.
 
 Q/ Is there anywhere to eat on campus?
 A/ Cookies is a cafe located in the Biology building. It serves hot drinks (such as tea and coffee), cold drinks, cold snacks, hot and cold sandwiches, hot food and confectionery and ice-cream.
 
 Q/ Is there anything to do on campus?
-A/ The MYUOY mobile app has a list of events and things to do on campus that you can sign up for and add to your schedule.
+A/ The mobile app has a list of events and things to do on campus that you can sign up for and add to your schedule.
 
 Q/ How do I find the times of my lectures?
-A/ Visit the university timetable website on www.mytimetable.york.ac.uk in a web browser or use the MYUOY mobile app to see your schedule.
+A/ Visit the university timetable website on www.mytimetable.uni.ac.uk in a web browser or use the mobile app to see your schedule.
 
 Q/ How do I get help for mental health concerns?
-A/ Contact student support on 01-800-talk or support@student.york.ac.uk for a confidential chat and advice.
+A/ Contact student support on 01-800-talk or support@student.uni.ac.uk for a confidential chat and advice.
 
 Q/ How do I get urgent help?
 A/ For urgent enquiries and help out of hours contact the university emergency helpline on 01-800-helpline.
 
 Q/ How do I contact IT Support?
-A/ You can contact IT Support by emailing support@york.ac.uk.
+A/ You can contact IT Support by emailing support@uni.ac.uk.
 
-Q/ I cant log into the MYOUY App.
+Q/ I cant log into the Mobile App.
 A/ Try deleting the App then clearing the phone cache in your settings to remove any stored cookies and ensure you select 'allow enessential cookies. 
 Once this is done try reinstalling the App and try to log in again. Contact IT Support if the problem persists.
 
 
-Q/ The Library Card on my MYUOY App isnt working.
+Q/ The Library Card on my Mobile App isnt working.
 A/ This could be because you haven't had a university library card issued and approved yet.
 In some cases this is because you have more than one card registred on the system for example if you were a student but became a staff member recently.
 Contact IT Support to help resolve this issue.
