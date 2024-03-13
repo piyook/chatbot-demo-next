@@ -2,21 +2,31 @@
 @tailwind components;
 @tailwind utilities;
 
-#root {
-    max-width: 800px;
-    margin: 0 auto;
-    text-align: center;
+html {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
     width: 100%;
+    height: 100dvh;
+    margin: 0;
+    padding: 0;
 }
 
 body {
     margin: 0;
+    padding: 0;
     display: flex;
     flex-direction: column;
-    place-items: flex-start;
+    place-items: center;
     min-width: 320px;
-    min-height: 100vh;
+    max-width: 600px;
+    width: 100%;
     background-color: rgb(33, 33, 33) !important;
+    height: 100vh;
+}
+
+.IntroBox {
+    height: 100%;
 }
 
 .ChatPage {
@@ -29,6 +39,7 @@ body {
     width: 90%;
     line-height: 30px;
     border: none;
+    margin-top: 20px;
     padding: 10px;
     align-self: center;
     justify-self: flex-start;

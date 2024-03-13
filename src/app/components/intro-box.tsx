@@ -4,7 +4,7 @@ import { BsRobot } from 'react-icons/bs';
 
 const IntroBox = (): React.JSX.Element => {
     return (
-        <Stack className="IntroBox d-flex flex-column justify-content-center align-items-center vh-100 pt-4 bg-opacity-25 p-1 text-center">
+        <Stack className="IntroBox d-flex flex-column justify-content-center align-items-center pt-4 bg-opacity-25 p-1 text-center">
             <h1 className="display-4 text-light text-center">Hello</h1>
             <h1 className="display-4 text-light text-center">Bonjour</h1>
             <h1 className="display-4 text-light text-center">Hola</h1>
