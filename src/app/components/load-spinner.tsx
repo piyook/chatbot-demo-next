@@ -5,11 +5,20 @@ const LoadSpinner = (): React.JSX.Element => {
     return (
         <div className="LoadSpinner">
             <Spinner
-                animation="border"
+                animation="grow"
                 role="status"
                 className="text-white LoadSpinner__spinner"
             />
-            <h1 className="display-4 text-white">thinking</h1>
+            <Spinner
+                animation="grow"
+                role="status"
+                className="text-white LoadSpinner__spinner"
+            />
+            <Spinner
+                animation="grow"
+                role="status"
+                className="text-white LoadSpinner__spinner"
+            />
         </div>
     );
 };

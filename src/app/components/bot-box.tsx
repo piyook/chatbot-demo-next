@@ -39,7 +39,7 @@ const BotBox = ({
     }, [botAnswer]);
 
     return (
-        <p ref={botAnswerReference} className="BotBox bg-light mb-5">
+        <p ref={botAnswerReference} className="BotBox mb-5">
             {letters}
         </p>
     );
