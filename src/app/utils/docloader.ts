@@ -1,19 +1,19 @@
-"use server";
-import { TextLoader } from "langchain/document_loaders/fs/text";
-import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
+'use server';
+import { TextLoader } from 'langchain/document_loaders/fs/text';
+import { RecursiveCharacterTextSplitter } from 'langchain/text_splitter';
 
-async function splitDocs() {
-  // Create a document splitter object
-  const splitter = new RecursiveCharacterTextSplitter();
+async function splitDocuments() {
+    // Create a document splitter object
+    const splitter = new RecursiveCharacterTextSplitter();
 
-  // Use Cheerio to split upload and embed a document
-  const loader = new TextLoader("./src/app/assets/docs/FAQS.txt");
+    // Use Cheerio to split upload and embed a document
+    const loader = new TextLoader('./src/app/assets/docs/FAQS.txt');
 
-  // load docs using cherio
-  const docs = await loader.load();
+    // Load docs using cherio
+    const documents = await loader.load();
 
-  // split docs using doc splitter
-  return await splitter.splitDocuments(docs);
+    // Split docs using doc splitter
+    return splitter.splitDocuments(documents);
 }
 
-export { splitDocs };
+export { splitDocuments };
