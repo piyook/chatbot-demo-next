@@ -1,22 +1,23 @@
-import type { Metadata } from "next";
-import { Inter } from "next/font/google";
-import "./globals.css";
+import type { Metadata } from 'next';
+import { Inter } from 'next/font/google';
+import './globals.css';
 
-const inter = Inter({ subsets: ["latin"] });
+/* eslint-disable-next-line new-cap */
+const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: "MyUoY Chatbot",
-  description: "Chatbot demo for MyUOY App",
+    title: 'Demo Chatbot',
+    description: 'Chatbot demo for University Website or App',
 };
 
-export default function RootLayout({
-  children,
+const RootLayout = ({
+    children,
 }: Readonly<{
-  children: React.ReactNode;
-}>) {
-  return (
+    children: React.ReactNode;
+}>) => (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+        <body className={inter.className}>{children}</body>
     </html>
-  );
-}
+);
+
+export default RootLayout;

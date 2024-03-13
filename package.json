@@ -1,33 +1,61 @@
 {
-  "name": "myuoy-chatbot-next",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "@langchain/openai": "^0.0.15",
-    "bootstrap": "^5.3.1",
-    "bootswatch": "^5.3.1",
-    "langchain": "^0.1.25",
-    "next": "14.1.3",
-    "react": "^18",
-    "react-bootstrap": "^2.8.0",
-    "react-dom": "^18",
-    "react-icons": "^4.11.0"
-  },
-  "devDependencies": {
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "autoprefixer": "^10.0.1",
-    "eslint": "^8",
-    "eslint-config-next": "14.1.3",
-    "postcss": "^8",
-    "tailwindcss": "^3.3.0",
-    "typescript": "^5"
-  }
+    "name": "chatbot-demo-next",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "xo 'src/**/*.{js,jsx,ts,tsx}'",
+        "lint-fix": "xo 'src/**/*.{js,jsx,ts,tsx}' --fix",
+        "pretty": "prettier 'src/**/*.{js,jsx,ts,tsx,css,scss,md}' --check",
+        "pretty-fix": "prettier 'src/**/*.{js,jsx,ts,tsx,css,scss,md}' --write",
+        "prepare": "husky install",
+        "test": "xo"
+    },
+    "dependencies": {
+        "@langchain/core": "^0.1.44",
+        "@langchain/openai": "^0.0.15",
+        "bootstrap": "^5.3.1",
+        "bootswatch": "^5.3.1",
+        "langchain": "^0.1.25",
+        "langsmith": "^0.1.13",
+        "next": "14.1.3",
+        "react": "^18",
+        "react-bootstrap": "^2.8.0",
+        "react-dom": "^18",
+        "react-icons": "^4.11.0"
+    },
+    "devDependencies": {
+        "@commitlint/cli": "^19.1.0",
+        "@commitlint/config-conventional": "^19.1.0",
+        "@types/node": "^20",
+        "@types/react": "^18",
+        "@types/react-dom": "^18",
+        "autoprefixer": "^10.0.1",
+        "eslint": "^8",
+        "eslint-config-next": "14.1.3",
+        "eslint-config-xo-nextjs": "^6.0.0",
+        "husky": "^8.0.0",
+        "lint-staged": "^15.2.2",
+        "postcss": "^8",
+        "prettier": "3.2.5",
+        "tailwindcss": "^3.3.0",
+        "typescript": "^5",
+        "validate-branch-name": "^1.3.0",
+        "xo": "^0.58.0"
+    },
+    "lint-staged": {
+        "src/**/*.{js,jsx,ts,tsx}": "npx xo",
+        "src/**/*.{js,jsx,ts,tsx,css,scss,md}": "npx prettier --check"
+    },
+    "commitlint": {
+        "extends": [
+            "@commitlint/config-conventional"
+        ]
+    },
+    "validate-branch-name": {
+        "pattern": "^(master|main|develop){1}$|^(feature|fix|hotfix|release|chore)/.+$",
+        "errorMsg": "INVALID BRANCH NAME: use format 'feature|fix|hotfix|release|core/your-branch-name'"
+    }
 }
