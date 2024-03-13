@@ -28,7 +28,7 @@ const BotResponse = ({
 
     return (
         <div className="BotResponse d-flex flex-column justify-content-start align-items-start mb-5">
-            <BsRobot className="BotIcon BotIcon--chat mb-4 text-white bg-warning" />
+            <BsRobot className="BotIcon BotIcon--chat mb-4 text-white bg-primary" />
 
             {botAnswerSentence.map((sentence) => (
                 <BotBox key={sentence.slice(0, 15)} botAnswer={sentence} />

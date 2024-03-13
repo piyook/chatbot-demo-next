@@ -12,7 +12,7 @@ const IntroBox = (): React.JSX.Element => {
             <h1 className="display-4 text-light text-center">你好</h1>
             <h1 className="display-4 text-light text-center">नमस्कार</h1>
             <h1 className="display-4 text-light text-center">Привет</h1>
-            <BsRobot className="BotIcon text-dark" />
+            <BsRobot className="BotIcon bg-primary text-white" />
             <h1 className="display-6 text-primary">How Can I Help You?</h1>
         </Stack>
     );

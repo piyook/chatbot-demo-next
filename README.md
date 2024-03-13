@@ -26,3 +26,5 @@ npm run dev
 ```
 
 The project will be available on http://localhost:3000 in your browser.
+
+Questions can be input in any language and the response will match the language.
