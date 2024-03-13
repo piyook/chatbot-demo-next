@@ -8,31 +8,30 @@ const BotResponse = ({
 }: {
     readonly botAnswer: string;
 }): React.JSX.Element => {
-    // Split array by new lines and filter out any empty lines
-    const BotSentences: string[] = useMemo(
-        () => botAnswer.split(/\r?\n/).filter((item) => item !== ''),
-        [botAnswer],
-    );
-
     const [botAnswerSentence, setBotAnswerSentence] = useState<string[]>([]);
 
-    // Stagger response panes by 1s each rather than show all at once to give illusion of 'typing' responses
     useEffect(() => {
-        for (const [index, sentence] of BotSentences.entries()) {
-            setTimeout(() => {
-                setBotAnswerSentence((previous) => [...previous, sentence]);
-            }, index * 1000);
-            continue;
-        }
-    }, [BotSentences]);
+        setBotAnswerSentence((previous) => [...previous, botAnswer]);
+    }, [botAnswer]);
 
     return (
         <div className="BotResponse d-flex flex-column justify-content-start align-items-start mb-5">
             <BsRobot className="BotIcon BotIcon--chat mb-4 text-white bg-primary" />
 
-            {botAnswerSentence.map((sentence) => (
-                <BotBox key={sentence.slice(0, 15)} botAnswer={sentence} />
-            ))}
+            {botAnswerSentence.map((sentence) => {
+                const splitSentences = (sentence.trim() + ' ').split('. ');
+                return splitSentences.map((splitSentence, sentenceNumber) => {
+                    if (splitSentence === '') return;
+                    return (
+                        <BotBox
+                            key={splitSentence.slice(0, 15)}
+                            botAnswer={splitSentence}
+                            sentenceNumber={sentenceNumber}
+                            splitSentences={splitSentences}
+                        />
+                    );
+                });
+            })}
         </div>
     );
 };
