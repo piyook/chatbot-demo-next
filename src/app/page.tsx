@@ -1,5 +1,5 @@
 'use client';
-import React, { useState, useRef, useEffect } from 'react';
+import React, { useState, useRef } from 'react';
 import 'bootswatch/dist/solar/bootstrap.min.css';
 import LoadSpinner from './components/load-spinner';
 import { uniquishId } from './utils/utils';

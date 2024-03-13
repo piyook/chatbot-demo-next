@@ -11,7 +11,8 @@
         "pretty": "prettier 'src/**/*.{js,jsx,ts,tsx,css,scss,md}' --check",
         "pretty-fix": "prettier 'src/**/*.{js,jsx,ts,tsx,css,scss,md}' --write",
         "prepare": "husky install",
-        "test": "xo"
+        "test": "xo",
+        "nuke": "bash nuke.sh"
     },
     "dependencies": {
         "@langchain/core": "^0.1.44",
@@ -55,7 +56,7 @@
         ]
     },
     "validate-branch-name": {
-        "pattern": "^(master|main|develop){1}$|^(feature|fix|hotfix|release|chore)/.+$",
+        "pattern": "^(master|main|develop){1}$|^(feat|fix|hotfix|release|chore)/.+$",
         "errorMsg": "INVALID BRANCH NAME: use format 'feature|fix|hotfix|release|core/your-branch-name'"
     }
 }

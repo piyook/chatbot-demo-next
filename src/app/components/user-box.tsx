@@ -10,7 +10,7 @@ const UserBox = ({
     return (
         <div className="UserBox d-flex flex-column justify-content-end align-items-end">
             <BiUser className="BotIcon BotIcon--chat mb-4 bg-info text-white" />
-            <p className="UserBox__userOutput bg-light">{userQuestion}</p>
+            <p className="UserBox__userOutput bg-info">{userQuestion}</p>
         </div>
     );
 };
