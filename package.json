@@ -10,7 +10,6 @@
         "lint-fix": "xo 'src/**/*.{js,jsx,ts,tsx}' --fix",
         "pretty": "prettier 'src/**/*.{js,jsx,ts,tsx,css,scss,md}' --check",
         "pretty-fix": "prettier 'src/**/*.{js,jsx,ts,tsx,css,scss,md}' --write",
-        "audit": "better-npm-audit audit",
         "prepare": "husky install",
         "test": "xo"
     },
