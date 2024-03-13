@@ -1,23 +1,28 @@
-# Chatbot Demo using RAG
+# Chatbot Demo using Retrieval Augmented Generation
 
-## Next.JS, Lanchain and OpenAI
+## Next.JS, LangChain and OpenAI
+
+![chatbot-demo-1](https://github.com/piyook/chatbot-demo-next/assets/51154763/de157268-8426-493e-af14-f1ba67c1159c)
+
 
 ### About
 
-The project uses Langchain to build prompt chains and interact with OpenAI using Retrieval Augmented Generation (RAG). Context is imported by splitting a context document, vectorising and embedding in a local store for use with RAG user queries.
-LangSmith can also be used to log calls to OpenAI and the project name is set in the .env.local file under the PROJECT_NAME node process environment variable.
+The project uses LangChain to build prompt chains and interact with OpenAI using Retrieval Augmented Generation (RAG). Context is imported by splitting a context document, vectorising and embedding in a local store for use with RAG user queries.
+LangSmith can also be used to log calls to OpenAI with the appropriate API keys. The project name can be set in the .env.local file using the PROJECT_NAME node process environment variable.
 
 ### Set-up
 
 Clone the project and install dependencies.
 
-Copy **.env.local.example** into a newly created **.env.local** file and insert your API Keys from OPENAI and LangChain (if you want to use LangSmith to track your calls to the OpenAI API).
+Copy **.env.local.example** into a newly created **.env.local** file and insert your API Keys obtained from your OPENAI account and LangChain API Keys fromyour LangChain account (if you want to use LangSmith to track your calls to the OpenAI API).
 
-This is a demo project only and while OpenAI will be contacted using server components (so API keys wont be exposed in browser based client-side components), production code would need greater secrets protection such as injecting keys using Github Actions and Github secrets or for cloud deployments using secret managers such as AWS secrets manager.
+This is a demo project only and while OpenAI will be contacted using server components (so API keys wont be exposed in browser based client-side components), production code would need better secrets protection (such as injecting keys using Github Secrets and Actions or for cloud deployments using secret managers such as AWS Secrets Manager).
 
 ### Using
 
-The assets/docs/FAQ.txt provides context information for requests to OPENAI - this can be modified to add any context you wish the chatbot to be knowlegable about. The AI System prompt specifies that the answers will be limited to only those within the context.
+https://github.com/piyook/chatbot-demo-next/assets/51154763/dd64f0a1-8ace-488f-9b12-dd0f448d1bdc
+
+The assets/docs/FAQ.txt provides context information for requests to OPENAI - this can be modified to add any context you wish the chatbot to be knowlegable about. The AI System prompt specifies that the answers will be limited to only those within the context. For the purposes of the demo a limited amount of fictional information is provided.
 
 Start the project using
 
