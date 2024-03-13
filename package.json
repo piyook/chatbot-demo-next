@@ -55,7 +55,7 @@
         ]
     },
     "validate-branch-name": {
-        "pattern": "^(master|main|develop){1}$|^(feature|fix|hotfix|release|chore)/.+$",
+        "pattern": "^(master|main|develop){1}$|^(feat|fix|hotfix|release|chore)/.+$",
         "errorMsg": "INVALID BRANCH NAME: use format 'feature|fix|hotfix|release|core/your-branch-name'"
     }
 }
