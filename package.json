@@ -11,7 +11,8 @@
         "pretty": "prettier 'src/**/*.{js,jsx,ts,tsx,css,scss,md}' --check",
         "pretty-fix": "prettier 'src/**/*.{js,jsx,ts,tsx,css,scss,md}' --write",
         "prepare": "husky install",
-        "test": "xo"
+        "test": "xo",
+        "nuke": "bash nuke.sh"
     },
     "dependencies": {
         "@langchain/core": "^0.1.44",

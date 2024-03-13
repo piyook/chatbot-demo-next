@@ -4,7 +4,6 @@
 
 ![chatbot-demo-1](https://github.com/piyook/chatbot-demo-next/assets/51154763/de157268-8426-493e-af14-f1ba67c1159c)
 
-
 ### About
 
 The project uses LangChain to build prompt chains and interact with OpenAI using Retrieval Augmented Generation (RAG). Context is imported by splitting a context document, vectorising and embedding in a local store for use with RAG user queries.
@@ -33,3 +32,9 @@ npm run dev
 The project will be available on http://localhost:3000 in your browser.
 
 Questions can be input in any language and the response will match the language.
+
+To tear down and rebuild project run
+
+```bash
+npm run nuke
+```
