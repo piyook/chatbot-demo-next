@@ -72,7 +72,7 @@ async function getChatBotReply(
         run_type: 'llm',
         name: 'OpenAI Call RunTree',
         inputs: { historyAwarePrompt },
-        project_name: 'Chatbot Demo',
+        project_name: process.env?.PROJECT_NAME ?? 'demo',
     });
 
     // Invoke chain to get answer

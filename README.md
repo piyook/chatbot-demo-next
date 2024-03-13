@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Chatbot Demo using RAG
 
-## Getting Started
+## Next.JS, Lanchain and OpenAI
 
-First, run the development server:
+### About
+
+The project uses Langchain to build prompt chains and interact with OpenAI using Retrieval Augmented Generation (RAG). Context is imported by splitting a context document, vectorising and embedding in a local store for use with RAG user queries.
+LangSmith can also be used to log calls to OpenAI and the project name is set in the .env.local file under the PROJECT_NAME node process environment variable.
+
+### Set-up
+
+Clone the project and install dependencies.
+
+Copy **.env.local.example** into a newly created **.env.local** file and insert your API Keys from OPENAI and LangChain (if you want to use LangSmith to track your calls to the OpenAI API).
+
+This is a demo project only and while OpenAI will be contacted using server components (so API keys wont be exposed in browser based client-side components), production code would need greater secrets protection such as injecting keys using Github Actions and Github secrets or for cloud deployments using secret managers such as AWS secrets manager.
+
+### Using
+
+The assets/docs/FAQ.txt provides context information for requests to OPENAI - this can be modified to add any context you wish the chatbot to be knowlegable about. The AI System prompt specifies that the answers will be limited to only those within the context.
+
+Start the project using
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The project will be available on http://localhost:3000 in your browser.
