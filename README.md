@@ -1,4 +1,4 @@
-# Chatbot Demo using Retrieval Augmented Generation
+# LLM Chatbot with Retrieval Augmented Generation using LangChain and OpenAI
 
 ## Next.JS, LangChain and OpenAI
 
