@@ -61,6 +61,7 @@ const App = (): React.JSX.Element => {
                 className="UserInput text-dark fw-bold"
                 type="text"
                 placeholder=">"
+                role="userInput"
                 onKeyUp={submitHandler}
             />
         </>

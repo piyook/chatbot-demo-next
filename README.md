@@ -21,7 +21,7 @@ This is a demo project only and while OpenAI will be contacted using server comp
 
 https://github.com/piyook/chatbot-demo-next/assets/51154763/90e970c5-83e5-4e16-a5f4-282c311fe866
 
-The assets/docs/FAQ.txt provides context information for requests to OPENAI - this can be modified to add any context you wish the chatbot to be knowlegable about. The AI System prompt specifies that the answers will be limited to only those within the context. For the purposes of the demo a limited amount of fictional information is provided.
+The assets/docs/FAQ.txt provides contextual information for requests to OpenAI - this can be modified to add any context you wish the chatbot to be knowlegable about. The AI System prompt specifies that the answers will be limited to only those within the context. For the purposes of the demo a limited amount of fictional information is provided.
 
 Start the project using
 
@@ -32,6 +32,8 @@ npm run dev
 The project will be available on http://localhost:3000 in your browser.
 
 Questions can be input in any language and the response will match the language.
+
+Bot response typing speed can be set in the .env.local using the NEXT_PUBLIC_TYPING_SPEED_MS variable with character typing delay in ms - the default value is 30ms.
 
 To tear down and rebuild project run
 

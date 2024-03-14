@@ -8,7 +8,10 @@ const UserBox = ({
     readonly userQuestion: string;
 }): React.JSX.Element => {
     return (
-        <div className="UserBox d-flex flex-column justify-content-end align-items-end">
+        <div
+            className="UserBox d-flex flex-column justify-content-end align-items-end"
+            role="userQuery"
+        >
             <BiUser className="BotIcon BotIcon--chat mb-4 bg-info text-white" />
             <p className="UserBox__userOutput bg-info">{userQuestion}</p>
         </div>
