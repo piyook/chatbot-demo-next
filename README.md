@@ -19,7 +19,7 @@ This is a demo project only and while OpenAI will be contacted using server comp
 
 ### Using
 
-https://github.com/piyook/chatbot-demo-next/assets/51154763/dd64f0a1-8ace-488f-9b12-dd0f448d1bdc
+https://github.com/piyook/chatbot-demo-next/assets/51154763/90e970c5-83e5-4e16-a5f4-282c311fe866
 
 The assets/docs/FAQ.txt provides context information for requests to OPENAI - this can be modified to add any context you wish the chatbot to be knowlegable about. The AI System prompt specifies that the answers will be limited to only those within the context. For the purposes of the demo a limited amount of fictional information is provided.
 
