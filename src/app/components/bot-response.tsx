@@ -16,7 +16,10 @@ const BotResponse = ({
     }, [botAnswer]);
 
     return (
-        <div className="BotResponse d-flex flex-column justify-content-start align-items-start mb-5">
+        <div
+            className="BotResponse d-flex flex-column justify-content-start align-items-start mb-5"
+            role="botResponse"
+        >
             <BsRobot className="BotIcon BotIcon--chat mb-4 text-white bg-primary" />
 
             {botAnswerSentence.map((sentence) => {

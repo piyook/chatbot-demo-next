@@ -68,7 +68,11 @@ const BotBox = ({
     return (
         <>
             {letters && (
-                <p ref={botAnswerReference} className="BotBox mb-5 bg-primary">
+                <p
+                    ref={botAnswerReference}
+                    className="BotBox mb-5 bg-primary"
+                    role="botSentence"
+                >
                     {letters}
                 </p>
             )}
