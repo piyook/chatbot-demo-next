@@ -30,7 +30,7 @@ const BotBox = ({
         const delay = splitSentences.reduce(
             (accumulator, currentValue, currentIndex) => {
                 if (currentIndex < sentenceNumber) {
-                    return 500 + accumulator + currentValue.length * 30;
+                    return 200 + accumulator + currentValue.length * 30;
                 }
 
                 return accumulator;
@@ -50,7 +50,6 @@ const BotBox = ({
 
                     if (index + 1 === arrayOfLetters.length) {
                         // Reset typing when completed so that box may be scrolled into view
-                        setLetters(botAnswer + '.');
                         setTyping(index + 1);
                     }
                 },

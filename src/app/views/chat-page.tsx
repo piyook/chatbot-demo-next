@@ -23,7 +23,7 @@ const ChatPage = ({ chatItems }: ChatPageProperties): React.JSX.Element => {
                 return (
                     <div key={item.id} className="ChatPage__responseSection">
                         <UserBox userQuestion={item.question} />
-                        <BotResponse botAnswer={item.answer} />
+                        <BotResponse botAnswer={item.answer} id={item.id} />
                     </div>
                 );
             })}

@@ -1,12 +1,13 @@
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useEffect, memo } from 'react';
 import { BsRobot } from 'react-icons/bs';
-import { uniquishId } from '../utils/utils';
 import BotBox from './bot-box';
 
 const BotResponse = ({
     botAnswer,
+    id,
 }: {
     readonly botAnswer: string;
+    readonly id: string | undefined;
 }): React.JSX.Element => {
     const [botAnswerSentence, setBotAnswerSentence] = useState<string[]>([]);
 
@@ -24,7 +25,7 @@ const BotResponse = ({
                     if (splitSentence === '') return;
                     return (
                         <BotBox
-                            key={splitSentence.slice(0, 15)}
+                            key={id + splitSentence.slice(0, 15)}
                             botAnswer={splitSentence}
                             sentenceNumber={sentenceNumber}
                             splitSentences={splitSentences}
@@ -36,4 +37,4 @@ const BotResponse = ({
     );
 };
 
-export default BotResponse;
+export default memo(BotResponse);
