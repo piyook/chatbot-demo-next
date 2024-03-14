@@ -1,12 +1,13 @@
-# LLM Chatbot with Retrieval Augmented Generation using LangChain and OpenAI
+# Specialised Chatbot
 
-## Next.JS, LangChain and OpenAI
+### LLM Retrieval Augmented Generation using LangChain and OpenAI in NextJS
 
 ![chatbot-demo-1](https://github.com/piyook/chatbot-demo-next/assets/51154763/de157268-8426-493e-af14-f1ba67c1159c)
 
 ### About
 
-The project uses LangChain to build prompt chains and interact with OpenAI using Retrieval Augmented Generation (RAG). Context is imported by splitting a context document, vectorising and embedding in a local store for use with RAG user queries.
+The project uses LangChain to build prompt chains and interact with OpenAI using Retrieval Augmented Generation (RAG). Context is imported by splitting a **_reference document_** containing information the chatbot should know, and vectorising and embedding this in a local store for use with RAG user queries. Chat history is enabled to allow follow up questions.
+
 LangSmith can also be used to log calls to OpenAI with the appropriate API keys. The project name can be set in the .env.local file using the PROJECT_NAME node process environment variable.
 
 ### Set-up
