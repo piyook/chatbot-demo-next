@@ -10,6 +10,11 @@ const BotBox = ({
     readonly sentenceNumber: number;
     readonly splitSentences: string[];
 }): React.JSX.Element => {
+    const typingSpeed = Number.parseInt(
+        process.env.NEXT_PUBLIC_TYPING_SPEED_MS ?? '30',
+        10,
+    );
+
     const botAnswerReference = useRef<HTMLDivElement>(null);
 
     const [letters, setLetters] = useState<string>('');
@@ -30,7 +35,9 @@ const BotBox = ({
         const delay = splitSentences.reduce(
             (accumulator, currentValue, currentIndex) => {
                 if (currentIndex < sentenceNumber) {
-                    return 200 + accumulator + currentValue.length * 30;
+                    return (
+                        200 + accumulator + currentValue.length * typingSpeed
+                    );
                 }
 
                 return accumulator;
@@ -53,10 +60,10 @@ const BotBox = ({
                         setTyping(index + 1);
                     }
                 },
-                index * 30 + delay,
+                index * typingSpeed + delay,
             );
         }
-    }, [botAnswer, sentenceNumber, splitSentences]);
+    }, [botAnswer, sentenceNumber, splitSentences, typingSpeed]);
 
     return (
         <>
