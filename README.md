@@ -1,12 +1,12 @@
-# Specialised Chatbot
+# A Subject Specialised Chatbot
 
-### LLM Retrieval Augmented Generation using LangChain and OpenAI in NextJS
+### LLM Retrieval Augmented Generation using LangChain and OpenAI in NextJS/React
 
 ![chatbot-demo-1](https://github.com/piyook/chatbot-demo-next/assets/51154763/de157268-8426-493e-af14-f1ba67c1159c)
 
 ### About
 
-The project uses LangChain to build prompt chains and interact with OpenAI using Retrieval Augmented Generation (RAG). Context is imported by splitting a **_reference document_** containing information the chatbot should know, and vectorising and embedding this in a local store for use with RAG user queries. Chat history is enabled to allow follow up questions.
+The project uses LangChain to build prompt chains and interact with OpenAI using Retrieval Augmented Generation (RAG). Context is imported by splitting a **_reference document_** containing information on a subject the chatbot should know about, and vectorising and embedding this in a local store for use with RAG user queries. Chat history is enabled to allow follow up questions.
 
 LangSmith can also be used to log calls to OpenAI with the appropriate API keys. The project name can be set in the .env.local file using the PROJECT_NAME node process environment variable.
 
@@ -14,9 +14,9 @@ LangSmith can also be used to log calls to OpenAI with the appropriate API keys.
 
 Clone the project and install dependencies.
 
-Copy **.env.local.example** into a newly created **.env.local** file and insert your API Keys obtained from your OPENAI account and LangChain API Keys fromyour LangChain account (if you want to use LangSmith to track your calls to the OpenAI API).
+Copy **.env.local.example** into a newly created **.env.local** file placed in the same project root folder. Insert your API Keys obtained from your OPENAI account and LangChain API Keys fromyour LangChain account (if you want to use LangSmith to track your calls to the OpenAI API).
 
-This is a demo project only and while OpenAI will be contacted using server components (so API keys wont be exposed in browser based client-side components), production code would need better secrets protection (such as injecting keys using Github Secrets and Actions or for cloud deployments using secret managers such as AWS Secrets Manager).
+This is a demo project only and while OpenAI will be contacted using React server components (so API keys wont be exposed in browser based client-side components), production code would need better secrets protection (such as injecting keys using Github Secrets and Actions or for cloud deployments using secret managers such as AWS Secrets Manager).
 
 ### Using
 
