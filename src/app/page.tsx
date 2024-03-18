@@ -33,7 +33,10 @@ const App = (): React.JSX.Element => {
 
         setIsLoading(true);
 
-        const OaiAnswer = await getChatBotReply(inputData.current.value);
+        const OaiAnswer = await getChatBotReply({
+            userQuestion: inputData.current.value,
+            history: chatItems,
+        });
         // Reset input to empty
         inputData.current.value = '';
 
