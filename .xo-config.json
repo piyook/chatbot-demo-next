@@ -5,6 +5,9 @@
         "import/extensions": 0,
         "n/file-extension-in-import": 0,
         "n/prefer-global/process": 0,
-        "unicorn/no-array-reduce": 0
+        "unicorn/no-array-reduce": 0,
+        "@typescript-eslint/naming-convention": 0,
+        "@typescript-eslint/no-dynamic-delete": 0,
+        "no-await-in-loop": 0
     }
 }
