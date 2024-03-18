@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/naming-convention */
 'use server';
 import { ChatOpenAI, OpenAIEmbeddings } from '@langchain/openai';
 import {
@@ -10,20 +9,49 @@ import { createStuffDocumentsChain } from 'langchain/chains/combine_documents';
 import { createRetrievalChain } from 'langchain/chains/retrieval';
 import { RunTree } from 'langsmith';
 import { createHistoryAwareRetriever } from 'langchain/chains/history_aware_retriever';
+import { AIMessage, HumanMessage } from '@langchain/core/messages';
 import { splitDocuments } from './docloader';
+import { CustomChatMessageHistory } from './chat-history';
 
-async function getChatBotReply(
-    userQuestion: string,
-): Promise<string | undefined> {
+type chatBotProperties = {
+    userQuestion: string;
+    history: Array<{
+        id: string | undefined;
+        question: string | undefined;
+        answer: string | undefined;
+    }>;
+};
+
+async function getChatBotReply({
+    userQuestion,
+    history,
+}: chatBotProperties): Promise<string | undefined> {
     // Initiate an openAI object
     const chatModel = new ChatOpenAI({
         openAIApiKey: process.env.OPENAI_API_KEY,
     });
 
+    // Set up in-memory history and populate with previous questions and answers since we are running in a browser we cant persist
+    const chat_store = new CustomChatMessageHistory({ sessionId: 'test' });
+
+    for (const item of history) {
+        try {
+            await chat_store.addMessages([
+                new HumanMessage(item.question ?? ''),
+                new AIMessage(item.answer ?? ''),
+            ]);
+        } catch {
+            throw new Error('Error building history');
+        }
+    }
+
+    // Retrieve chat history
+    const chat_history = await chat_store.getMessages();
+
     // Create a System Template Direction
     const systemTemplate = `You are a friendly, sympathetic, helpful ai that answers questions as descriptively as possible. 
-  You do not make up answers that you dont know the answer to and are not in the context. 
-  Answer ONLY questions based on only the following context: {context}`;
+    You do not make up answers that you dont know the answer to and are not in the context. 
+    Answer ONLY questions based on only the following context: {context}`;
 
     // Create embeddings object
     const embeddings = new OpenAIEmbeddings({
@@ -75,9 +103,11 @@ async function getChatBotReply(
         project_name: process.env?.PROJECT_NAME ?? 'demo',
     });
 
-    // Invoke chain to get answer
+    // Invoke chain to get answer supplying input, context and chat history
     const result = await conversationalRetrievalChain.invoke({
         input: userQuestion,
+        chat_history,
+        context: myContext,
     });
 
     // End and submit the run
