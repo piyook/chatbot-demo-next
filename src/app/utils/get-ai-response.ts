@@ -12,6 +12,7 @@ import { createHistoryAwareRetriever } from 'langchain/chains/history_aware_retr
 import { AIMessage, HumanMessage } from '@langchain/core/messages';
 import { splitDocuments } from './docloader';
 import { CustomChatMessageHistory } from './chat-history';
+import { sanitiseInput } from './utils';
 
 type chatBotProperties = {
     userQuestion: string;
@@ -37,7 +38,7 @@ async function getChatBotReply({
     for (const item of history) {
         try {
             await chat_store.addMessages([
-                new HumanMessage(item.question ?? ''),
+                new HumanMessage(sanitiseInput(item.question)),
                 new AIMessage(item.answer ?? ''),
             ]);
         } catch {
@@ -50,8 +51,8 @@ async function getChatBotReply({
 
     // Create a System Template Direction
     const systemTemplate = `You are a friendly, sympathetic, helpful ai that answers questions as descriptively as possible. 
-    You do not make up answers that you dont know the answer to and are not in the context. 
-    Answer ONLY questions based on only the following context: {context}`;
+    You do not make up answers that you dont know the answer to. You do not answer questions outside of the provided context.
+    Only answer questions based on only the following context: {context}`;
 
     // Create embeddings object
     const embeddings = new OpenAIEmbeddings({
@@ -105,7 +106,7 @@ async function getChatBotReply({
 
     // Invoke chain to get answer supplying input, context and chat history
     const result = await conversationalRetrievalChain.invoke({
-        input: userQuestion,
+        input: sanitiseInput(userQuestion),
         chat_history,
         context: myContext,
     });
