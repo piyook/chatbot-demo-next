@@ -19,5 +19,5 @@ export const sanitiseInput = (userQuestion: string | undefined) => {
     // Remove the word 'context' to prevent context switching and any non-allowed characters
     return userQuestion
         .replace('context', '')
-        .replaceAll(/[^a-zA-Z\d?!'"`\s]/g, '');
+        .replaceAll(/[^a-zA-Z\d?!'"`,.\s]/g, '');
 };
