@@ -70,7 +70,7 @@ const BotBox = ({
             {letters && (
                 <p
                     ref={botAnswerReference}
-                    className="BotBox mb-5 bg-primary"
+                    className="botBox mb-5 bg-primary"
                     role="botSentence"
                 >
                     {letters}

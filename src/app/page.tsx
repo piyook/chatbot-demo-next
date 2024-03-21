@@ -61,7 +61,7 @@ const App = (): React.JSX.Element => {
             <ChatPage chatItems={chatItems} />
             <input
                 ref={inputData}
-                className="UserInput text-dark fw-bold"
+                className="userInput text-dark fw-bold"
                 type="text"
                 placeholder=">"
                 role="userInput"

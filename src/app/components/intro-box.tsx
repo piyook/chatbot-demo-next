@@ -5,7 +5,7 @@ import { BsRobot } from 'react-icons/bs';
 const IntroBox = (): React.JSX.Element => {
     return (
         <Stack
-            className="IntroBox d-flex flex-column justify-content-center align-items-center pt-4 bg-opacity-25 p-1 text-center"
+            className="introBox d-flex flex-column justify-content-center align-items-center pt-4 bg-opacity-25 p-1 text-center"
             role="greeting"
         >
             <h1 className="display-4 text-light text-center">Hello</h1>
@@ -15,7 +15,7 @@ const IntroBox = (): React.JSX.Element => {
             <h1 className="display-4 text-light text-center">你好</h1>
             <h1 className="display-4 text-light text-center">नमस्कार</h1>
             <h1 className="display-4 text-light text-center">Привет</h1>
-            <BsRobot className="BotIcon bg-primary text-white" />
+            <BsRobot className="botIcon bg-primary text-white" />
             <h1 className="display-6 text-primary">How Can I Help You?</h1>
         </Stack>
     );
