@@ -3,21 +3,21 @@ import { Spinner } from 'react-bootstrap';
 
 const LoadSpinner = (): React.JSX.Element => {
     return (
-        <div className="LoadSpinner">
+        <div className="loadSpinner">
             <Spinner
                 animation="grow"
                 role="status"
-                className="text-white LoadSpinner__spinner"
+                className="text-white loadSpinner__spinner"
             />
             <Spinner
                 animation="grow"
                 role="status"
-                className="text-white LoadSpinner__spinner"
+                className="text-white loadSpinner__spinner"
             />
             <Spinner
                 animation="grow"
                 role="status"
-                className="text-white LoadSpinner__spinner"
+                className="text-white loadSpinner__spinner"
             />
         </div>
     );

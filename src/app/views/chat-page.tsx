@@ -4,7 +4,7 @@ import UserBox from '../components/user-box';
 import BotResponse from '../components/bot-response';
 import IntroBox from '../components/intro-box';
 
-type ChatPageProperties = {
+type chatPageProperties = {
     readonly chatItems: Array<{
         id: string | undefined;
         question: string | undefined;
@@ -12,9 +12,9 @@ type ChatPageProperties = {
     }>;
 };
 
-const ChatPage = ({ chatItems }: ChatPageProperties): React.JSX.Element => {
+const chatPage = ({ chatItems }: chatPageProperties): React.JSX.Element => {
     return (
-        <Stack className="ChatPage mt-5" role="chatPage">
+        <Stack className="chatPage mt-5" role="chatPage">
             <IntroBox />
             {chatItems.map((item) => {
                 if (item.question === undefined || item.answer === undefined)
@@ -23,7 +23,7 @@ const ChatPage = ({ chatItems }: ChatPageProperties): React.JSX.Element => {
                 return (
                     <div
                         key={item.id}
-                        className="ChatPage__responseSection"
+                        className="chatPage__responseSection"
                         role="responseDisplay"
                     >
                         <UserBox userQuestion={item.question} />
@@ -35,4 +35,4 @@ const ChatPage = ({ chatItems }: ChatPageProperties): React.JSX.Element => {
     );
 };
 
-export default ChatPage;
+export default chatPage;
