@@ -20,7 +20,7 @@ Clone the project and install dependencies.
 
 Copy **.env.local.example** into a newly created **.env.local** file placed in the same project root folder. Insert your API Keys obtained from your OPENAI account and LangChain API Keys fromyour LangChain account (if you want to use LangSmith to track your calls to the OpenAI API).
 
-This is a demo project only and while OpenAI will be contacted using React server components (so API keys wont be exposed in browser based client-side components), production code would need better secrets protection (such as injecting keys using Github Secrets and Actions or for cloud deployments using secret managers such as AWS Secrets Manager).
+This is a demo project only and while OpenAI will be contacted using React server actions (so API keys wont be exposed in browser based client-side components), production code would need better secrets protection (such as injecting keys using Github Secrets and Actions or for cloud deployments using secret managers such as AWS Secrets Manager).
 
 ### Using
 
