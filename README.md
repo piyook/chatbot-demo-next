@@ -6,6 +6,10 @@
 
 ### About
 
+This is a simple demo project using LangChain, ChatGPT and NextJS to create a specialised Chatbot. In a real app, the chatbot would be located in a movable/collapsible/scrollable chat window with an improved UI.
+
+The project also uses the mock LLM server running in docker for making rapid development changes without incurring costs in chatGPT and ability to work offline- see later.
+
 The project uses LangChain to build prompt chains and interact with OpenAI using Retrieval Augmented Generation (RAG). Context is imported by splitting a **_reference document_** containing information on a subject the chatbot should know about, and vectorising and embedding this in a local store for use with RAG user queries. Chat history is enabled to allow follow up questions.
 
 LangSmith can also be used to log calls to OpenAI with the appropriate API keys. The project name can be set in the .env.local file using the PROJECT_NAME node process environment variable.
@@ -41,3 +45,21 @@ To tear down and rebuild project run
 ```bash
 npm run nuke
 ```
+
+### Mock Development Server
+
+The project can use our mock LLM server - see https://github.com/piyook/llm-mock
+
+To use the server, clone the Mock LLM Project above, follow the README and start the docker container with the desired settings.
+
+In THIS project, modify the .env.local file and add the environment variables below assuming the mock LLM default port is used.
+
+```bash
+DEV_MODE=true
+DEV_BASE_URL=http://localhost:8001/chatgpt
+```
+
+By setting the DEV_MODE to true, ALL chatGPT requests will be sent to the mock LLM server which will return either random length LOREM IPSUM or STORED responses depending on the settings in the LLM Mock. These responses will be sent whatever the input to the LLM and will not use openAI for either requests or embeddings (embeddings requests are also mocked out when the DEV_MODE is on) and so wont incur costs (or need an openAI account or even an internet connection).
+LangSmith is also bypassed when using DEV_MODE but LLM requests can be viewed at the LLM Mock Logs endpoint (see README)
+
+Set DEV_MODE back to false to use OpenAI ChatGPT endpoints as normal.
