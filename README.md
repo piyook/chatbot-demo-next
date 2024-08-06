@@ -48,7 +48,7 @@ npm run nuke
 
 ### Mock Development Server
 
-The project can use our mock LLM server - see https://github.com/piyook/llm-mock
+The project can use a mock LLM server - see https://github.com/piyook/llm-mock
 
 To use the server, clone the Mock LLM Project above, follow the README and start the docker container with the desired settings.
 
@@ -59,7 +59,10 @@ DEV_MODE=true
 DEV_BASE_URL=http://localhost:8001/chatgpt
 ```
 
-By setting the DEV_MODE to true, ALL chatGPT requests will be sent to the mock LLM server which will return either random length LOREM IPSUM or STORED responses depending on the settings in the LLM Mock. These responses will be sent whatever the input to the LLM and will not use openAI for either requests or embeddings (embeddings requests are also mocked out when the DEV_MODE is on) and so wont incur costs (or need an openAI account or even an internet connection).
+By setting the DEV_MODE to true, ALL chatGPT requests will be sent to the mock LLM server which will return either random length LOREM IPSUM or STORED responses depending on the settings in the LLM Mock. 
+
+These responses will be sent whatever the input to the LLM and will not use openAI for either requests or embeddings (embeddings requests are also mocked out when the DEV_MODE is on) and so wont incur costs (or need an openAI account or even an internet connection).  
+
 LangSmith is also bypassed when using DEV_MODE but LLM requests can be viewed at the LLM Mock Logs endpoint (see README)
 
 Set DEV_MODE back to false to use OpenAI ChatGPT endpoints as normal.
