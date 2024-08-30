@@ -9,6 +9,7 @@ import { createStuffDocumentsChain } from 'langchain/chains/combine_documents';
 import { createRetrievalChain } from 'langchain/chains/retrieval';
 import { RunTree } from 'langsmith';
 import { createHistoryAwareRetriever } from 'langchain/chains/history_aware_retriever';
+import { FakeEmbeddings } from 'langchain/embeddings/fake';
 import { AIMessage, HumanMessage } from '@langchain/core/messages';
 import { splitDocuments } from './docloader';
 import { CustomChatMessageHistory } from './chat-history';
@@ -27,9 +28,17 @@ async function getChatBotReply({
     userQuestion,
     history,
 }: chatBotProperties): Promise<string | undefined> {
-    // Initiate an openAI object
+    let rt = null;
+    // Initiate an openAI object using local mock environment if dev mode is set to true
     const chatModel = new ChatOpenAI({
         openAIApiKey: process.env.OPENAI_API_KEY,
+        modelName: 'gpt-4o-mini',
+        configuration:
+            process.env.DEV_MODE === 'true'
+                ? {
+                      baseURL: process.env.DEV_BASE_URL,
+                  }
+                : {},
     });
 
     // Set up in-memory history and populate with previous questions and answers since we are running in a browser we cant persist
@@ -54,10 +63,20 @@ async function getChatBotReply({
     You do not make up answers that you dont know the answer to. You do not answer questions outside of the provided context.
     Only answer questions based on only the following context: {context}`;
 
-    // Create embeddings object
-    const embeddings = new OpenAIEmbeddings({
-        openAIApiKey: process.env.OPENAI_API_KEY,
-    });
+    // Create embeddings object and use a fake one if dev mode is set to true to prevent cost of using OpenAI
+
+    let embeddings;
+
+    if (process.env.DEV_MODE === 'true') {
+        embeddings = new FakeEmbeddings();
+        console.log(
+            `WARNING: DEV MODE IS ON. Using fake embeddings and localhost mock server on ${process.env?.DEV_BASE_URL}`,
+        );
+    } else {
+        embeddings = new OpenAIEmbeddings({
+            openAIApiKey: process.env.OPENAI_API_KEY,
+        });
+    }
 
     const myContext = await splitDocuments();
 
@@ -96,14 +115,6 @@ async function getChatBotReply({
         combineDocsChain: historyAwareCombineDocumentsChain,
     });
 
-    // Send metrics to Langsmith
-    const rt = new RunTree({
-        run_type: 'llm',
-        name: 'OpenAI Call RunTree',
-        inputs: { historyAwarePrompt },
-        project_name: process.env?.PROJECT_NAME ?? 'demo',
-    });
-
     // Invoke chain to get answer supplying input, context and chat history
     const result = await conversationalRetrievalChain.invoke({
         input: sanitiseInput(userQuestion),
@@ -111,13 +122,23 @@ async function getChatBotReply({
         context: myContext,
     });
 
-    // End and submit the run
+    // Submit metrics to LangSmith
 
-    try {
-        await rt.end(result);
-        await rt.postRun();
-    } catch {
-        console.log('Error logging to LangSmith API');
+    if (!(process.env?.DEV_MODE === 'true')) {
+        console.log('Sending metrics to Langsmith');
+        rt = new RunTree({
+            run_type: 'llm',
+            name: 'OpenAI Call RunTree',
+            inputs: { historyAwarePrompt },
+            project_name: process.env?.PROJECT_NAME ?? 'demo',
+        });
+
+        try {
+            await rt.end(result);
+            await rt.postRun();
+        } catch {
+            console.log('Error logging to LangSmith API');
+        }
     }
 
     // Return AI anwser
