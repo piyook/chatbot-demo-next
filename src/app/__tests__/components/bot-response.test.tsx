@@ -25,7 +25,7 @@ describe('bot-response component tests', () => {
 
         // Need to mock out the scroll into view function to prevent error in component
         /* eslint-disable-next-line @typescript-eslint/no-empty-function */
-        window.HTMLElement.prototype.scrollIntoView = function () {};
+        globalThis.HTMLElement.prototype.scrollIntoView = function () {};
 
         expect(screen.getByRole('botResponse')).toBeDefined();
 

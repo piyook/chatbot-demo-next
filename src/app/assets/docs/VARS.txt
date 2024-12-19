@@ -1,0 +1,5105 @@
+A.	ADMINISTRATIVE CHANGES
+
+A.1 Change in the name and/or address of the marketing 
+authorisation holder
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+1
+1, 2
+IAIN
+Conditions
+1.	The marketing authorisation holder must remain the same legal entity.
+
+Documentation
+1.	A formal document from a relevant official body (e.g. Chamber of Commerce) in which the new name or new 
+address is mentioned.
+2.	Revised product information.
+
+A.2 Change in the (invented) name of the medicinal 
+product
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) for Centrally Authorised products
+1
+1, 2
+IAIN
+b) for Nationally Authorised Products
+
+2
+IB
+Conditions
+1.	The check by the EMA on the acceptability of the new name has been finalised and was positive.
+
+Documentation
+1.	Copy of the EMA letter of acceptance of the new (invented) name.
+2.	Revised product information.
+
+A.3 Change in name of the active substance or of an 
+excipient
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+1, 2
+1, 2
+IAIN
+Conditions
+1.	The active substance/excipient must remain the same.
+2.	For veterinary medicinal products for food-producing species, the new name has been published in Regulation 
+(EC) No 470/2009 of the European Parliament and of the Council of 6 May 2009 laying down Community 
+procedures for the establishment of residue limits of pharmacologically active substances in foodstuffs of animal 
+origin, repealing Council Regulation (EEC) No 2377/90 and amending Directive 2001/82/EC of the European 
+Parliament and of the Council and Regulation (EC) No 726/2004 of the European Parliament and of the Council 
+before implementation of this change.
+
+Documentation
+1.	Proof of acceptance by WHO or copy of the INN list. If applicable, proof that the change is in line with the Ph. 
+Eur. For herbal medicinal product, declaration that the name is in accordance with the Note for Guidance on 
+Quality of Herbal Medicinal Products, and with the guideline on declaration of herbal substances and herbal 
+preparations in (traditional) herbal medicinal products.
+2.	Revised product information
+
+A.4 Change in the name and/or address of: a manu 
+facturer (including where relevant quality control 
+testing sites); or an ASMF holder; or a supplier of the 
+active substance, starting material, reagent or inter 
+mediate used in the manufacture of the active 
+substance (where specified in the technical dossier) 
+where no Ph. Eur. Certificate of Suitability is part of 
+the approved dossier; or a manufacturer of a novel 
+excipient (where specified in the technical dossier)
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+1
+1, 2, 3
+IA
+
+
+
+ 
+Conditions
+1.	The manufacturing site and all manufacturing operations must remain the same.
+
+Documentation
+1.	A formal document from a relevant official body (e.g. Chamber of Commerce) in which the new name and/or 
+address is mentioned.
+2.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+3.	In case of change in the name of the holder of the Active Substance Master File holder, updated 'letter of access'.
+
+A.5 Change in the name and/or address of a manufac 
+turer/importer of the finished product (including batch 
+release or quality control testing sites)
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) The activities for which the manufacturer/importer 
+is responsible include batch release
+1
+1, 2
+
+IAIN
+b) The activities for which the manufacturer/importer 
+is responsible do not include batch release
+1
+1, 2
+IA
+Conditions
+1.	The manufacturing site undergoing the name and/or address change and all manufacturing operations must 
+remain the same.
+
+Documentation
+1.	Copy of the modified manufacturing authorisation, if available; or a formal document from a relevant official body 
+(e.g. Chamber of Commerce, or if not available, from a Regulatory Agency) in which the new name and/or address 
+is mentioned.
+2.	If applicable, amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA 
+volume 6B format for veterinary products, as appropriate), including revised product information as appropriate.
+
+A.6 Change in ATC Code/ATC Vet Code
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+1
+1, 2
+IA
+Conditions
+1.	Change following granting of or amendment to ATC Code by WHO/ATC Vet Code.
+
+Documentation
+1.	Proof of acceptance (by WHO) or copy of the ATC (Vet) Code list.
+2.	Revised product information
+
+A.7 Deletion of manufacturing sites for an active 
+substance, intermediate or finished product, packaging 
+site, manufacturer responsible for batch release, site 
+where batch control takes place, or supplier of a 
+starting material, reagent or excipient (when mentioned 
+in the dossier) (*)
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+1, 2
+1, 2
+IA
+
+
+
+ 
+Conditions
+1.	There should at least remain one site/manufacturer, as previously authorised, performing the same function as the 
+one(s) concerned by the deletion. Where applicable at least one manufacturer responsible for batch release that is 
+able to certify the product testing for the purpose of batch release within the EU/EEA remains in the EU/EEA.
+2.	The deletion should not be due to critical deficiencies concerning manufacturing.
+
+Documentation
+1.	The variation application form should clearly outline the 'present' and 'proposed' manufacturers as listed in section
+2.5 of the application form for marketing authorisations.
+2.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate), including revised product information as appropriate.
+
+(*) Note: where notice has been given by the authorities of the intention to perform an inspection, the deletion of the relevant site shall 
+be notified immediately.
+
+A.8 Changes to date of the audit to verify GMP 
+compliance of the manufacturer of the active 
+substance (*)
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+
+IA
+Documentation
+1. Written confirmation from the manufacturer of the finish product stating verification of compliance of the 
+manufacturer of the active substance with principles and guidelines of good manufacturing practices.
+
+(*) Note: this variation does not apply when the information has been otherwise transmitted to the authorities (e.g. through the so-called 
+'QP declaration').
+
+
+
+
+
+B.	QUALITY CHANGES
+
+B.I	ACTIVE SUBSTANCE
+
+B.I.a)	Manufacture
+
+B.I.a.1 Change in the manufacturer of a starting material/ 
+reagent/intermediate used in the manufacturing process 
+of the active substance or change in the manufacturer 
+(including where relevant quality control testing sites) 
+of the active substance, where no Ph. Eur. Certificate 
+of Suitability is part of the approved dossier
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) The proposed manufacturer is part of the same 
+pharmaceutical group as the currently approved 
+manufacturer
+1, 2, 3
+1, 2, 3, 4, 5, 6, 7
+IAIN
+b) Introduction of a manufacturer of the active 
+substance supported by an ASMF
+
+
+II
+c) The proposed manufacturer uses a substantially 
+different route of synthesis or manufacturing 
+conditions, which may have a potential to change 
+important quality characteristics of the active 
+substance, such as qualitative and/or quantitative 
+impurity profile requiring qualification, or 
+physico-chemical properties impacting on bioavail 
+ability
+
+
+II
+d) New manufacturer of material for which an 
+assessment is required of viral safety and/or TSE 
+risk
+
+
+II
+
+
+
+e) The change relates to a biological active substance 
+or a starting material/reagent/intermediate used in 
+the manufacture of a biological/immunological 
+product
+
+
+II
+f) Changes to quality control testing arrangements for 
+the active substance-replacement or addition of a 
+site where batch control/testing takes place
+2, 4
+1, 5
+IA
+g) Introduction of a new manufacturer of the active 
+substance that is not supported by an ASMF and 
+requires significant update to the relevant active 
+substance section of the dossier
+
+
+II
+h) Addition of an alternative sterilisation site for the 
+active substance using a Ph.Eur. method
+
+1, 2, 4, 5, 8
+IB
+i) Introduction of a new site of micronisation
+2, 5
+1, 4, 5, 6
+IA
+j) Changes to quality control testing arrangements for 
+a biological active substance: replacement or 
+addition of a site where batch control/testing 
+including a biological/immunological/immuno 
+chemical method takes place
+
+
+II
+k) New storage site of Master Cell Bank and/or 
+Working Cell Banks
+
+1, 5
+IB
+Conditions
+1.	For starting materials and reagents the specifications (including in process controls, methods of analysis of all 
+materials), are identical to those already approved. For intermediates and active substances the specifications 
+(including in process controls, methods of analysis of all materials), method of preparation (including batch 
+size) and detailed route of synthesis are identical to those already approved.
+2.	The active substance is not a biological/immunological substance or sterile.
+3.	Where materials of human or animal origin are used in the process, the manufacturer does not use any new 
+supplier for which assessment is required of viral safety or of compliance with the current Note for Guidance on 
+Minimising the Risk of Transmitting Animal Spongiform Encephalopathy Agents via Human and Veterinary Medicinal 
+Products.
+4.	Method transfer from the old to the new site has been successfully completed.
+5.	The particle size specification of the active substance and the corresponding analytical method remain the same.
+
+Documentation
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate), if applicable.
+2.	A declaration from the marketing authorisation holder or the ASMF holder, where applicable, that the synthetic 
+route (or in case of herbal medicinal products, where appropriate the method of preparation, geographical source, 
+production of herbal drug and manufacturing route) quality control procedures and specifications of the active 
+substance and of the starting material/reagent/intermediate in the manufacturing process of the active substance (if 
+applicable) are the same as those already approved.
+3.	Either a TSE Ph. Eur. Certificate of Suitability for any new source of material or, where applicable, documentary 
+evidence that the specific source of the TSE risk material has previously been assessed by the competent authority 
+and shown to comply with the current Note for Guidance on Minimising the Risk of Transmitting Animal Spongiform 
+Encephalopathy Agents via Human and Veterinary Medicinal Products. The information should include the following: 
+Name of manufacturer, species and tissues from which the material is a derivative, country of origin of the source 
+animals, its use and previous acceptance. For the Centralised Procedure, this information should be included in an 
+updated TSE table A (and B, if relevant).
+
+
+
+ 
+4.	Batch analysis data (in a comparative tabular format) for at least two batches (minimum pilot scale) of the active 
+substance from the current and proposed manufacturers/sites.
+
+5.	The variation application form should clearly outline the 'present' and 'proposed' manufacturers as listed in section
+2.5 of the application form for marketing authorisation.
+
+6.	A declaration by the Qualified Person (QP) of each of the manufacturing authorisation holders listed in the 
+application where the active substance is used as a starting material and a declaration by the Qualified Person 
+(QP) of each of the manufacturing authorisation holders listed in the application as responsible for batch release. 
+These declarations should state that the active substance manufacturer(s) referred to in the application operate in 
+compliance with the detailed guidelines on good manufacturing practice for starting materials. A single declaration 
+may be acceptable under certain circumstances - see the note under variation No B.II.b.1.
+
+7.	Where relevant, a commitment of the manufacturer of the active substance to inform the MA holder of any 
+changes to the manufacturing process, specifications and test procedures of the active substance.
+
+8.	Proof that the proposed site is appropriately authorised for the pharmaceutical form or product or manufacturing 
+operation concerned, i.e.:
+
+For a manufacturing site within the EU/EEA: a copy of the current manufacturing authorisation. A reference to the 
+EudraGMP database will suffice.
+
+For a manufacturing site outside the EU/EEA where an operational GMP mutual recognition agreement (MRA) 
+exists between the country concerned and the EU: a GMP certificate issued within the last 3 years by the relevant 
+competent authority.
+
+For a manufacturing site outside the EU/EEA where no such mutual recognition agreement exists: a GMP 
+certificate issued within the last 3 years by an inspection service of one of the Member States of the EU/EEA. 
+A reference to the EudraGMP database will suffice.
+
+B.I.a.2 Changes in the manufacturing process of the 
+active substance
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Minor change in the manufacturing process of the 
+active substance
+1, 2, 3, 4, 5, 6,
+7
+1, 2, 3
+IA
+b) Substantial change to the manufacturing process of 
+the active substance which may have a significant 
+impact on the quality, safety or efficacy of the 
+medicinal product
+
+
+II
+c) The change refers to a biological/immunological 
+substance or use of a different chemically derived 
+substance in the manufacture of a biological/im 
+munological substance, which may have a 
+significant impact on the quality, safety and 
+efficacy of the medicinal product and is not 
+related to a protocol
+
+
+II
+d) The change relates to a herbal medicinal product 
+and there is a change to any of the following: 
+geographical source, manufacturing route or 
+production
+
+
+II
+e) Minor change to the restricted part of an Active 
+Substance Master File
+
+1, 2, 3, 4
+IB
+Conditions
+
+1.	No adverse change in qualitative and quantitative impurity profile or in physico-chemical properties.
+
+2.	The synthetic route remains the same, i.e. intermediates remain the same and there are no new reagents, catalysts 
+or solvents used in the process. In the case of herbal medicinal products, the geographical source, production of 
+the herbal substance and the manufacturing route remain the same.
+
+
+
+ 
+3.	The specifications of the active substance or intermediates are unchanged.
+
+4.	The change is fully described in the open ('applicant's') part of an Active Substance Master File, if applicable.
+
+5.	The active substance is not a biological/immunological substance.
+
+6.	The change does not refer to the geographical source, manufacturing route or production of a herbal medicinal 
+product.
+
+7.	The change does not refer to the restricted part of an Active Substance Master File.
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate), and of the approved Active Substance Master File (where applicable), 
+including a direct comparison of the present process and the new process.
+
+2.	Batch analysis data (in comparative tabular format) of at least two batches (minimum pilot scale) manufactured 
+according to the currently approved and proposed process.
+
+3.	Copy of approved specifications of the active substance.
+
+4.	A declaration from the marketing authorisation holder or the ASMF Holder, where applicable, that there is no 
+change in qualitative and quantitative impurity profile or in physico-chemical properties, that the synthetic route 
+remains the same and that the specifications of the active substance or intermediates are unchanged.
+
+Note: for B.I.a.2.b), for chemical active substances, this refers to substantial changes to the synthetic route or manufacturing 
+conditions which may have a potential to change important quality characteristics of the active substance, such as qualitative 
+and/or quantitative impurity profile requiring qualification, or physico-chemical properties impacting on bioavailability.
+
+B.I.a.3 Change in batch size (including batch size ranges) 
+of active substance or intermediate used in the manufac 
+turing process of the active substance
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Up to 10-fold increase compared to the originally 
+approved batch size
+1, 2, 3, 4, 6, 7,
+8
+1, 2, 5
+IA
+b) Downscaling down to 10-fold
+1, 2, 3, 4, 5
+1, 2, 5
+IA
+c) The change requires assessment of the compara 
+bility of a biological/immunological active 
+substance
+
+
+II
+d) More than 10-fold increase compared to the orig 
+inally approved batch size
+
+1, 2, 3, 4
+IB
+e) The scale for a biological/immunological active 
+substance is increased/decreased without process 
+change (e.g. duplication of line)
+
+1, 2, 3, 4
+IB
+
+Conditions
+
+1.	Any changes to the manufacturing methods are only those necessitated by scale-up or downscaling, e.g. use of 
+different-sized equipment.
+
+2.	Test results of at least two batches according to the specifications should be available for the proposed batch size.
+
+3.	The product concerned is not a biological/immunological medicinal product.
+
+4.	The change does not adversely affect the reproducibility of the process.
+
+5.	The change should not be the result of unexpected events arising during manufacture or because of stability 
+concerns.
+
+
+
+ 
+6.	The specifications of the active substance/intermediates remain the same.
+
+7.	The active substance is not sterile.
+
+8.	The batch size is within the 10-fold range of the batch size foreseen when the marketing authorisation was 
+granted or following a subsequent change not agreed as a Type IA variation.
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+2.	The batch numbers of the tested batches having the proposed batch size.
+
+3.	Batch analysis data (in a comparative tabulated format) on a minimum of one production batch of the active 
+substance or intermediate as appropriate, manufactured to both the currently approved and the proposed sizes. 
+Batch data on the next two full production batches should be made available upon request and reported by the 
+marketing authorisation holder if outside specification (with proposed action).
+
+4.	Copy of approved specifications of the active substance (and of the intermediate, if applicable).
+
+5 A declaration from the marketing authorisation holder or the ASMF holder as appropriate that the changes to the 
+manufacturing methods are only those necessitated by scale-up or downscaling, e.g. use of different-sized 
+equipment, that the change does not adversely affect the reproducibility of the process, that it is not the result 
+of unexpected events arising during manufacture or because of stability concerns and that the specifications of the 
+active substance/intermediates remain the same.
+
+B.I.a.4 Change to in-process tests or limits applied during 
+the manufacture of the active substance
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Tightening of in-process limits
+1, 2, 3, 4
+1, 2
+IA
+b) Addition of a new in-process test and limits
+1, 2, 5, 6
+1, 2, 3, 4, 6
+IA
+c) Deletion of a non-significant in-process test
+1, 2, 7
+1, 2, 5
+IA
+d) Widening of the approved in-process test limits, 
+which may have a significant effect on the overall 
+quality of the active substance
+
+
+II
+e) Deletion of an in-process test which may have a 
+significant effect on the overall quality of the active 
+substance
+
+
+II
+f) Addition or replacement of an in-process test as a 
+result of a safety or quality issue
+
+1, 2, 3, 4, 6
+IB
+
+Conditions
+
+1.	The change is not a consequence of any commitment from previous assessments to review specification limits 
+(e.g. made during the procedure for the marketing authorisation application or a type II variation procedure).
+
+2.	The change does not result from unexpected events arising during manufacture, e.g. new unqualified impurity; 
+change in total impurity limits.
+
+3.	Any change should be within the range of currently approved limits.
+
+4.	The test procedure remains the same, or changes in the test procedure are minor.
+
+5.	Any new test method does not concern a novel non-standard technique or a standard technique used in a novel 
+way.
+
+
+
+ 
+6.	The new test method is not a biological/immunological/immunochemical method or a method using a biological 
+reagent for a biological active substance (does not include standard pharmacopoeial microbiological methods).
+
+7.	The specification parameter does not concern a critical parameter for example any of the following: assay, 
+impurities (unless a particular solvent is definitely not used in the manufacture of the active substance), any 
+critical physical characteristics, e.g. particle size, bulk or tapped density, identity test, water, any request for 
+changing the frequency of testing.
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+2.	Comparative table of current and proposed in-process tests.
+
+3.	Details of any new non-pharmacopoeial analytical method and validation data, where relevant.
+
+4.	Batch analysis data on two production batches (3 production batches for biologicals, unless otherwise justified) of 
+the active substance for all specification parameters.
+
+5.	Justification/risk assessment from the marketing authorisation holder or the ASMF Holder, as appropriate, that the 
+in-process tests are non-significant, or that the in-process tests are obsolete.
+
+6.	Justification from the MAH or ASMF Holder as appropriate for the new in-process test and limits.
+
+B.I.a.5 Changes to the active substance of a seasonal, pre- 
+pandemic or pandemic vaccine against human influenza
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Replacement of the strain(s) in a seasonal, pre- 
+pandemic or a pandemic vaccine against human 
+influenza
+
+
+II
+
+
+
+
+B.I.b)	Control of active substance
+
+B.I.b.1 Change in the specification parameters and/or 
+limits of an active substance, starting material/intermedi 
+ate/reagent used in the manufacturing process of the 
+active substance
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Tightening of specification limits for medicinal 
+products subject to Official Control Authority 
+Batch Release
+1, 2, 3, 4
+1, 2
+
+IAIN
+b) Tightening of specification limits
+1, 2, 3, 4
+1, 2
+IA
+c) Addition of a new specification parameter to the 
+specification with its corresponding test method
+1, 2, 5, 6, 7
+1, 2, 3, 4, 5, 7
+IA
+d) Deletion	of	a	non-significant	specification 
+parameter (e.g. deletion of an obsolete parameter)
+1, 2, 8
+1, 2, 6
+IA
+e) Deletion of a specification parameter which may 
+have a significant effect on the overall quality of 
+the active substance and/or the finished product
+
+
+II
+f) Change outside the approved specifications limits 
+range for the active substance
+
+
+II
+
+
+
+
+g) Widening of the approved specifications limits for 
+starting materials/intermediates, which may have a 
+significant effect on the overall quality of the active 
+substance and/or the finished product
+
+
+
+II
+
+h) Addition or replacement (excluding biological or 
+immunological substance) of a specification 
+parameter with its corresponding test method as 
+a result of a safety or quality issue
+
+
+1, 2, 3, 4, 5, 7
+
+IB
+
+i) Where there is no monograph in the European 
+Pharmacopoeia or the national pharmacopoeia of 
+a Member State for the active substance, a change 
+in specification from in-house to a non-official 
+Pharmacopoeia or a Pharmacopoeia of a third 
+country
+
+
+1, 2, 3, 4, 5, 7
+
+IB
+
+Conditions
+
+1.	The change is not a consequence of any commitment from previous assessments to review specification limits 
+(e.g. made during the procedure for the marketing authorisation application or a type II variation procedure).
+
+2.	The change does not result from unexpected events arising during manufacture, e.g. new unqualified impurity; 
+change in total impurity limits.
+
+3.	Any change should be within the range of currently approved limits.
+
+4.	The test procedure remains the same, or changes in the test procedure are minor.
+
+5.	Any new test method does not concern a novel non-standard technique or a standard technique used in a novel 
+way.
+
+6.	The test method is not a biological/immunological/immunochemical method or a method using a biological 
+reagent for a biological active substance (does not include standard pharmacopoeia microbiological methods).
+
+7.	For any material, the change does not concern a genotoxic impurity. If it involves the final active substance, other 
+than for residual solvents which must be in line with ICH/VICH limits, any new impurity control should be in line 
+with the Ph. Eur. or National Pharmacopoeia of a Member State.
+
+8.	The specification parameter does not concern a critical parameter, for example any of the following: assay, 
+impurities (unless a particular solvent is definitely not used in the manufacture of the active substance), any 
+critical physical characteristics, e.g. particle size, bulk or tapped density, identity test, water, any request for skip 
+testing.
+
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+2.	Comparative table of current and proposed specifications.
+
+3.	Details of any new analytical method and validation data, where relevant.
+
+4.	Batch analysis data on two production batches (3 production batches for biologicals, unless otherwise justified) of 
+the relevant substance for all specification parameters.
+
+5.	Where appropriate, comparative dissolution profile data for the finished product on at least one pilot batch 
+containing the active substance complying with the current and proposed specification. For herbal medicinal 
+products, comparative disintegration data may be acceptable.
+
+6.	Justification/risk assessment from the marketing authorisation holder or the ASMF Holder, as appropriate, that the 
+in-process parameter is non-significant, or that the in-process parameter is obsolete.
+
+7.	Justification from the MAH or ASMF Holder as appropriate of the new specification parameter and the limits.
+
+
+
+
+B.I.b.2 Change in test procedure for active substance or 
+starting material/reagent/intermediate used in the manu 
+facturing process of the active substance
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Minor changes to an approved test procedure
+1, 2, 3, 4
+1, 2
+IA
+b) Deletion of a test procedure for the active 
+substance or a starting material/reagent/inter 
+mediate, if an alternative test procedure is already 
+authorised.
+7
+1
+IA
+c) Other changes to a test procedure (including 
+replacement or addition) for a reagent, which 
+does not have a significant effect on the overall 
+quality of the active substance
+1, 2, 3, 5, 6
+1, 2
+IA
+d) Substantial change to or replacement of a biologi 
+cal/immunological/immunochemical test method or 
+a method using a biological reagent for a biological 
+active substance
+
+
+II
+e) Other changes to a test procedure (including 
+replacement or addition) for the active substance 
+or a starting material/intermediate
+
+1, 2
+IB
+Conditions
+
+1.	Appropriate validation studies have been performed in accordance with the relevant guidelines and show that the 
+updated test procedure is at least equivalent to the former test procedure.
+
+2.	There have been no changes of the total impurity limits; no new unqualified impurities are detected.
+
+3.	The method of analysis should remain the same (e.g. a change in column length or temperature, but not a 
+different type of column or method).
+
+4.	The test method is not a biological/immunological/immunochemical method, or a method using a biological 
+reagent for a biological active substance (does not include standard pharmacopoeial microbiological methods).
+
+5.	Any new test method does not concern a novel non-standard technique or a standard technique used in a novel 
+way.
+
+6.	The active substance is not biological/immunological.
+
+7 An alternative test procedure is already authorised for the specification parameter and this procedure has not been 
+added through IA/IA(IN) notification.
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate), including a description of the analytical methodology, a summary of 
+validation data, revised specifications for impurities (if applicable).
+
+2.	Comparative validation results, or if justified comparative analysis results showing that the current test and the 
+proposed one are equivalent. This requirement is not applicable in case of an addition of a new test procedure.
+
+
+
+
+
+B.I.c)	Container closure system
+
+B.I.c.1 Change in immediate packaging of the active 
+substance
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Qualitative and/or quantitative composition
+1, 2, 3
+1, 2, 3, 4, 6
+IA
+
+
+
+b) Qualitative and/or quantitative composition for 
+sterile and non-frozen biological/immunological 
+active substances
+
+
+II
+c) Liquid active substances (non-sterile)
+
+1, 2, 3, 5, 6
+IB
+Conditions
+
+1.	The proposed packaging material must be at least equivalent to the approved material in respect of its relevant 
+properties.
+
+2	Relevant stability studies have been started under ICH/VICH conditions and relevant stability parameters have been 
+assessed in at least two pilot scale or industrial scale batches and at least 3 months satisfactory stability data are at 
+the disposal of the applicant at time of implementation. However, if the proposed packaging is more resistant 
+than the existing packaging, the 3 months' stability data do not yet have to be available. These studies must be 
+finalised and the data will be provided immediately to the competent authorities if outside specifications or 
+potentially outside specifications at the end of the shelf-life/retest period (with proposed action).
+
+3	Sterile, liquid and biological/immunological active substances are excluded.
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+2.	Appropriate data on the new packaging (e.g. comparative data on permeability, e.g. for O2, CO2 moisture), 
+including a confirmation that the material complies with relevant pharmacopoeial requirements or legislation 
+of the Union on plastic materials and objects in contact with foodstuffs.
+
+3.	Where appropriate, proof must be provided that no interaction between the content and the packaging material 
+occurs (e.g. no migration of components of the proposed material into the content and no loss of components of 
+the product into the pack), including confirmation that the material complies with relevant pharmacopoeia 
+requirements or legislation of the Union on plastic material and objects in contact with foodstuffs.
+
+4.	A declaration from the marketing authorisation holder or the ASMF holder as appropriate that the required 
+stability studies have been started under ICH/VICH conditions (with indication of the batch numbers concerned) 
+and that, as relevant, the required minimum satisfactory stability data were at the disposal of the applicant at time 
+of implementation and that the available data did not indicate a problem. Assurance should also be given that the 
+studies will be finalised and that data will be provided immediately to the competent authorities if outside 
+specifications or potentially outside specifications at the end of the approved shelf life (with proposed action).
+
+5.	The results of stability studies that have been carried out under ICH/VICH conditions, on the relevant stability 
+parameters, on at least two pilot or industrial scale batches, covering a minimum period of 3 months, and an 
+assurance is given that these studies will be finalised, and that data will be provided immediately to the competent 
+authorities if outside specifications or potentially outside specifications at the end of the approved retest period 
+(with proposed action).
+
+6.	Comparison of the current and proposed immediate packaging specifications, if applicable.
+
+B.I.c.2 Change in the specification parameters and/or 
+limits of the immediate packaging of the active substance
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Tightening of specification limits
+1, 2, 3, 4
+1, 2
+IA
+b) Addition of a new specification parameter to the 
+specification with its corresponding test method
+1, 2, 5
+1, 2, 3, 4, 6
+IA
+c) Deletion	of	a	non-significant	specification 
+parameter (e.g. deletion of an obsolete parameter)
+1, 2
+1, 2, 5
+IA
+d) Addition or replacement of a specification 
+parameter as a result of a safety or quality issue
+
+1, 2, 3, 4, 6
+IB
+
+
+
+ 
+
+Conditions
+
+1.	The change is not a consequence of any commitment from previous assessments to review specification limits 
+(e.g. made during the procedure for the marketing authorisation application or a type II variation procedure) 
+unless it has been previously assessed and agreed as part of a follow-up measure.
+
+2.	The change does not result from unexpected events arising during manufacture of the packaging material or 
+during storage of the active substance.
+
+3.	Any change should be within the range of currently approved limits.
+
+4.	The test procedure remains the same, or changes in the test procedure are minor.
+
+5.	Any new test method does not concern a novel non-standard technique or a standard technique used in a novel 
+way.
+
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+2.	Comparative table of current and proposed specifications.
+
+3.	Details of any new analytical method and validation data, where relevant.
+
+4.	Batch analysis data on two batches of the immediate packaging for all specification parameters.
+
+5 Justification/risk assessment from the marketing authorisation holder or the ASMF Holder, as appropriate, that the 
+in-process parameter is non-significant, or that the in-process parameter is obsolete.
+
+6.	Justification from the marketing authorisation holder or the ASMF Holder, as appropriate, of the new specification 
+parameter and the limits.
+
+
+B.I.c.3 Change in test procedure for the immediate 
+packaging of the active substance
+
+Conditions to 
+be fulfilled
+
+Documentation 
+to be supplied
+
+Procedure type
+
+a) Minor changes to an approved test procedure
+
+1, 2, 3,
+
+1, 2
+
+IA
+
+b) Other changes to a test procedure (including 
+replacement or addition)
+
+1, 3, 4
+
+1, 2
+
+IA
+
+c) Deletion of a test procedure if an alternative test 
+procedure is already authorised
+
+5
+
+1
+
+IA
+
+Conditions
+
+1.	Appropriate validation studies have been performed in accordance with the relevant guidelines and show that the 
+updated test procedure is at least equivalent to the former test procedure.
+
+2.	The method of analysis should remain the same (e.g. a change in column length or temperature, but not a 
+different type of column or method).
+
+3.	Any new test method does not concern a novel non-standard technique or a standard technique used in a novel 
+way.
+
+4.	The active substance/finished product is not biological/immunological.
+
+5.	There is still a test procedure registered for the specification parameter and this procedure has not been added 
+through a IA/IA(IN) notification.
+
+
+
+
+ 
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate), including a description of the analytical methodology, a summary of 
+validation data.
+
+2.	Comparative validation results or if justified comparative analysis results showing that the current test and the 
+proposed one are equivalent. This requirement is not applicable in case of an addition of a new test procedure.
+
+
+
+
+
+B.I.d)	Stability
+
+B.I.d.1 Change in the retest period/storage period or 
+storage conditions of the active substance where no 
+Ph. Eur. Certificate of Suitability covering the retest 
+period is part of the approved dossier
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Retest period/storage period
+
+
+
+1. Reduction
+1
+1, 2, 3
+IA
+2. Extension of the retest period based on extra 
+polation of stability data not in accordance with 
+ICH/VICH guidelines (*)
+
+
+II
+3. Extension of storage period of a biological/im 
+munological active substance not in accordance 
+with an approved stability protocol
+
+
+II
+4. Extension or introduction of a retest period/ 
+storage period supported by real time data
+
+1, 2, 3
+IB
+b) Storage conditions
+
+
+
+1. Change to more restrictive storage conditions of 
+the active substance
+1
+1, 2, 3
+IA
+2. Change in storage conditions of biological/im 
+munological active substances, when the 
+stability studies have not been performed in 
+accordance with a currently approved stability 
+protocol
+
+
+II
+3. Change in storage conditions of the active 
+substance
+
+1, 2, 3
+IB
+c) Change to an approved stability protocol
+1, 2
+1, 4
+IA
+Conditions
+
+1.	The change should not be the result of unexpected events arising during manufacture or because of stability 
+concerns.
+
+2.	The changes do not concern a widening of the acceptance criteria in the parameters tested, a removal of stability 
+indicating parameters or a reduction in the frequency of testing.
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate). This must contain results of appropriate real time stability studies,
+
+
+
+ 
+conducted in accordance with the relevant stability guidelines on at least two (three for biological medicinal 
+products) pilot or production scale batches of the active substance in the authorised packaging material and 
+covering the duration of the requested retest period or requested storage conditions.
+
+2.	Confirmation that stability studies have been done to the currently approved protocol. The studies must show that 
+the agreed relevant specifications are still met.
+
+3.	Copy of approved specifications of the active substance.
+
+4.	Justification for the proposed changes.
+
+(*) Note: Retest period not applicable for biological/immunological active substance.
+
+
+
+
+B.I.e)	Design Space and post-approval change management protocols
+
+B.I.e.1 Introduction of a new design space or extension 
+of an approved design space for the active substance, 
+concerning:
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) One unit operation in the manufacturing process of 
+the active substance including the resulting in- 
+process controls and/or test procedures
+
+1, 2, 3
+II
+b) Test procedures for starting materials/reagents/in 
+termediates and/or the active substance
+
+1, 2, 3
+II
+Documentation
+1.	The design space has been developed in accordance with the relevant European and international scientific 
+guidelines. Results from product, process and analytical development studies (e.g. interaction of the different 
+parameters forming the design space have to be studied, including risk assessment and multivariate studies, as 
+appropriate) demonstrating where relevant that a systematic mechanistic understanding of material attributes and 
+process parameters to the critical quality attributes of the active substance has been achieved.
+2.	Description of the Design space in tabular format, including the variables (material attributes and process 
+parameters, as appropriate) and their proposed ranges.
+3.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+B.I.e.2 Introduction	of	a	post	approval	change 
+management protocol related to the active substance
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+1, 2, 3
+II
+Documentation
+1.	Detailed description for the proposed change.
+2.	Change management protocol related to the active substance.
+3.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+B.I.e.3 Deletion of an approved change management 
+protocol related to the active substance
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+1
+1, 2
+IAIN
+Conditions
+1. The deletion of the approved change management protocol related to the active substance is not a result of 
+unexpected events or out of specification results during the implementation of the change(s) described in the 
+protocol and does not have any effect on the already approved information in the dossier.
+
+
+
+
+ 
+Documentation
+1.	Justification for the proposed deletion.
+2.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+B.I.e.4 Changes to an approved change management 
+protocol
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Major changes to an approved change management 
+protocol
+
+
+II
+b) Minor changes to an approved change management 
+protocol that do not change the strategy defined in 
+the protocol
+
+1
+IB
+Documentation
+1. Declaration that any change should be within the range of currently approved limits. In addition, declaration that 
+an assessment of comparability is not required for biological/immunological medicinal products.
+
+B.I.e.5 Implementation of changes foreseen in an 
+approved change management protocol
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) The implementation of the change requires no 
+further supportive data
+1
+1, 2, 4
+IAIN
+b) The implementation of the change requires further 
+supportive data
+
+1, 2, 3, 4
+IB
+c) Implementation of a change for a biological/im 
+munological medicinal product
+
+1, 2, 3, 4, 5
+IB
+Conditions
+1.	The proposed change has been performed fully in line with the approved change management protocol.
+
+Documentation
+1.	Reference to the approved change management protocol.
+2.	Declaration that the change is in accordance with the approved change management and that the study results 
+meet the acceptance criteria specified in the protocol. In addition, declaration that an assessment of comparability 
+is not required for biological/immunological medicinal products.
+3.	Results of the studies performed in accordance with the approved change management protocol.
+4.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+5.	Copy of approved specifications of the active substance.
+
+
+
+
+
+B.II.	FINISHED PRODUCT
+
+B.II.a)	Description and composition
+
+B.II.a.1 Change or addition of imprints, bossing or other 
+markings including replacement, or addition of inks used 
+for product marking.
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Changes in imprints, bossing or other markings
+1, 2, 3, 4
+1, 2
+IAIN
+
+
+
+b) Changes in scoring/break lines intended to divide 
+into equal doses
+
+1, 2, 3
+IB
+Conditions
+
+1.	Finished product release and end of shelf life specifications have not been changed (except for appearance).
+
+2.	Any ink must comply with the relevant pharmaceutical legislation.
+
+3.	The scoring/break lines are not intended to divide into equal doses.
+
+4.	Any product markings used to differentiate strengths should not be completely deleted.
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate), including a detailed drawing or written description of the current and new 
+appearance, and including revised product information as appropriate.
+
+2.	Samples of the finished product where applicable (see NTA, Requirements for samples in the Member States).
+
+3 Results of the appropriate Ph. Eur tests demonstrating equivalence in characteristics/correct dosing.
+
+B.II.a.2 Change in the shape or dimensions of the phar 
+maceutical form
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Immediate release tablets, capsules, suppositories 
+and pessaries
+1, 2, 3, 4
+1, 4
+
+IAIN
+b) Gastro-resistant, modified or prolonged release 
+pharmaceutical forms and scored tablets intended 
+to be divided into equal doses
+
+1, 2, 3, 4, 5
+IB
+c) Addition of a new kit for a radiopharmaceutical 
+preparation with another fill volume
+
+
+II
+Conditions
+
+1.	If appropriate, the dissolution profile of the reformulated product is comparable to the old one. For herbal 
+medicinal products, where dissolution testing may not be feasible, the disintegration time of the new product 
+compared to the old one.
+
+2.	Release and end of shelf-life specifications of the product have not been changed (except for dimensions).
+
+3.	The qualitative or quantitative composition and mean mass remain unchanged.
+
+4.	The change does not relate to a scored tablet that is intended to be divided into equal doses.
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate), including a detailed drawing of the current and proposed situation, and 
+including revised product information as appropriate.
+
+2.	Comparative dissolution data on at least one pilot batch of the current and proposed dimensions (no significant 
+differences regarding comparability see the relevant (Human or Veterinary) guidance on Bioavailability). For herbal 
+medicinal product comparative disintegration data may be acceptable.
+
+3.	Justification for not submitting a new bioequivalence study according to the relevant (Human or Veterinary) 
+guidance on Bioavailability.
+
+
+
+ 
+4.	Samples of the finished product where applicable (see NTA, Requirements for samples in the Member States).
+
+5.	Results of the appropriate Ph. Eur tests demonstrating equivalence in characteristics/correct dosing.
+
+Note: for B.II.a.2.c), applicants are reminded that any change to the 'strength' of the medicinal product requires the submission of an 
+Extension application.
+
+B.II.a.3 Changes in the composition (excipients) of the 
+finished product
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Changes in components of the flavouring or 
+colouring system
+
+
+
+1. Addition, deletion or replacement
+1, 2, 3, 4, 5, 6,
+7, 9, 11
+1, 2, 4, 5, 6
+
+IAIN
+2. Increase or reduction
+1, 2, 3, 4, 11
+1, 2, 4
+IA
+3. Biological veterinary medicinal products for oral 
+use for which the colouring or flavouring agent 
+is important for the uptake by target animal 
+species
+
+
+II
+b) Other excipients
+
+
+
+1. Any minor adjustment of the quantitative 
+composition of the finished product with 
+respect to excipients
+1, 2, 4, 8, 9, 10
+1, 2, 7
+IA
+2. Qualitative or quantitative changes in one or 
+more excipients that may have a significant 
+impact on the safety, quality or efficacy of the 
+medicinal product
+
+
+II
+3. Change that relates to a biological/immuno 
+logical product
+
+
+II
+4. Any new excipient that includes the use of 
+materials of human or animal origin for which 
+assessment is required of viral safety data or 
+TSE risk
+
+
+II
+5. Change that is supported by a bioequivalence 
+study
+
+
+II
+6. Replacement of a single excipient with a 
+comparable excipient with the same functional 
+characteristics and at a similar level
+
+1, 3, 4, 5, 6, 7,
+8, 9, 10
+IB
+Conditions
+
+1.	No change in functional characteristics of the pharmaceutical form, e.g. disintegration time, dissolution profile.
+
+2.	Any minor adjustment to the formulation to maintain the total weight should be made by an excipient which 
+currently makes up a major part of the finished product formulation.
+
+3.	The finished product specification has only been updated in respect of appearance/odour/taste and if relevant, 
+deletion of an identification test.
+
+4.	Stability studies have been started under ICH/VICH conditions (with indication of batch numbers) and relevant 
+stability parameters have been assessed in at least two pilot scale or industrial scale batches and at least 3 
+months satisfactory stability data are at the disposal of the applicant (at time of implementation for Type IAs
+
+
+
+ 
+and at time of notification for Type IBs) and that the stability profile is similar to the currently registered 
+situation. Assurance is given that these studies will be finalised and that data will be provided immediately to the 
+competent authorities if outside specifications or potentially outside specification at the end of the approved 
+shelf life (with proposed action). In addition, where relevant, photo-stability testing should be performed.
+
+5.	Any new proposed components must comply with the relevant Directives (e.g. Directive 94/36/EC of the 
+European Parliament and of the Council (1) and Commission Directive 2008/128/EC (2) for colours for use in 
+foodstuffs and Council Directive 88/388/EEC (3) for flavours).
+
+6.	Any new component does not include the use of materials of human or animal origin for which assessment is 
+required of viral safety data or compliance with the current Note For Guidance on Minimising the Risk of Trans 
+mitting Animal Spongiform Encephalopathy Agents via Human and Veterinary Medicinal Products.
+
+7.	Where applicable, the change does not affect the differentiation between strengths and does not have a negative 
+impact on taste acceptability for paediatric formulations.
+
+8.	The dissolution profile of the new product determined on a minimum of two pilot scale batches is comparable 
+to the old one (no significant differences regarding comparability, see the relevant (Human or Veterinary) 
+guidance on Bioavailability). For herbal medicinal products where dissolution testing may not be feasible, the 
+disintegration time of the new product is comparable to the old one.
+
+9.	The change is not the result of stability issues and/or should not result in potential safety concerns, i.e. 
+differentiation between strengths.
+
+10.	The product concerned is not a biological/immunological medicinal product.
+
+11.	For veterinary medicinal products for oral use, the change does not affect the uptake by target animal species.
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate), including identification method for any new colorant, where relevant, 
+and including revised product information as appropriate.
+
+2.	A declaration that the required stability studies have been started under ICH/VICH conditions (with indication of 
+the batch numbers concerned) and that, as relevant, the required minimum satisfactory stability data were at the 
+disposal of the applicant at time of implementation and that the available data did not indicate a problem. 
+Assurance should also be given that the studies will be finalised and that data will be provided immediately to 
+the competent authorities if outside specifications or potentially outside specifications at the end of the approved 
+shelf life (with proposed action).
+
+3.	The results of stability studies that have been carried out under ICH/VICH conditions, on the relevant stability 
+parameters, on at least two pilot or industrial scale batches, covering a minimum period of 3 months, and an 
+assurance is given that these studies will be finalised, and that data will be provided immediately to the 
+competent authorities if outside specifications or potentially outside specifications at the end of the approved 
+shelf life (with proposed action).
+
+4.	Sample of the new product, where applicable (see Notice to Applicants Requirements for samples in the Member 
+States).
+
+5.	Either a Ph. Eur. Certificate of Suitability for any new component of animal susceptible to TSE risk or where 
+applicable, documentary evidence that the specific source of the TSE risk material has been previously assessed 
+by the competent authority and shown to comply with the scope of the current Note for Guidance on Minimising 
+the Risk of Transmitting Animal Spongiform Encephalopathies via Human and Veterinary Medicinal Products. The 
+following information should be included for each such material: Name of manufacturer, species and tissues 
+from which the material is a derivative, country of origin of the source animals and its use.
+
+For the Centralised Procedure, this information should be included in an updated TSE table A (and B, if relevant).
+
+6.	Data to demonstrate that the new excipient does not interfere with the finished product specification test 
+methods, if appropriate.
+
+7 Justification for the change/choice of excipients etc. must be given by appropriate development pharmaceutics 
+(including stability aspects and antimicrobial preservation where appropriate).
+
+
+
+ 
+8.	For solid dosage forms, comparative dissolution profile data of at least two pilot scale batches of the finished 
+product in the new and old composition. For herbal medicinal products, comparative disintegration data may be 
+acceptable.
+
+9.	Justification for not submitting a new bioequivalence study according to the current Note for Guidance on The 
+Investigation of Bioavailability and Bioequivalence.
+
+10.	For veterinary medicines intended for use in food producing animal species, proof that the excipient is classified 
+according to Article 14(2)(c) of Regulation (EC) No 470/2009 or, if not, justification that the excipient does not 
+have pharmacological activity at the dose at which it is administered to the target animal.
+
+(1)	OJ L 237, 10.9.1994, p. 13.
+(2)	OJ L 6, 10.1.2009, p. 20.
+(3)	OJ L 184, 15.7.1988, p. 61.
+
+
+B.II.a.4 Change in coating weight of oral dosage forms or 
+change in weight of capsule shells
+
+Conditions to 
+be fulfilled
+
+Documentation 
+to be supplied
+
+Procedure type
+
+a) Solid oral pharmaceutical forms
+
+1, 2, 3, 4
+
+1, 2
+
+IA
+
+b) Gastro-resistant, modified or prolonged release 
+pharmaceutical forms where the coating is a 
+critical factor for the release mechanism
+
+
+
+II
+
+Conditions
+
+1.	The dissolution profile of the new product determined on a minimum of two pilot scale batches is comparable to 
+the old one. For herbal medicinal products where dissolution testing may not be feasible, the disintegration time 
+of the new product is comparable to the old one.
+
+2.	The coating is not a critical factor for the release mechanism.
+
+3.	The finished product specification has only been updated in respect of weight and dimensions, if applicable.
+
+4.	Stability studies in accordance with the relevant guidelines have been started with at least two pilot scale or 
+industrial scale batches and at least 3 months satisfactory stability data are at the disposal of the applicant at the 
+time of implementation and assurance that these studies will be finalised. Data will be provided immediately to 
+the competent authorities if outside specifications or potentially outside specifications at the end of the approved 
+shelf life (with proposed action).
+
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+2.	A declaration that the required stability studies have been started under ICH/VICH conditions (with indication of 
+the batch numbers concerned) and that, as relevant, the required minimum satisfactory stability data were at the 
+disposal of the applicant at time of implementation and that the available data did not indicate a problem. 
+Assurance should also be given that the studies will be finalised and that data will be provided immediately to the 
+competent authorities if outside specifications or potentially outside specifications at the end of the approved shelf 
+life (with proposed action). In addition, where relevant, photo-stability testing should be performed.
+
+
+B.II.a.5 Change in concentration of a single-dose, total use 
+parenteral product, where the amount of active 
+substance per unit dose (i.e. the strength) remains the 
+same
+
+Conditions to 
+be fulfilled
+
+Documentation 
+to be supplied
+
+Procedure type
+
+
+
+
+II
+
+
+
+B.II.a.6 Deletion of the solvent/diluent container from the 
+pack
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+1, 2
+IB
+Documentation
+
+1.	Justification for the deletion, including a statement regarding alternative means to obtain the solvent/diluent as 
+required for the safe and effective use of the medicinal product.
+
+2.	Revised product information.
+
+
+
+B.II.b)	Manufacture
+
+B.II.b.1 Replacement or addition of a manufacturing site 
+for part or all of the manufacturing process of the 
+finished product
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Secondary packaging site
+1, 2
+1,3, 8
+IAIN
+b) Primary packaging site
+1, 2, 3, 4, 5
+1, 2, 3, 4, 8, 9
+IAIN
+c) Site where any manufacturing operation(s) take 
+place, except batch release, batch control, and 
+secondary packaging, for biological/immunological 
+medicinal products, or for pharmaceutical forms 
+manufactured by complex manufacturing processes
+
+
+II
+d) Site which requires an initial or product specific 
+inspection
+
+
+II
+e) Site where any manufacturing operation(s) take 
+place, except batch-release, batch control, primary 
+and secondary packaging, for non-sterile medicinal 
+products
+
+1, 2, 3, 4, 5, 6,
+7, 8, 9
+IB
+f) Site where any manufacturing operation(s) take 
+place, except batch release, batch control, and 
+secondary packaging, for sterile medicinal 
+products (including those that are aseptically manu 
+factured) excluding biological/immunological 
+medicinal products
+
+1, 2, 3, 4, 5, 6,
+7, 8
+IB
+Conditions
+
+1.	Satisfactory inspection in the last 3 years by an inspection service of one of the Member States of the EU/EEA or 
+of a country where an operational Good Manufacturing Practice (GMP) mutual recognition agreement (MRA) 
+exists between the country concerned and the EU.
+
+2.	Site appropriately authorised (to manufacture the pharmaceutical form or product concerned).
+
+3.	Product concerned is not a sterile product.
+
+4.	Where relevant, for instance for suspensions and emulsions, validation scheme is available or validation of the 
+manufacture at the new site has been successfully carried out according to the current protocol with at least three 
+production scale batches.
+
+5.	Product concerned is not a biological/immunological medicinal product.
+
+Documentation
+
+1.	Proof that the proposed site is appropriately authorised for the pharmaceutical form or product concerned, i.e.:
+
+For a manufacturing site within the EU/EEA: a copy of the current manufacturing authorisation. A reference to the 
+EudraGMP database will suffice;
+
+
+
+ 
+For a manufacturing site outside the EU/EEA where an operational GMP mutual recognition agreement (MRA) 
+exists between the country concerned and the EU: a GMP certificate issued within the last 3 years by the relevant 
+competent authority;
+
+For a manufacturing site outside the EU/EEA where no such mutual recognition agreement exists: a GMP 
+certificate issued within the last 3 years by an inspection service of one of the Member States of the EU/EEA. 
+A reference to the EudraGMP database will suffice.
+
+2.	Where relevant, the batch numbers, corresponding batch size and the manufacturing date of batches (= 3) used in 
+the validation study should be indicated and the validation data presented, or validation protocol (scheme) to be 
+submitted.
+
+3.	The variation application form should clearly outline the 'present' and 'proposed' finished product manufacturers 
+as listed in section 2.5 of the application form.
+
+4.	Copy of approved release and end-of-shelf life specifications if relevant.
+
+5.	Batch analysis data on one production batch and two pilot-scale batches simulating the production process (or 
+two production batches) and comparative data on the last three batches from the previous site; batch data on the 
+next two production batches should be available on request or reported if outside specifications (with proposed 
+action).
+
+6.	For semisolid and liquid formulations in which the active substance is present in non-dissolved form, appropriate 
+validation data including microscopic imaging of particle size distribution and morphology or any other appro 
+priate imaging technique.
+
+7.	i) If the new manufacturing site uses the active substance as a starting material - A declaration by the Qualified 
+Person (QP) at the site responsible for batch release that the active substance is manufactured in accordance 
+with the detailed guidelines on good manufacturing practice for starting materials as adopted by the Union.
+
+ii) In addition, if the new manufacturing site is located within the EU/EEA and uses the active substance as a 
+starting material - A declaration by the Qualified Person (QP) of the new manufacturing site that the active 
+substance used is manufactured in accordance with the detailed guidelines on good manufacturing practice for 
+starting materials as adopted by the Union.
+
+8.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+9.	If the manufacturing site and the primary packaging site are different, conditions of transport and bulk storage 
+should be specified and validated.
+
+Notes:
+
+In case of a change in or a new manufacturing site in a country outside the EU/EEA without an operational GMP mutual 
+recognition agreement with the EU, marketing authorisation holders are advised to consult the relevant competent authorities first 
+before making the submission of the notification and to provide information about any previous EU/EEA inspection in the last 2- 
+3 years and/or any planned EU/EEA inspection(s) including inspection dates, product category inspected, Supervisory Authority 
+and other relevant information. This will facilitate the arrangement for a GMP inspection by an inspection service of one of the 
+Member States if needed.
+
+QP Declarations in relation to active substances
+Manufacturing authorisation holders are obliged to only use as starting materials active substances that have been 
+manufactured in accordance with GMP so a declaration is expected from each of the manufacturing authorisation 
+holders that use the active substance as a starting material. In addition, as the QP responsible for batch certifi 
+cation takes overall responsibility for each batch, a further declaration from the QP responsible for batch 
+certification is expected when the batch release site is a different site from the above.
+In many cases only one manufacturing authorisation holder is involved and therefore only one declaration will be 
+required. However, when more than one manufacturing authorisation holder is involved rather than provide 
+multiple declarations it may be acceptable to provide a single declaration signed by one QP. This will be accepted 
+provided that:
+The declaration makes it clear that it is signed on behalf of all the involved QPs.
+The arrangements are underpinned by a technical agreement as described in Chapter 7 of the GMP Guide and the 
+QP providing the declaration is the one identified in the agreement as taking specific responsibility for the GMP 
+compliance of the active substance manufacturer(s). Note: these arrangements are subject to inspection by the 
+competent authorities.
+
+
+
+ 
+Applicants are reminded that a Qualified Person is at the disposal of a manufacturing authorisation holder 
+according to Article 41 of Directive 2001/83/EC and Article 45 of Directive 2001/82/EC and located in the 
+EU/EEA. Therefore declarations from personnel employed by manufacturers in third countries, including those 
+located within MRA partner countries are not acceptable.
+
+According to Article 46a(1) of Directive 2001/83/EC and Article 50a(1) of Directive 2001/82/EC, manufacture 
+includes complete or partial manufacture, import, dividing up, packaging or presentation prior to its incor 
+poration into a medicinal product, including repackaging or relabeling as carried out by a distributor.
+
+A declaration is not required for blood or blood components they are subject to the requirements of Directive 
+2002/98/EC of the European Parliament and of the Council (1).
+
+(1)	OJ L 33, 8.2.2003, p. 30.
+
+
+B.II.b.2 Change to importer, batch release arrangements 
+and quality control testing of the finished product
+
+Conditions to 
+be fulfilled
+
+Documentation 
+to be supplied
+
+Procedure type
+
+a) Replacement or addition of a site where batch 
+control/testing takes place
+
+2, 3, 4, 5
+
+1, 2, 5
+
+IA
+
+b) Replacement or addition of a site where batch 
+control/testing takes place for a biological/immuno 
+logical product and any of the test methods 
+performed at the site is a biological/immunological 
+method
+
+
+
+II
+
+c) Replacement or addition of a manufacturer 
+responsible for importation and/or batch release
+
+
+
+
+1. Not including batch control/testing
+
+1, 2,5
+
+1, 2, 3, 4, 5
+
+IAIN
+
+2. Including batch control/testing
+
+1, 2, 3, 4, 5
+
+1, 2, 3, 4, 5
+
+IAIN
+
+3. Including batch control/testing for a biological/ 
+immunological product and any of the test 
+methods performed at that site is a biological/ 
+immunological/immunochemical method
+
+
+
+II
+
+Conditions
+
+1.	The manufacturer responsible for batch release must be located within the EU/EEA. At least one batch release site 
+remains within the EU/EEA that is able to certify the product testing for the purpose of batch release within the 
+EU/EEA.
+
+2.	The site is appropriately authorised.
+
+3.	The product is not a biological/immunological medicinal product.
+
+4.	Method transfer from the old to the new site or new test laboratory has been successfully completed.
+
+5.	At least one batch control/testing site remains within the EU/EEA or in a country where an operational and 
+suitably scoped GMP mutual recognition agreement (MRA) exists between the country concerned and the EU, that 
+is able to carry out product testing for the purpose of batch release within the EU/EEA.
+
+
+Documentation
+
+1.	For a site within the EU/EEA: Attach copy of manufacturing authorisation(s) or where no manufacturing auth 
+orisation exists a certificate of GMP compliance issued within the last 3 years by the relevant competent authority.
+
+
+
+ 
+For a manufacturing site outside the EEA where an operational GMP mutual recognition agreement (MRA) exists 
+between the country concerned and the EU: a GMP certificate, issued within the last 3 years by the relevant 
+competent authority. Where no such agreement exists a GMP certificate issued within the last 3 years by a 
+EU/EEA competent authority.
+
+2.	The variation application form should clearly outline the 'present' and 'proposed' finished product manufacturers, 
+importer, batch control/testing and batch release sites as listed in section 2.5 of the application form for 
+marketing authorisation.
+
+3.	For centralised procedure only: contact details of new contact person in the EU/EEA for product defects and 
+recalls, if applicable.
+
+4.	A declaration by the Qualified Person (QP) responsible for batch certification stating that the active substance 
+manufacturer(s) referred to in the marketing authorisation operate in compliance with the detailed guidelines on 
+good manufacturing practice for starting materials. A single declaration may be acceptable under certain circum 
+stances - see the note under variation No B.II.b.1.
+
+5 Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate), including revised product information as appropriate.
+
+
+B.II.b.3 Change in the manufacturing process of the 
+finished product, including an intermediate used in the 
+manufacture of the finished product
+
+Conditions to 
+be fulfilled
+
+Documentation 
+to be supplied
+
+Procedure type
+
+a) Minor change in the manufacturing process
+
+1, 2, 3, 4, 5, 6,
+7
+
+1, 2, 3, 4, 5, 6,
+7, 8
+
+IA
+
+b) Substantial changes to a manufacturing process that 
+may have a significant impact on the quality, safety 
+and efficacy of the medicinal product
+
+
+
+II
+
+c) The product is a biological/immunological 
+medicinal product and the change requires an 
+assessment of comparability
+
+
+
+II
+
+d) Introduction of a non-standard terminal sterili 
+sation method
+
+
+
+II
+
+e) Introduction or increase in the overage that is used 
+for the active substance
+
+
+
+II
+
+f) Minor change in the manufacturing process of an 
+aqueous oral suspension
+
+
+1, 2, 4, 6, 7,8
+
+IB
+
+Conditions
+
+1.	No change in qualitative and quantitative impurity profile or in physico-chemical properties.
+
+2.	Either the change relates to an immediate release solid oral dosage form/oral solution and the medicinal product 
+concerned is not a biological/immunological or herbal medicinal product;
+
+or the change relates to process parameter(s) that, in the context of a previous assessment, have been considered 
+to have no impact on the quality of the finished product (regardless of the type of product and/or dosage form).
+
+3.	The manufacturing principle including the single manufacturing steps remain the same, e.g. processing inter 
+mediates and there are no changes to any manufacturing solvent used in the process.
+
+4 The currently registered process has to be controlled by relevant in-process controls and no changes (widening or 
+deletion of limits) are required to these controls.
+
+
+
+ 
+5.	The specifications of the finished product or intermediates are unchanged.
+
+6.	The new process must lead to an identical product regarding all aspects of quality, safety and efficacy.
+
+7.	Relevant stability studies in accordance with the relevant guidelines have been started with at least one pilot scale 
+or industrial scale batch and at least 3 months stability data are at the disposal of the applicant. Assurance is given 
+that these studies will be finalised and that the data will be provided immediately to the competent authorities if 
+outside specifications or potentially outside specifications at the end of the approved shelf life (with proposed 
+action).
+
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate), including a direct comparison of the present process and the new process.
+
+2.	For semi-solid and liquid products in which the active substance is present in non-dissolved form: appropriate 
+validation of the change including microscopic imaging of particles to check for visible changes in morphology; 
+comparative size distribution data by an appropriate method.
+
+3.	For solid dosage forms: dissolution profile data of one representative production batch and comparative data of 
+the last three batches from the previous process; data on the next two full production batches should be available 
+on request or reported if outside specification (with proposed action). For herbal medicinal products, comparative 
+disintegration data may be acceptable.
+
+4.	Justification for not submitting a new bioequivalence study according to the relevant (Human or Veterinary) 
+guidance on Bioavailability.
+
+5.	For changes to process parameter(s) that have been considered to have no impact on the quality of the finished 
+product, declaration to this effect reached in the context of the previously approved risk assessment.
+
+6.	Copy of approved release and end-of-shelf life specifications.
+
+7.	Batch analysis data (in a comparative tabulated format) on a minimum of one batch manufactured to both the 
+currently approved and the proposed process. Batch data on the next two full production batches should be made 
+available upon request and reported by the marketing authorisation holder if outside specification (with proposed 
+action).
+
+8.	Declaration that relevant stability studies have been started under ICH/VICH conditions, as appropriate, (with 
+indication of the batch numbers concerned) and relevant stability parameters have been assessed in at least one 
+pilot scale or industrial scale batch and at least 3 months satisfactory stability data are at the disposal of the 
+applicant at time of notification and that the stability profile is similar to the currently registered situation. 
+Assurance is given that these studies will be finalised and that the data will be provided immediately to the 
+competent authorities if outside specifications or potentially outside specifications at the end of the approved shelf 
+life (with proposed action).
+
+
+B.II.b.4 Change in the batch size (including batch size 
+ranges) of the finished product
+
+Conditions to 
+be fulfilled
+
+Documentation 
+to be supplied
+
+Procedure type
+
+a) Up to 10-fold compared to the originally approved 
+batch size
+
+1, 2, 3, 4, 5, 7
+
+1, 4
+
+IA
+
+b) Downscaling down to 10-fold
+
+1, 2, 3, 4, 5, 6
+
+1, 4
+
+IA
+
+c) The change requires assessment of the compara 
+bility of a biological/immunological medicinal 
+product or the change in batch size requires a 
+new bioequivalence study
+
+
+
+II
+
+d) The change relates to all other pharmaceutical 
+forms manufactured by complex manufacturing 
+processes
+
+
+
+II
+
+
+
+
+e) More than 10-fold increase compared to the orig 
+inally approved batch size for immediate release 
+(oral) pharmaceutical forms
+
+1, 2, 3, 4, 5, 6
+IB
+
+f) The scale for a biological/immunological medicinal 
+product is increased/decreased without process 
+change (e.g. duplication of line)
+
+1, 2, 3, 4, 5, 6
+IB
+
+Conditions
+
+1.	The change does not affect reproducibility and/or consistency of the product.
+
+2.	The change relates to conventional immediate release oral pharmaceutical forms or to non-sterile liquid based 
+pharmaceutical forms.
+
+3.	Any changes to the manufacturing method and/or to the in-process controls are only those necessitated by the 
+change in batch-size, e.g. use of different sized equipment.
+
+4.	Validation scheme is available or validation of the manufacture has been successfully carried out according to the 
+current protocol with at least three batches at the proposed new batch size in accordance with the relevant 
+guidelines.
+
+5.	The product concerned is not a biological/immunological medicinal product.
+
+6.	The change should not be the result of unexpected events arising during manufacture or because of stability 
+concerns.
+
+7.	The batch size is within the 10-fold range of the batch size foreseen when the marketing authorisation was 
+granted or following a subsequent change not agreed as a Type IA variation.
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+2.	Batch analysis data (in a comparative tabulated format) on a minimum of one production batch manufactured to 
+both the currently approved and the proposed sizes. Batch data on the next two full production batches should be 
+made available upon request and reported by the MAH if outside specifications (with proposed action).
+
+3.	Copy of approved release and end-of-shelf life specifications.
+
+4.	Where relevant the batch numbers, corresponding batch size and the manufacturing date of batches (= 3) used in 
+the validation study should be indicated or validation protocol (scheme) be submitted.
+
+5.	The validation results should be provided
+
+6.	The results of stability studies that have been carried out under ICH/VICH conditions, on the relevant stability 
+parameters, on at least one pilot or industrial scale batch, covering a minimum period of 3 months, and an 
+assurance is given that these studies will be finalised, and that data will be provided immediately to the competent 
+authorities if outside specifications or potentially outside specifications at the end of the approved shelf life (with 
+proposed action). For biologicals/immunologicals: a declaration that an assessment of comparability is not 
+required.
+
+
+B.II.b.5 Change to in-process tests or limits applied 
+during the manufacture of the finished product
+
+Conditions to 
+be fulfilled
+
+Documentation 
+to be supplied
+Procedure type
+a) Tightening of in-process limits
+1, 2, 3, 4
+1, 2
+IA
+b) Addition of a new test(s) and limits
+1, 2, 5, 6
+1, 2, 3, 4, 5, 7
+IA
+c) Deletion of a non-significant in-process test
+1, 2, 7
+1, 2, 6
+IA
+
+
+
+
+d) Deletion of an in-process test which may have a 
+significant effect on the overall quality of the 
+finished product
+
+
+II
+
+e) Widening of the approved IPC limits, which may 
+have a significant effect on overall quality of the 
+finished product
+
+
+II
+
+f) Addition or replacement of an in-process test as a 
+result of a safety or quality issue
+
+1, 2, 3, 4, 5, 7
+IB
+
+Conditions
+
+1.	The change is not a consequence of any commitment from previous assessments to review specification limits 
+(e.g. made during the procedure for the marketing authorisation application or a type II variation procedure).
+
+2.	The change does not result from unexpected events arising during manufacture, e.g. new unqualified impurity; 
+change in total impurity limits.
+
+3.	Any change should be within the range of currently approved limits.
+
+4.	The test procedure remains the same, or changes in the test procedure are minor.
+
+5.	Any new test method does not concern a novel non-standard technique or a standard technique used in a novel 
+way.
+
+6.	The new test method is not a biological/immunological/immunochemical method or a method using a biological 
+reagent for a biological active substance (does not include standard pharmacopoeial microbiological methods).
+
+7.	The in-process test does not concern the control of a critical parameter, e.g.: 
+assay,
+impurities (unless a particular solvent is definitely not used in the manufacture) 
+any critical physical characteristics (particle size, bulk, tapped density, etc.) 
+identity test (unless there is a suitable alternative control already present) 
+microbiological control (unless not required for the particular dosage form)
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+2.	Comparative table of current and proposed in-process tests and limits.
+
+3.	Details of any new analytical method and validation data, where relevant.
+
+4.	Batch analysis data on two production batches (3 production batches for biologicals, unless otherwise justified) of 
+the finished product for all specification parameters.
+
+5.	Where appropriate, comparative dissolution profile data for the finished product on at least one pilot batch 
+manufactured using the current and new in-process tests. For herbal medicinal products, comparative disinte 
+gration data may be acceptable.
+
+6 Justification/risk assessment showing that the in-process test is non-significant or that it is obsolete.
+
+7. Justification of the new in-process test and limits.
+
+
+
+B.II.c)	Control of excipients
+
+B.II.c.1 Change in the specification parameters and/or 
+limits of an excipient
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Tightening of specification limits
+1, 2, 3, 4
+1, 2
+IA
+b) Addition of a new specification parameter to the 
+specification with its corresponding test method
+1, 2, 5, 6, 7
+1, 2, 3, 4, 6, 8
+IA
+c) Deletion	of	a	non-significant	specification 
+parameter (e.g. deletion of an obsolete parameter)
+1, 2, 8
+1, 2, 7
+IA
+d) Change outside the approved specifications limits 
+range
+
+
+II
+e) Deletion of a specification parameter which may 
+have a significant effect on the overall quality of 
+the finished product
+
+
+II
+f) Addition or replacement (excluding biological or 
+immunological product) of a specification 
+parameter with its corresponding test method, as 
+a result of a safety or quality issue
+
+1, 2, 3, 4, 5, 6, 8
+IB
+g) Where there is no monograph in the European 
+Pharmacopoeia or the national pharmacopoeia of 
+a Member State for the excipient, a change in spec 
+ification from in-house to a non-official Phar 
+macopoeia or a Pharmacopoeia of a third country
+
+1, 2, 3, 4, 5, 6, 8
+IB
+Conditions
+
+1.	The change is not a consequence of any commitment from previous assessments to review specification limits 
+(e.g. made during the procedure for the marketing authorisation application or a type II variation procedure).
+
+2.	The change does not result from unexpected events arising during manufacture, e.g. new unqualified impurity; 
+change in total impurity limits.
+
+3.	Any change should be within the range of currently approved limits.
+
+4.	The test procedure remains the same, or changes in the test procedure are minor.
+
+5.	Any new test method does not concern a novel non-standard technique or a standard technique used in a novel 
+way.
+
+6.	The test method is not a biological/immunological/immunochemical method, or a method using a biological 
+reagent (does not include standard pharmacopoeial microbiological methods)
+
+7.	The change does not concern a genotoxic impurity.
+
+8.	The specification parameter does not concern the control of a critical parameter, e.g.:
+
+impurities (unless a particular solvent is definitely not used in the manufacture of the excipient) 
+any critical physical characteristics (particle size, bulk, tapped density, etc.)
+identity test (unless there is a suitable alternative control already present)
+
+microbiological control (unless not required for the particular dosage form)
+
+
+
+
+ 
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+2.	Comparative table of current and proposed specifications.
+
+3.	Details of any new analytical method and validation data, where relevant.
+
+4.	Batch analysis data on two production batches (3 production batches for biological excipients) of the excipient for 
+all specification parameters.
+
+5.	Where appropriate, comparative dissolution profile data for the finished product on at least one pilot batch 
+containing the excipient complying with the current and proposed specification. For herbal medicinal products 
+comparative disintegration data may be acceptable.
+
+6.	Justification for not submitting a new bioequivalence study according to the relevant (Human, Veterinary) 
+Guideline on Bioavailability, if appropriate.
+
+7.	Justification/risk assessment showing that the parameter is non-significant or that it is obsolete.
+
+8.	Justification of the new specification parameter and the limits.
+
+B.II.c.2 Change in test procedure for an excipient
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Minor changes to an approved test procedure
+1, 2, 3, 4
+1, 2
+IA
+b) Deletion of a test procedure if an alternative test 
+procedure is already authorised
+5
+1
+IA
+c) Substantial change to or replacement of a biologi 
+cal/immunological/immunochemical test method or 
+a method using a biological reagent
+
+
+II
+d) Other changes to a test procedure (including 
+replacement or addition)
+
+1, 2
+IB
+Conditions
+
+1.	Appropriate validation studies have been performed in accordance with the relevant guidelines and show that the 
+updated test procedure is at least equivalent to the former test procedure.
+
+2.	There have been no changes of the total impurity limits; no new unqualified impurities are detected.
+
+3.	The method of analysis should remain the same (e.g. a change in column length or temperature, but not a 
+different type of column or method).
+
+4.	The test method is not a biological/immunological/immunochemical method or a method using a biological 
+reagent (does not include standard pharmacopoeial microbiological methods).
+
+5.	An alternative test procedure is already authorised for the specification parameter and this procedure has not been 
+added through IA/IA(IN) notification.
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate), including a description of the analytical methodology, a summary of 
+validation data, revised specifications for impurities (if applicable).
+
+2.	Comparative validation results or if justified comparative analysis results showing that the current test and the 
+proposed one are equivalent. This requirement is not applicable in case of an addition of a new test procedure.
+
+
+
+
+B.II.c.3 Change in source of an excipient or reagent with 
+TSE risk
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) From TSE risk material to vegetable or synthetic 
+origin
+
+
+
+1. For excipients or reagents not used in the manu 
+facture of a biological/immunological active 
+substance or in a biological/immunological 
+medicinal product
+1
+1
+IA
+2. For excipients or reagents used in the manu 
+facture of a biological/immunological active 
+substance or in a biological/immunological 
+medicinal product
+
+1, 2
+IB
+b) Change or introduction of a TSE risk material or 
+replacement of a TSE risk material from a different 
+TSE risk material, not covered by a TSE certificate 
+of suitability
+
+
+II
+Conditions
+
+1.	Excipient and finished product release and end of shelf life specifications remain the same.
+
+Documentation
+
+1.	Declaration from the manufacturer or the marketing authorisation holder of the material that it is purely of 
+vegetable or synthetic origin.
+
+2.	Study of equivalence of the materials and the impact on production of the final material and impact on behaviour 
+(e.g. dissolution characteristics) of the finished product.
+
+B.II.c.4 Change in synthesis or recovery of a non-phar 
+macopoeial excipient (when described in the dossier) or 
+a novel excipient
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Minor change in synthesis or recovery of a non- 
+pharmacopoeial excipient or a novel excipient
+1, 2
+1, 2, 3, 4
+IA
+b) The specifications are affected or there is a change 
+in physico-chemical properties of the excipient 
+which may affect the quality of the finished 
+product.
+
+
+II
+c) The	excipient	is	a	biological/immunological 
+substance
+
+
+II
+Conditions
+
+1.	The synthetic route and specifications are identical and there is no change in qualitative and quantitative impurity 
+profile (excluding residual solvents, provided they are controlled in accordance with ICH/VICH limits), or in 
+physico-chemical properties.
+
+2.	Adjuvants are excluded.
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+2.	Batch analysis data (in a comparative tabulated format) of at least two batches (minimum pilot scale) of the 
+excipient manufactured according to the old and the new process.
+
+
+
+
+ 
+3.	Where appropriate, comparative dissolution profile data for the finished product of at least two batches 
+(minimum pilot scale). For herbal medicinal products, comparative disintegration data may be acceptable.
+
+4.	Copy of approved and new (if applicable) specifications of the excipient.
+
+
+
+
+
+B.II.d)	Control of finished product
+
+B.II.d.1 Change in the specification parameters and/or 
+limits of the finished product
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Tightening of specification limits
+1, 2, 3, 4
+1, 2
+IA
+b) Tightening of specification limits for medicinal 
+products subject to Official Control Authority 
+Batch Release
+1, 2, 3, 4
+1, 2
+IAIN
+c) Addition of a new specification parameter to the 
+specification with its corresponding test method
+1, 2, 5, 6, 7
+1, 2, 3, 4, 5, 7
+IA
+d) Deletion of a non-significant specification 
+parameter (e.g. deletion of an obsolete parameter 
+such as odour and taste or identification test for a 
+colouring or flavouring material)
+1, 2, 9
+1, 2, 6
+IA
+e) Change outside the approved specifications limits 
+range
+
+
+II
+f) Deletion of a specification parameter which may 
+have a significant effect on the overall quality of 
+the finished product
+
+
+II
+g) Addition or replacement (excluding biological or 
+immunological product) of a specification 
+parameter with its corresponding test method as 
+a result of a safety or quality issue
+
+1, 2, 3, 4, 5, 7
+IB
+h) Update of the dossier to comply with the 
+provisions of an updated general monograph of 
+the Ph. Eur for the finished product (*)
+1, 2, 3, 4, 7, 8
+1, 2
+IAIN
+i) Ph. Eur. 2.9.40 Uniformity of dosage units is 
+introduced to replace the currently registered 
+method, either Ph. Eur. 2.9.5 (Uniformity of mass) 
+or Ph. Eur. 2.9.6 (Uniformity of content)
+1, 2,10
+1, 2, 4
+IA
+Conditions
+
+1.	The change is not a consequence of any commitment from previous assessments to review specification limits 
+(e.g. made during the procedure for the marketing authorisation application or a type II variation procedure), 
+unless the supporting documentation has been already assessed and approved within another procedure.
+
+2.	The change does not result from unexpected events arising during manufacture, e.g. new unqualified impurity; 
+change in total impurity limits.
+
+3.	Any change should be within the range of currently approved limits.
+
+4.	The test procedure remains the same, or changes in the test procedure are minor.
+
+
+
+ 
+5.	Any new test method does not concern a novel non-standard technique or a standard technique used in a novel 
+way.
+
+6.	The test method is not a biological/immunological/immunochemical method or a method using a biological 
+reagent for a biological active substance.
+
+7.	The change does not concern any impurities (including genotoxic) or dissolution.
+
+8.	The change concerns the updating of the microbial control limits to be in line with the current Pharmacopoeia, 
+and the currently registered microbial control limits (present situation) are in line with the pre January 2008 
+(non-harmonised) situation and does not include any additional specified controls over the Pharmacopoeia 
+requirements for the particular dosage form and the proposed controls are in line with the harmonised mono 
+graph.
+
+9.	The specification parameter or proposal for the specific dosage form does not concern a critical parameter for 
+example:
+
+assay,
+
+impurities (unless a particular solvent is definitely not used in the manufacture of the finished product) 
+any critical physical characteristics (hardness or friability for uncoated tablets, dimensions, etc.)
+a test that is required for the particular dosage form in accordance with the general notices of the Ph. Eur.; 
+any request for skip testing.
+10.	The proposed control is fully in line with the Table 2.9.40.-1 of Ph. Eur. 2.9.40 monograph, and does not 
+include the alternative proposal for testing uniformity of dosage units by Mass Variation instead of Content 
+Uniformity when the latter is specified in Table 2.9.40.-1.
+
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+2.	Comparative table of current and proposed specifications.
+
+3.	Details of any new analytical method and validation data, where relevant.
+
+4.	Batch analysis data on two production batches (3 production batches for biologicals, unless otherwise justified) 
+of the finished product for all specification parameters
+
+5.	Where appropriate, comparative dissolution profile data for the finished product on at least one pilot batch 
+complying with the current and proposed specification. For herbal medicinal products, comparative disinte 
+gration data may be acceptable.
+
+6	Justification/risk assessment showing that the parameter is non-significant or that it is obsolete.
+
+7.	Justification of the new specification parameter and the limits
+
+
+(*) Note: there is no need to notify the competent authorities of an updated monograph of the European pharmacopoeia or a national 
+pharmacopoeia of a Member State in the case that reference is made to the 'current edition' in the dossier of an authorised 
+medicinal product. This variation therefore applies to cases where no reference to the updated monograph of the phar 
+macopoeia was contained in the technical dossier and the variation is made to make reference to the updated version.
+
+
+B.II.d.2 Change in test procedure for the finished product
+
+Conditions to 
+be fulfilled
+
+Documentation 
+to be supplied
+
+Procedure type
+
+a) Minor changes to an approved test procedure
+
+1, 2, 3, 4,
+
+1,2
+
+IA
+
+b) Deletion of a test procedure if an alternative 
+method is already authorised
+
+4
+
+1
+
+IA
+
+
+
+c) Substantial change to, or replacement of, a biologi 
+cal/immunological/immunochemical test method or 
+a method using a biological reagent or replacement 
+of a biological reference preparation not covered 
+by an approved protocol
+
+
+II
+d) Other changes to a test procedure (including 
+replacement or addition)
+
+1, 2
+IB
+e) Update of the test procedure to comply with the 
+updated general monograph in the Ph. Eur.
+2, 3, 4, 5
+1
+IA
+f) To reflect compliance with the Ph.Eur. and remove 
+reference to the outdated internal test method and 
+test method number (*)
+2, 3, 4, 5
+1
+IA
+Conditions
+
+1.	Appropriate validation studies have been performed in accordance with the relevant guidelines and show that the 
+updated test procedure is at least equivalent to the former test procedure.
+
+2.	There have been no changes of the total impurity limits; no new unqualified impurities are detected
+
+3.	The method of analysis should remain the same (e.g. a change in column length or temperature, but not a 
+different type of column or method);
+
+4.	The test method is not a biological/immunological/immunochemical method or a method using a biological 
+reagent (does not include standard pharmacopoeial microbiological methods).
+
+5.	The registered test procedure already refers to the general monograph of the Ph. Eur. and any changes are minor 
+in nature and require update of the technical dossier.
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate), including a description of the analytical methodology, a summary of 
+validation data, revised specifications for impurities (if applicable).
+
+2.	Comparative validation results or if justified comparative analysis results showing that the current test and the 
+proposed one are equivalent.; This requirement is not applicable in case of an addition of a new test procedure.
+
+(*) Note: there is no need to notify the competent authorities of an updated monograph of the European pharmacopoeia in the case that 
+reference is made to the 'current edition' in the dossier of an authorised medicinal product.
+
+B.II.d.3 Variations related to the introduction of real-time 
+release or parametric release in the manufacture of the 
+finished product
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+
+II
+
+
+
+
+
+B.II.e)	Container closure system
+
+B.II.e.1 Change in immediate packaging of the finished 
+product
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Qualitative and quantitative composition
+
+
+
+1. Solid pharmaceutical forms
+1, 2, 3
+1, 2, 3, 4, 6
+IA
+
+
+
+2. Semi-solid and non-sterile liquid pharmaceutical 
+forms
+
+1, 2, 3, 5, 6
+IB
+3. Sterile medicinal products and biological/im 
+munological medicinal products.
+
+
+II
+4. The change relates to a less protective pack 
+where there are associated changes in storage 
+conditions and/or reduction in shelf life.
+
+
+II
+b) Change in type of container or addition of a new 
+container
+
+
+
+1. Solid, semi-solid and non-sterile liquid phar 
+maceutical forms
+
+1, 2, 3, 5, 6, 7
+IB
+2. Sterile medicinal products and biological/im 
+munological medicinal products
+
+
+II
+3. Deletion of an immediate packaging container 
+that does not lead to the complete deletion of 
+a strength or pharmaceutical form
+4
+1, 8
+IA
+Conditions
+
+1.	The change only concerns the same packaging/container type (e.g. blister to blister).
+
+2.	The proposed packaging material must be at least equivalent to the approved material in respect of its relevant 
+properties.
+
+3.	Relevant stability studies have been started under ICH/VICH conditions and relevant stability parameters have been 
+assessed in at least two pilot scale or industrial scale batches and at least 3 months satisfactory stability data are at 
+the disposal of the applicant at time of implementation. However, if the proposed packaging is more resistant 
+than the existing packaging, e.g. thicker blister packaging, the 3 months' stability data do not yet have to be 
+available. These studies must be finalised and the data will be provided immediately to the competent authorities if 
+outside specifications or potentially outside specifications at the end of the approved shelf life (with proposed 
+action).
+
+4.	The remaining product presentation(s) must be adequate for the dosing instructions and treatment duration as 
+mentioned in the summary of product characteristics.
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate), including revised product information as appropriate.
+
+2.	Appropriate data on the new packaging (comparative data on permeability, e.g. for O2, CO2 moisture).
+
+3.	Where appropriate, proof must be provided that no interaction between the content and the packaging material 
+occurs (e.g. no migration of components of the proposed material into the content and no loss of components of 
+the product into the pack), including confirmation that the material complies with relevant pharmacopoeial 
+requirements or legislation of the Union on plastic material and objects in contact with foodstuffs.
+
+4.	A declaration that the required stability studies have been started under ICH/VICH conditions (with indication of 
+the batch numbers concerned) and that, as relevant, the required minimum satisfactory stability data were at the 
+disposal of the applicant at time of implementation and that the available data did not indicate a problem. 
+Assurance should also be given that the studies will be finalised and that data will be provided immediately to the 
+competent authorities if outside specifications or potentially outside specifications at the end of the approved shelf 
+life (with proposed action).
+
+5.	The results of stability studies that have been carried out under ICH/VICH conditions, on the relevant stability 
+parameters, on at least two pilot or industrial scale batches, covering a minimum period of 3 months, and an 
+assurance is given that these studies will be finalised, and that data will be provided immediately to the competent 
+authorities if outside specifications or potentially outside specifications at the end of the approved shelf life (with 
+proposed action).
+
+
+
+ 
+6.	Comparative table of the current and proposed immediate packaging specifications, if applicable.
+
+7.	Samples of the new container/closure where applicable (see NTA, Requirements for samples in the Member 
+States/EMA).
+
+8.	Declaration that the remaining pack-size(s) is/are consistent with the dosage regimen and duration of treatment 
+and adequate for the dosing instructions as approved in the summary of product characteristics.
+
+
+Note: for B.II.e.1.b), applicants are reminded that any change which results in a 'new pharmaceutical form' requires the submission of 
+an Extension application.
+
+
+B.II.e.2 Change in the specification parameters and/or 
+limits of the immediate packaging of the finished product
+
+Conditions to 
+be fulfilled
+
+Documentation 
+to be supplied
+Procedure type
+a) Tightening of specification limits
+1, 2, 3, 4
+1, 2
+IA
+
+b) Addition of a new specification parameter to the 
+specification with its corresponding test method
+1, 2, 5
+1, 2, 3, 4, 6
+IA
+
+c) Deletion	of	a	non-significant	specification 
+parameter (e.g. deletion of an obsolete parameter)
+1, 2
+1, 2, 5
+IA
+
+d) Addition or replacement of a specification 
+parameter as a result of a safety or quality issue
+
+1, 2, 3, 4, 6
+IB
+
+Conditions
+
+1.	The change is not a consequence of any commitment from previous assessments to review specification limits 
+(e.g. made during the procedure for the marketing authorisation application or a type II variation procedure).
+
+2.	The change does not result from unexpected events arising during manufacture
+
+3.	Any change should be within the range of currently approved limits.
+
+4.	The test procedure remains the same, or changes in the test procedure are minor.
+
+5.	Any new test method does not concern a novel non-standard technique or a standard technique used in a novel 
+way
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+2.	Comparative table of current and proposed specifications.
+
+3.	Details of any new analytical method and validation data, where relevant.
+
+4.	Batch analysis data on two batches of the immediate packaging for all specification parameters.
+
+5.	Justification/risk assessment showing that the parameter is non-significant or that it is obsolete.
+
+6.	Justification of the new specification parameter and the limits.
+
+
+B.II.e.3 Change in test procedure for the immediate 
+packaging of the finished product
+
+Conditions to 
+be fulfilled
+
+Documentation 
+to be supplied
+Procedure type
+a) Minor changes to an approved test procedure
+1, 2, 3
+1, 2
+IA
+
+
+
+b) Other changes to a test procedure (including 
+replacement or addition)
+1, 3, 4
+1, 2
+IA
+c) Deletion of a test procedure if an alternative test 
+procedure is already authorised
+5
+1
+IA
+Conditions
+
+1.	Appropriate validation studies have been performed in accordance with the relevant guidelines and validation 
+studies show that the updated test procedure is at least equivalent to the former test procedure.
+
+2.	The method of analysis should remain the same (e.g. a change in column length or temperature, but not a 
+different type of column or method).
+
+3.	Any new test method does not concern a novel non-standard technique or a standard technique used in a novel 
+way.
+
+4.	The active substance/finished product is not biological/immunological.
+
+5.	An alternative test procedure is already authorised for the specification parameter and this procedure has not been 
+added through IA/IA(IN) notification.
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate), including a description of the analytical methodology, a summary of 
+validation data.
+
+2.	Comparative validation results or if justified comparative analysis results showing that the current test and the 
+proposed one are equivalent. This requirement is not applicable in case of an addition of a new test procedure.
+
+B.II.e.4 Change in shape or dimensions of the container 
+or closure (immediate packaging)
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Non-sterile medicinal products
+1, 2, 3
+1, 2, 4
+IA
+b) The change in shape or dimensions concerns a 
+fundamental part of the packaging material, which 
+may have a significant impact on the delivery, use, 
+safety or stability of the finished product
+
+
+II
+c) Sterile medicinal products
+
+1, 2, 3, 4
+IB
+Conditions
+
+1.	No change in the qualitative or quantitative composition of the container.
+
+2.	The change does not concern a fundamental part of the packaging material, which affects the delivery, use, safety 
+or stability of the finished product.
+
+3.	In case of a change in the headspace or a change in the surface/volume ratio, stability studies in accordance with 
+the relevant guidelines have been started and relevant stability parameters have been assessed in at least two pilot 
+scale (three for biological/immunological medicinal products) or industrial scale batches and at least 3 months (6 
+months for biological/immunological medicinal products) stability data are at the disposal of the applicant. 
+Assurance is given that these studies will be finalised and that data will be provided immediately to the 
+competent authorities if outside specifications or potentially outside specifications at the end of the approved 
+shelf life (with proposed action).
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate), including description, detailed drawing and composition of the container 
+or closure material, and including revised product information as appropriate.
+
+
+
+ 
+2.	Samples of the new container/closure where applicable (see NTA, Requirements for samples in the Member 
+States).
+
+3.	Revalidation studies have been performed in case of sterile products terminally sterilised. The batch numbers of 
+the batches used in the revalidation studies should be indicated, where applicable.
+
+4.	In case of a change in the headspace or a change in the surface/volume ratio, a declaration that the required 
+stability studies have been started under ICH/VICH conditions (with indication of the batch numbers concerned) 
+and that, as relevant, the required minimum satisfactory stability data were at the disposal of the applicant at time 
+of implementation for a Type IA notification and time of submission of a Type IB notification, and that the 
+available data did not indicate a problem. Assurance should also be given that the studies will be finalised and that 
+data will be provided immediately to the competent authorities if outside specifications or potentially outside 
+specifications at the end of the approved shelf life (with proposed action).
+
+B.II.e.5 Change in pack size of the finished product
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Change in the number of units (e.g. tablets, 
+ampoules, etc.) in a pack
+
+
+
+1. Change within the range of the currently 
+approved pack sizes
+1, 2
+1, 3
+
+IAIN
+2. Change outside the range of the currently 
+approved pack sizes
+
+1, 2, 3
+IB
+b) Deletion of pack size(s)
+3
+1, 2
+IA
+c) Change in the fill weight/fill volume of sterile 
+multidose (or single-dose, partial use) parenteral 
+medicinal products, including biological/immuno 
+logical medicinal products
+
+
+II
+d) Change in the fill weight/fill volume of non- 
+parenteral multi-dose (or single-dose, partial use) 
+products
+
+1, 2, 3
+IB
+Conditions
+
+1.	New pack size should be consistent with the posology and treatment duration as approved in the Summary of 
+Product Characteristics.
+
+2.	The primary packaging material remains the same.
+
+3.	The remaining product presentation(s) must be adequate for the dosing instructions and treatment duration as 
+mentioned in the Summary of Product Characteristics.
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate) including revised product information as appropriate.
+
+2.	Justification for the new/remaining pack-size, showing that the new/remaining size is/are consistent with the 
+dosage regimen and duration of treatment as approved in the summary of product characteristics
+
+3.	Declaration that stability studies will be conducted in accordance with the relevant guidelines for products where 
+stability parameters could be affected. Data to be reported only if outside specifications (with proposed action).
+
+
+Note: for B.II.e.5.c) and d), applicants are reminded that any changes to the 'strength' of the medicinal product require the submission 
+of an Extension application.
+
+
+
+
+B.II.e.6 Change in any part of the (primary) packaging 
+material not in contact with the finished product formu 
+lation (such as colour of flip-off caps, colour code rings 
+on ampoules, change of needle shield (different plastic 
+used))
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Change that affects the product information
+1
+1
+IAIN
+b) Change that 
+information
+does
+not
+affect
+the
+product
+1
+1
+IA
+Conditions
+
+1. The change does not concern a part of the packaging material, which affects the delivery, use, safety or stability of 
+the finished product.
+
+Documentation
+
+1. Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate), including revised product information as appropriate.
+
+B.II.e.7 Change in supplier of packaging components or 
+devices (when mentioned in the dossier)
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Deletion of a supplier
+1
+1
+IA
+b) Replacement or addition of a supplier
+1, 2, 3, 4
+1, 2, 3
+IA
+c) Any change to suppliers of spacer devices for 
+metered dose inhalers
+
+
+II
+Conditions
+
+1.	No deletion of packaging component or device.
+
+2.	The qualitative and quantitative composition of the packaging components/device and design specifications 
+remain the same.
+
+3.	The specifications and quality control method are at least equivalent.
+
+4.	The sterilisation method and conditions remain the same, if applicable.
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+2.	For devices for medicinal products for human use, proof of CE marking.
+
+3.	Comparative table of current and proposed specifications, if applicable.
+
+
+
+
+B.II.f)	Stability
+
+B.II.f.1 Change in the shelf-life or storage conditions of 
+the finished product
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Reduction of the shelf life of the finished product
+
+
+
+1. As packaged for sale
+1
+1, 2, 3
+IAIN
+
+
+
+2. After first opening
+1
+1, 2, 3
+
+IAIN
+3. After dilution or reconstitution
+1
+1, 2, 3
+
+IAIN
+b) Extension of the shelf life of the finished product
+
+
+
+1. As packaged for sale (supported by real time 
+data)
+
+1, 2, 3
+IB
+2. After first opening (supported by real time data)
+
+1, 2, 3
+IB
+3. After dilution or reconstitution (supported by 
+real time data)
+
+1, 2, 3
+IB
+4. Extension of the shelf-life based on extra 
+polation of stability data not in accordance 
+with ICH/VICH guidelines (*)
+
+
+II
+5. Extension of the shelf-life of a biological/im 
+munological medicinal product in accordance 
+with an approved stability protocol.
+
+1, 2, 3
+IB
+c) Change in storage conditions for biological 
+medicinal products, when the stability studies 
+have not been performed in accordance with an 
+approved stability protocol
+
+
+II
+d) Change in storage conditions of the finished 
+product or the diluted/reconstituted product
+
+1, 2, 3
+IB
+e) Change to an approved stability protocol
+1, 2
+1, 4
+IA
+Conditions
+
+1.	The change should not be the result of unexpected events arising during manufacture or because of stability 
+concerns.
+
+2.	The change does not concern a widening of the acceptance criteria in the parameters tested, a removal of stability 
+indicating parameters or a reduction in the frequency of testing.
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate). This must contain results of appropriate real time stability studies 
+(covering the entire shelf life) conducted in accordance with the relevant stability guidelines on at least two 
+pilot scale batches (1) of the finished product in the authorised packaging material and/or after first opening or 
+reconstitution, as appropriate; where applicable, results of appropriate microbiological testing should be included.
+
+2.	Revised product information
+
+3.	Copy of approved end of shelf life finished product specification and where applicable, specifications after 
+dilution/reconstitution or first opening.
+
+4.	Justification for the proposed change(s).
+
+(*) Note: extrapolation not applicable for biological/immunological medicinal product.
+(1) Pilot scale batches can be accepted with a commitment to verify the shelf life on production scale batches.
+
+
+
+B.II.g)	Design Space and post approval change management protocol
+
+B.II.g.1 Introduction of a new design space or extension 
+of an approved design space for the finished product, 
+concerning:
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) One or more unit operations in the manufacturing 
+process of the finished product including the 
+resulting in-process controls and/or test procedures
+
+1, 2, 3
+II
+b) Test procedures for excipients/intermediates and/or 
+the finished product.
+
+1, 2, 3
+II
+Documentation
+
+1.	Results from product and process development studies (including risk assessment and multivariate studies, as 
+appropriate) demonstrating that a systematic mechanistic understanding of material attributes and process 
+parameters to the critical quality attributes of the finished product has been achieved.
+
+2.	Description of the design space in tabular format, including the variables (material attributes and process 
+parameters, as appropriate) and their proposed ranges.
+
+3.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+B.II.g.2 Introduction	of	a	post	approval	change 
+management protocol related to the finished product
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+1, 2, 3
+II
+Documentation
+
+1.	Detailed description for the proposed change.
+
+2.	Change management protocol related to the finished product.
+
+3.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+B.II.g.3 Deletion of an approved change management 
+protocol related to the finished product
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+1
+1, 2
+
+IAIN
+Conditions
+
+1.	The deletion of the approved change management protocol related to the finish product is not a result of 
+unexpected events or out of specification results during the implementation of the change(s) described in the 
+protocol and does not have any effect on the already approved information in the dossier.
+
+Documentation
+
+1.	Justification for the proposed deletion.
+
+2.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+B.II.g.4 Changes to an approved change management 
+protocol
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Major changes to an approved change management 
+protocol
+
+
+II
+
+
+
+b) Minor changes to an approved change management 
+protocol that do not change the strategy defined in 
+the protocol
+
+1
+IB
+Documentation
+
+1. Declaration that any change should be within the range of currently approved limits. In addition, declaration that 
+an assessment of comparability is not required for biological/immunological medicinal products.
+
+B.II.g.5 Implementation of changes foreseen in an 
+approved change management protocol
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) The implementation of the change requires no 
+further supportive data
+1
+1, 2, 4
+IAIN
+b) The implementation of the change requires further 
+supportive data
+
+1, 2, 3, 4
+IB
+c) Implementation of a change for a biological/im 
+munological medicinal product
+
+1, 2, 3, 4, 5
+IB
+Conditions
+
+1.	The proposed change has been performed fully in line with the approved change management protocol, which 
+requires its immediate notification following implementation.
+
+Documentation
+
+1.	Reference to the approved change management protocol.
+
+2.	Declaration that the change is in accordance with the approved change management and that the study results 
+meet the acceptance criteria specified in the protocol. In addition, declaration that an assessment of comparability 
+is not required for biological/immunological medicinal products.
+
+3.	Results of the studies performed in accordance with the approved change management protocol.
+
+4.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+5.	Copy of approved specifications of the finished product.
+
+
+
+
+B.II.h Adventitious Agents Safety
+
+B.II.h.1 Update to the 'Adventitious Agents Safety Evalu 
+ation' information (section 3.2.A.2)
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Studies related to manufacturing steps investigated 
+for the first time for one or more adventitious 
+agents
+
+
+II
+b) Replacement of obsolete studies related to manu 
+facturing steps and adventitious agents already 
+reported in the dossier
+
+
+
+1) with modification of risk assessment
+
+
+II
+2) without modification of risk assessment
+
+1, 2, 3
+IB
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossiers including the introduction of the new studies to investigate 
+the capability of manufacturing steps to inactivate/reduce adventitious agents.
+
+
+
+ 
+2.	Justification that the studies do not modify the risk assessment.
+
+3.	Amendment of product information (where applicable).
+
+
+
+
+B.III CEP/TSE/MONOGRAPHS
+
+B.III.1 Submission of a new or updated Ph. Eur. 
+certificate of suitability or deletion of Ph. Eur. certificate 
+of suitability:
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+For an active substance
+
+For a starting material/reagent/intermediate used in the 
+manufacturing process of the active substance
+
+For an excipient
+
+
+
+a) European Pharmacopoeial Certificate of Suitability 
+to the relevant Ph. Eur. Monograph.
+
+
+
+1. New certificate from an already approved manufac 
+turer
+1, 2, 3, 4, 5, 8,
+11
+1, 2, 3, 4, 5
+IAIN
+2. Updated certificate from an already approved manu 
+facturer
+1, 2, 3, 4, 8
+1, 2, 3, 4, 5
+IA
+3. New	certificate	from	a	new	manufacturer 
+(replacement or addition)
+1, 2, 3, 4, 5, 8,
+11
+1, 2, 3, 4, 5
+IAIN
+4. Deletion of certificates (in case multiple certificates 
+exist per material)
+10
+3
+IA
+5. New certificate for a non-sterile active substance that 
+is to be used in a sterile medicinal product, where 
+water is used in the last steps of the synthesis and 
+the material is not claimed to be endotoxin free
+
+1, 2, 3, 4, 5, 6
+IB
+b) European Pharmacopoeial TSE Certificate of suit 
+ability for an active substance/starting material/ 
+reagent/intermediate/or excipient
+
+
+
+1. New certificate for an active substance from a new 
+or an already approved manufacturer
+3, 5, 6, 11
+1, 2, 3, 4, 5
+IAIN
+2. New certificate for a starting material/reagent/inter 
+mediate/or excipient from a new or an already 
+approved manufacturer
+3, 6, 9
+1, 2, 3, 4, 5
+IA
+3. Updated certificate from an already approved manu 
+facturer
+7, 9
+1, 2, 3, 4, 5
+IA
+4. Deletion of certificates (in case multiple certificates 
+exist per material)
+10
+3
+IA
+5. New/updated certificate from an already- 
+approved/new manufacturer using materials of 
+human or animal origin for which an assessment 
+of the risk with respect to potential contami 
+nation with adventitious agents is required
+
+
+II
+
+
+
+ 
+
+Conditions
+
+1.	The finished product release and end of shelf life specifications remain the same.
+
+2.	Unchanged (excluding tightening) additional (to Ph. Eur.) specifications for impurities (excluding residual 
+solvents, provided they are in compliance with ICH/VICH) and product specific requirements (e.g. particle size 
+profiles, polymorphic form), if applicable.
+
+3.	The manufacturing process of the active substance, starting material/reagent/intermediate does not include the 
+use of materials of human or animal origin for which an assessment of viral safety data is required.
+
+4.	For active substance only, it will be tested immediately prior to use if no retest period is included in the Ph. Eur. 
+Certificate of Suitability or if data to support a retest period is not already provided in the dossier.
+
+5.	The active substance/starting material/reagent/intermediate/excipient is not sterile.
+
+6.	The substance is not included in a veterinary medicinal product for use in animal species susceptible to TSE
+
+7.	For veterinary medicinal products: there has been no change in the source of material.
+
+8.	For herbal active substances: the manufacturing route, physical form, extraction solvent and drug extract ratio 
+(DER) should remain the same.
+
+9.	If Gelatine manufactured from bones is to be used in a medicinal product for parenteral use, it should only be 
+manufactured in compliance with the relevant country requirements.
+
+10.	At least one manufacturer for the same substance remains in the dossier.
+
+11.	If the active substance is a not a sterile substance but is to be used in a sterile medicinal product then according 
+to the CEP it must not use water during the last steps of the synthesis or if it does the active substance must also 
+be claimed to be free from bacterial endotoxins.
+
+
+Documentation
+
+1.	Copy of the current (updated) Ph. Eur. Certificate of Suitability.
+
+2.	In case of an addition of a manufacturing site, the variation application form should clearly outline the 'present' 
+and 'proposed' manufacturers as listed in section 2.5 of the application form.
+
+3.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format).
+
+4.	Where applicable, a document providing information of any materials falling within the scope of the Note for 
+Guidance on Minimising the Risk of Transmitting Animal Spongiform Encephalopathy Agents via Human and Veterinary 
+Medicinal Products including those which are used in the manufacture of the active substance/excipient. The 
+following information should be included for each such material: Name of manufacturer, species and tissues 
+from which the material is a derivative, country of origin of the source animals and its use.
+
+For the Centralised Procedure, this information should be included in an updated TSE table A (and B, if relevant).
+
+5.	Where applicable, for active substance, a declaration by the Qualified Person (QP) of each of the manufacturing 
+authorisation holders listed in the application where the active substance is used as a starting material and a 
+declaration by the QP of each of the manufacturing authorisation holders listed in the application as responsible 
+for batch release. These declarations should state that the active substance manufacturer(s) referred to in the 
+application operate in compliance with the detailed guidelines on good manufacturing practice for starting 
+materials. A single declaration may be acceptable under certain circumstances - see the note under variation 
+No B.II.b.1. The manufacture of intermediates also require a QP declaration, while as far as any updates to 
+certificates for active substances and intermediates are concerned, a QP declaration is only required if, 
+compared to the previously registered version of the certificate, there is a change to the actual listed manu 
+facturing sites.
+
+6.	Suitable evidence to confirm compliance of the water used in the final steps of the synthesis of the active 
+substance with the corresponding requirements on quality of water for pharmaceutical use.
+
+
+
+
+
+B.III.2 Change to comply with Ph. Eur. or with a national 
+pharmacopoeia of a Member State
+
+Conditions to 
+be fulfilled
+
+Documentation 
+to be supplied
+
+Procedure type
+
+a) Change of specification(s) of a former non-EU Phar 
+macopoeial substance to fully comply with the Ph. 
+Eur. or with a national pharmacopoeia of a 
+Member State
+
+
+
+
+1. Active substance
+
+1, 2, 3, 4, 5
+
+1, 2, 3, 4
+
+IAIN
+
+2. Excipient/active substance starting material
+
+1, 2,4
+
+1, 2, 3, 4
+
+IA
+
+b) Change to comply with an update of the relevant 
+monograph of the Ph. Eur. or national phar 
+macopoeia of a Member State
+
+1, 2, 4, 5
+
+1, 2, 3, 4
+
+IA
+
+c) Change in specifications from a national phar 
+macopoeia of a Member State to the Ph. Eur.
+
+1, 4, 5
+
+1, 2, 3, 4
+
+IA
+
+Conditions
+
+1.	The change is made exclusively to fully comply with the pharmacopoeia. All the tests in the specification need to 
+correspond to the pharmacopoeial standard after the change, except any additional supplementary tests.
+
+2.	Additional specifications to the pharmacopoeia for product specific properties are unchanged (e.g. particle size 
+profiles, polymorphic form or, e.g. bioassays, aggregates).
+
+3.	No significant changes in qualitative and quantitative impurities profile unless the specifications are tightened
+
+4.	Additional validation of a new or changed pharmacopoeial method is not required
+
+5.	For herbal active substances: the manufacturing route, physical form, extraction solvent and drug extract ratio 
+(DER) should remain the same.
+
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+2.	Comparative table of current and proposed specifications.
+
+3.	Batch analysis data (in a comparative tabulated format) on two production batches of the relevant substance for 
+all tests in the new specification and additionally, where appropriate, comparative dissolution profile data for the 
+finished product on at least one pilot batch. For herbal medicinal products, comparative disintegration data may 
+be acceptable.
+
+4.	Data to demonstrate the suitability of the monograph to control the substance, e.g. a comparison of the potential 
+impurities with the transparency note of the monograph.
+
+
+Note: there is no need to notify the competent authorities of an updated monograph of the European pharmacopoeia or a national 
+pharmacopoeia of a Member State in the case that reference is made to the 'current edition' in the dossier of an authorised 
+medicinal product.
+
+
+
+B.IV MEDICAL DEVICES
+
+B.IV.1 Change of a measuring or administration device
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Addition or replacement of a device which is not 
+an integrated part of the primary packaging
+
+
+
+1. Device with CE marking
+1, 2, 3, 6, 7
+1, 2, 4
+
+IAIN
+2. Device without CE marking for veterinary 
+products only
+
+1, 3, 4
+IB
+3. Spacer device for metered dose inhalers or 
+other device which may have a significant 
+impact on the delivery of the active substance 
+in the product (e.g. nebuliser)
+
+
+II
+b) Deletion of a device
+4, 5
+1, 5
+
+IAIN
+c) Addition or replacement of a device which is an 
+integrated part of the primary packaging
+
+
+II
+Conditions
+
+1.	The proposed measuring or administration device must accurately deliver the required dose for the product 
+concerned in line with the approved posology and results of such studies should be available.
+
+2.	The new device is compatible with the medicinal product.
+
+3.	The change should not lead to substantial amendments of the product information.
+
+4.	The medicinal product can still be accurately delivered.
+
+5.	For veterinary medicinal products, the device is not crucial for the safety of the person administering the product.
+
+6.	The medical device is not used as a solvent of the medicinal product.
+
+7.	If a measuring function is intended the CE marking should cover the measuring function.
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate), including description, detailed drawing and composition of the device 
+material and supplier where appropriate, and including revised product information as appropriate.
+
+2.	Proof of CE marking and if a measuring function is intended the proof of CE marking should also include the 4 
+digit notified body number.
+
+3.	Data to demonstrate accuracy, precision and compatibility of the device.
+
+4.	Samples of the new device where applicable (see NTA, Requirements for samples in the Member States).
+
+5.	Justification for the deletion of the device.
+
+
+Note: for B.IV.1.c), applicants are reminded that any change which results in a 'new pharmaceutical form' requires the submission of 
+an Extension application.
+
+
+
+
+B.IV.2 Change in specification parameters and/or limits of 
+a measuring or administration device for veterinary 
+medicinal products
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Tightening of specification limits
+1, 2, 3, 4
+1, 2
+IA
+b) Addition of a new specification parameter to the 
+specification with its corresponding test method
+1, 2, 5
+1, 2, 3, 4, 6
+IA
+c) Widening of the approved specifications limits, 
+which has a significant effect on the overall 
+quality of the device
+
+
+II
+d) Deletion of a specification parameter that has a 
+significant effect on the overall quality of the 
+device
+
+
+II
+e) Addition of a specification parameter as a result of 
+a safety or quality issue
+
+1, 2, 3, 4, 6
+IB
+f) Deletion	of	a	non-significant	specification 
+parameter (e.g. deletion of an obsolete parameter)
+1, 2
+1, 2, 5
+IA
+Conditions
+
+1.	The change is not a consequence of any commitment from previous assessments to review specification limits 
+(e.g. made during the procedure for the marketing authorisation application or a type II variation procedure) 
+unless the supporting documentation has been already assessed and approved within another procedure.
+
+2.	The change should not be the result of unexpected events arising during manufacture.
+
+3.	Any change should be within the range of currently approved limits.
+
+4.	The test procedure remains the same
+
+5.	Any new test method does not concern a novel non-standard technique or a standard technique used in a novel 
+way.
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate).
+
+2.	Comparative table of current and proposed specifications.
+
+3.	Details of any new analytical method and summary of validation data.
+
+4.	Batch analysis data on two production batches for all tests in the new specification.
+
+5.	Justification/risk assessment showing that the parameter is non-significant based or that it is obsolete.
+
+6.	Justification for the new specification parameter and the limits
+
+B.IV.3 Change in test procedure of a measuring or admin 
+istration device for veterinary medicinal products
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Minor change to an approved test procedure
+1, 2
+1, 2
+IA
+
+
+
+b) Other changes to a test procedure (including 
+replacement or addition)
+1, 3
+1, 2
+IA
+c) Deletion of a test procedure if an alternative test 
+procedure is already authorised
+4
+1
+IA
+Conditions
+
+1.	Appropriate validation studies have been performed in accordance with the relevant guidelines and show that the 
+updated test procedure is at least equivalent to the former test procedure.
+
+2.	The method of analysis should remain the same.
+
+3.	Any new test method does not concern a novel non-standard technique or a standard technique used in a novel 
+way
+
+4.	An alternative test procedure is already authorised for the specification parameter and this procedure has not been 
+added through IA/IA(IN) notification.
+
+Documentation
+
+1.	Amendment of the relevant section(s) of the dossier (presented in the EU-CTD format or NTA volume 6B format 
+for veterinary products, as appropriate), including a description of the analytical methodology and a summary of 
+validation data.
+
+2.	Comparative validation results or if justified comparative analysis results showing that the current test and the 
+proposed one are equivalent. This requirement is not applicable in case of an addition of a new test procedure.
+
+
+B.V.	CHANGES TO A MARKETING AUTHORISATION RESULTING FROM OTHER 
+REGULATORY PROCEDURES
+
+B.V.a)	PMF/VAMF
+
+B.V.a.1 Inclusion of a new, updated or amended Plasma 
+Master File in the marketing authorisation dossier of a 
+medicinal product. (PMF 2nd step procedure)
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) First-time inclusion of a new Plasma Master File 
+affecting the properties of the finished product
+
+
+II
+b) First-time inclusion of a new Plasma Master File 
+not affecting the properties of the finished product
+
+1, 2, 3, 4
+IB
+c) Inclusion of an updated/amended Plasma Master 
+File when changes affect the properties of the 
+finished product
+
+1, 2, 3, 4
+IB
+d) Inclusion of an updated/amended Plasma Master 
+File when changes do not affect the properties of 
+the finished product
+1
+1, 2, 3, 4
+IAIN
+Conditions
+
+1.	The updated or amended Plasma Master File has been granted a certificate of compliance with legislation of the 
+Union in accordance with Annex I of Directive 2001/83/EC.
+
+Documentation
+
+1.	Declaration that the PMF Certificate and Evaluation Report are fully applicable for the authorised product, PMF 
+holder has provided the PMF Certificate, Evaluation report and PMF dossier to the MAH (where the MAH is 
+different to the PMF holder), the PMF Certificate and Evaluation Report replace the previous PMF documentation 
+for this Marketing Authorisation.
+
+
+
+ 
+2.	PMF Certificate and Evaluation Report.
+
+3.	An expert statement outlining all the changes introduced with the certified PMF and evaluating their potential 
+impact on the finished products including product specific risk assessments.
+
+4.	The variation application form should clearly outline the 'present' and 'proposed' PMF EMA Certificate (code 
+number) in the MA dossier. When applicable, the variation application form should clearly list also all the other 
+PMFs to which the medicinal product refers even if they are not the subject of the application.
+
+B.V.a.2 Inclusion of a new, updated or amended Vaccine 
+Antigen Master File in the marketing authorisation 
+dossier of a medicinal product. (VAMF 2nd step 
+procedure)
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) First-time inclusion of a new Vaccine Antigen 
+Master File
+
+
+II
+b) Inclusion of an updated/amended Vaccine Antigen 
+Master File, when changes affect the properties of 
+the finished product
+
+1, 2, 3, 4
+IB
+c) Inclusion of an updated/amended Vaccine Antigen 
+Master File, when changes do not affect the prop 
+erties of the finished product
+1
+1, 2, 3, 4
+
+IAIN
+Conditions
+
+1.	The updated or amended Vaccine Antigen Master File has been granted a certificate of compliance with legislation 
+of the Union in accordance with Annex I to Directive 2001/83/EC.
+
+Documentation
+
+1.	Declaration that the VAMF Certificate and Evaluation Report are fully applicable for the authorised product, VAMF 
+holder has submitted the VAMF Certificate, Evaluation report and VAMF dossier to the MAH (where the MAH is 
+different to the VAMF holder), the VAMF Certificate and Evaluation Report replace the previous VAMF docu 
+mentation for this Marketing Authorisation.
+
+2.	VAMF Certificate and Evaluation Report.
+
+3.	An expert statement outlining all the changes introduced with the certified VAMF and evaluating their potential 
+impact on the finished products including product specific risk assessments.
+
+4.	The variation application form should clearly outline the 'present' and 'proposed' VAMF EMA Certificate (code 
+number) in the MA dossier. When applicable, the variation application form should clearly list also all the other 
+VAMFs to which the medicinal product refers even if they are not the subject of the application.
+
+
+
+
+
+
+B.V.b)	Referral
+
+B.V.b.1 Update of the quality dossier intended to 
+implement the outcome of a Union referral procedure
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) The change implements the outcome of the referral
+1
+1, 2
+
+IAIN
+b) The harmonisation of the quality dossier was not 
+part of the referral and the update is intended to 
+harmonise it
+
+
+II
+
+
+
+ 
+Conditions
+
+1.	The outcome does not require further assessment.
+
+Documentation
+
+1.	Attached to the cover letter of the variation application: A reference to the Commission Decision concerned.
+
+2.	The changes introduced during the referral procedure should be clearly highlighted in the submission.
+
+
+
+C.	SAFETY, EFFICACY, PHARMACOVIGILANCE CHANGES
+
+C.I	HUMAN AND VETERINARY MEDICINAL PRODUCTS
+
+C.I.1 Change(s) in the Summary of Product Character 
+istics, Labelling or Package Leaflet intended to 
+implement the outcome of a Union referral procedure
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) The medicinal product is covered by the defined 
+scope of the procedure
+1
+1, 2, 3
+IAIN
+b) The medicinal product is not covered by the 
+defined scope of the procedure but the change(s) 
+implements the outcome of the procedure and no 
+new additional data is required to be submitted by 
+the MAH
+
+1, 2, 3
+IB
+c) The medicinal product is not covered by the 
+defined scope of the procedure but the change(s) 
+implements the outcome of the procedure with 
+new additional data submitted by the MAH
+
+1, 3
+II
+Conditions
+
+1.	The variation implements the wording requested by the authority and it does not require the submission of 
+additional information and/or further assessment.
+
+Documentation
+
+1.	Attached to the cover letter of the variation application: a reference to the Commission Decision concerned or to 
+the agreement reached by the CMDh (as applicable) with the annexed Summary of Product Characteristics, 
+Labelling or Package Leaflet.
+
+2.	A declaration that the proposed Summary of Product Characteristics, Labelling and Package Leaflet is identical for 
+the concerned sections to that annexed to the Commission Decision or to the agreement reached by the CMDh 
+(as applicable).
+
+3.	Revised product information.
+
+C.I.2 Change(s) in the Summary of Product Character 
+istics, Labelling or Package Leaflet of a generic/hybrid/ 
+biosimilar medicinal products following assessment of 
+the same change for the reference product
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Implementation of change(s) for which no new 
+additional data is required to be submitted by the 
+MAH
+
+1, 2
+IB
+b) Implementation of change(s) which require to be 
+further substantiated by new additional data to be 
+submitted by the MAH (e.g. comparability)
+
+
+II
+
+
+
+ 
+Documentation
+
+1.	Attached to the cover letter of the variation application: EMA/NCA request, if applicable.
+
+2.	Revised product information.
+
+C.I.3 Change(s) in the Summary of Product Character 
+istics, Labelling or Package Leaflet of human medicinal 
+products intended to implement the outcome of a 
+procedure concerning PSUR or PASS, or the outcome 
+of the assessment done by the competent authority 
+under Article 45 or 46 of Regulation (EC) No 1901/2006
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Implementation of 
+competent authority
+wording
+agreed
+by
+the
+1
+1, 2
+
+IAIN
+b) Implementation of change(s) which require to be 
+further substantiated by new additional data to be 
+submitted by the MAH
+
+2
+II
+Conditions
+
+1.	The variation implements the wording requested by the competent authority and it does not require the 
+submission of additional information and/or further assessment.
+
+Documentation
+
+1.	Attached to the cover letter of the variation application: reference to the agreement/assessment of the competent 
+authority.
+
+2.	Revised product information.
+
+C.I.4 Change(s) in the Summary of Product Character 
+istics, Labelling or Package Leaflet due to new quality, 
+preclinical, clinical or pharmacovigilance data.
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+
+II
+Note: this variation does not apply when the new data has been submitted under variation C.I.13. In such cases, the change(s) in the 
+SmPC, labelling and/or package leaflet is covered by the scope of variation C.I.13.
+
+C.I.5 Change in the legal status of a medicinal product 
+for centrally authorised products
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) For generic/hybrid/biosimilar medicinal products 
+following an approved legal status change of the 
+reference medicinal product
+
+1, 2
+IB
+b) All other legal status changes
+
+
+II
+
+Documentation
+
+1.	Attached to the cover letter of the variation application: proof of authorisation of the legal status change (e.g. 
+reference to the Commission Decision concerned).
+
+2.	Revised product information.
+
+Note: for Nationally Authorised Products approved via MRP/DCP, the change of the legal status is to be handled at national level (not 
+via a MRP variation).
+
+
+
+
+C.I.6 Change(s) to therapeutic indication(s)
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Addition of a new therapeutic indication or modi 
+fication of an approved one
+
+
+II
+b) Deletion of a therapeutic indication
+
+
+IB
+
+Note: where the change takes place in the context of the implementation of the outcome of a referral procedure, or - for a 
+generic/hybrid/biosimilar product - when the same change has been done for the reference product, variations C.I.1 and C.I.2 
+apply, respectively.
+
+C.I.7 Deletion of:
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) a pharmaceutical form
+
+1, 2
+IB
+b) a strength
+
+1, 2
+IB
+
+Documentation
+
+1.	Declaration that the remaining product presentation(s) are adequate for the dosing instructions and treatment 
+duration as mentioned in the summary of product characteristics.
+
+2.	Revised product information
+
+Note: in cases where a given pharmaceutical form or strength has received a marketing authorisation which is separate to the 
+marketing authorisation for other pharmaceutical forms or strengths, the deletion of the former will not be a variation but the 
+withdrawal of the marketing authorisation.
+
+C.I.8 Introduction of, or changes to, a summary of phar 
+macovigilance system for medicinal products for human 
+use (*)
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Introduction of a summary of pharmacovigilance 
+system, changes in QPPV (including contact 
+details) and/or changes in the Pharmacovigilance 
+System Master File (PSMF) location
+
+1, 2
+
+IAIN
+
+Documentation
+
+1.	Summary of the pharmacovigilance system, or update of the relevant elements (as applicable):
+
+-	Proof that the applicant has at his disposal a qualified person responsible for pharmacovigilance and a 
+statement signed by the applicant to the effect that the applicant has the necessary means to fulfil the 
+tasks and responsibilities listed in Title IX of Directive 2001/83/EC.
+
+-	Contact details of the QPPV, Member States in which the QPPV resides and carries out his/her tasks
+
+-	PSMF location
+
+2.	PSMF number (if available)
+
+Note: This variation covers the introduction of a PSMF irrespective of whether or not the technical dossier of the MA contained a DDPS.
+
+Once the Article 57 database is functional, changes in QPPV, including contact details (telephone and fax numbers, postal address 
+and e-mail address) and changes to the location of the PSMF (street, city, postcode, country) may be updated through the 
+Article 57 database only (without the need for a variation).
+
+
+
+ 
+Where the MAH makes use of the possibility to update the above information through the Article 57 database, the MAH must 
+indicate in the marketing authorisation that the updated information of those particulars is included in the database.
+
+
+(*) For introduction of a new pharmacovigilance system for veterinary medicinal products, please refer to C.II.7.
+
+C.I.9 Change(s) to an existing pharmacovigilance system 
+as described in the detailed description of the pharmaco 
+vigilance system (DDPS).
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Change in the QPPV and/or QPPV contact details 
+and/or back-up procedure
+1
+1
+
+IAIN
+b) Change(s) in the safety database and/or major 
+contractual arrangements for the fulfilment of 
+pharmacovigilance obligations, and/or change of 
+the site undergoing pharmacovigilance activities
+1, 2, 3
+1
+
+IAIN
+c) Other change(s) to the DDPS that does not impact 
+on the operation of the pharmacovigilance system 
+(e.g. change of the major storage/archiving location, 
+administrative changes)
+1
+1
+IA
+d) Change(s) to a DDPS following the assessment of 
+the same DDPS in relation to another medicinal 
+product of the same MAH
+4
+1, 2
+
+IAIN
+
+Conditions
+
+1.	The pharmacovigilance system itself remains unchanged.
+
+2.	The database system has been validated (when applicable).
+
+3.	Transfer of data from other database systems has been validated (when applicable).
+
+4.	The same changes to the DDPS are introduced for all medicinal products of the same MAH (same final DDPS 
+version)
+
+Documentation
+
+1.	Latest version of the DDPS and, where applicable, latest version of the product specific addendum. These should 
+include for changes to the QPPV a) summary CV of the new QPPV, b) proof of QPPV EudraVigilance registration, 
+and c) a new statement of the MAH and the QPPV regarding their availability and the means for notification of 
+adverse reactions signed by the new QPPV and the MAH, and reflecting any other consequential changes, e.g. to 
+the organisation chart.
+
+When the QPPV and/or QPPV contact details are not included in a DDPS or no DDPS exists, the submission of a 
+revised DDPS version is not required and the application form is to be provided.
+
+2.	Reference of the application/procedure and product in which the change(s) were accepted.
+
+
+Note: C.I.9 covers changes to an existing pharmacovigilance system 1) for veterinary medicinal products and 2) for human medicinal 
+products that have not yet introduced a PSMF.
+
+Note for a): Once the Article 57 database is functional, changes in QPPV, including contact details (telephone and fax numbers, 
+postal address and e-mail address) may be updated through the Article 57 database only (without the need for a 
+variation). Where the MAH makes use of the possibility to update this information through the Article 57 database, the 
+MAH must indicate in the marketing authorisation that the updated information of those particulars is included in the 
+database.
+
+Note for d): The assessment of a DDPS submitted as part of a new MAA/Extension/Variation may give rise to changes at the request 
+of the national competent authority/EMA in this DDPS. Where this occurs, the same change(s) can be introduced to the 
+DDPS in other marketing authorisations of the same MAH by submitting a (grouped) Type IAIN variation.
+
+
+
+
+C.I.10 Change in the frequency and/or date of submission 
+of periodic safety update reports (PSUR) for human 
+medicinal products
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+1
+1, 2
+IAIN
+Conditions
+
+1.	The change in the frequency and/or date of submission of the PSUR has been agreed by the CHMP/CMDh/NCA
+
+Documentation
+
+1.	Attached to the cover letter of the variation application: A reference to the agreement of the competent authority 
+(in the case of marketing authorisations granted under the centralised procedure, the CHMP).
+
+2.	Revised frequency and/or date of submission of the PSUR (for medicinal products authorised via the centralised 
+procedure, the full set of annexes, including the revised Annex II should be provided).
+
+Note: this variation applies only when the PSUR cycle is specified in the marketing authorisation by other means than a reference to the 
+list of Union reference dates and where PSUR submission is required.
+
+C.I.11 Introduction of, or change(s) to, the obligations 
+and conditions of a marketing authorisation, including 
+the risk management plan
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Implementation of 
+competent authority
+wording
+agreed
+by
+the
+1
+1, 2
+IAIN
+b) Implementation of change(s) which require to be 
+further substantiated by new additional data to be 
+submitted by the MAH where significant 
+assessment by the competent authority is 
+required (*)
+
+
+II
+Conditions
+
+1.	The variation implements the action requested by the authority and it does not require the submission of 
+additional information and/or further assessment.
+
+Documentation
+
+1.	Attached to the cover letter of the variation application: A reference to the relevant decision of the competent 
+authority.
+
+2.	Update of the relevant section of the dossier.
+
+Note: this variation covers the situation where the only change introduced concerns the conditions and/or obligations of the 
+marketing authorisation, including the risk management plan and the conditions and/or obligations of marketing authori 
+sations under exceptional circumstances and conditional marketing authorisation.
+
+(*) the introduction of a risk management plan requested by the competent authority always requires significant assessment.
+
+C.I.12 Inclusion or deletion of black symbol and 
+explanatory statements for medicinal products in the 
+list of medicinal products that are subject to additional 
+monitoring
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+1
+1, 2
+IAIN
+Conditions
+
+1. The medicinal product is included or removed from the list of medicinal products that are subject to additional 
+monitoring (as applicable)
+
+
+
+
+ 
+Documentation
+
+1.	Attached to the cover letter of the variation application: A reference to the list of medicinal products that are 
+subject to additional monitoring
+
+2.	Revised product information
+
+Note: this variation covers the situation where the inclusion or deletion of the black symbol and explanatory statements is not done 
+as part of another regulatory procedure (e.g. renewal or variation procedure affecting the product information).
+
+C.I.13 Other variations not specifically covered 
+elsewhere in this Annex which involve the submission 
+of studies to the competent authority (*)
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+
+II
+Note: in cases where the assessment by the competent authority of the data submitted leads to a change of the Summary of Product 
+Characteristics, Labelling or Package Leaflet, the relevant amendment to the Summary of Product Characteristics, Labelling or 
+Package Leaflet is covered by the variation.
+
+The inclusion of the Compliance Statement provided for under Article 28(3) of Regulation (EC) No 1901/2006 is likewise covered 
+by this variation (provided that the requirements under Regulation (EC) No 1901/2006 have been met).
+
+(*) This variation does not apply to variations that can be considered as Type IB by default under any other section of this Annex.
+
+
+
+C.II	VETERINARY MEDICINAL PRODUCT - SPECIFIC CHANGES
+
+C.II.1 Variations concerning a change to or addition of a 
+non-food producing target species.
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+
+II
+C.II.2 Deletion of a food producing or non-food 
+producing target species.
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Deletion as a result of a safety issue
+
+
+II
+b) Deletion not resulting from a safety issue
+
+1, 2
+IB
+Documentation
+
+1.	Justification for the deletion of the target species
+
+2.	Revised product information
+
+C.II.3 Changes to the withdrawal period for a veterinary 
+medicinal product
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+
+II
+C.II.4 Variations concerning the replacement or addition 
+of a serotype, strain, antigen or combination of sero 
+types, strains or antigens for a veterinary vaccine 
+against avian influenza, foot-and-mouth disease or blue 
+tongue.
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+
+II
+C.II.5 Variations concerning the replacement of a strain 
+for a veterinary vaccine against equine influenza.
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+
+II
+
+
+
+C.II.6 Changes to the labelling or the package leaflet 
+which are not connected with the summary of product 
+characteristics.
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Administrative information concerning the holder's 
+representative
+
+1
+IAIN
+b) Other changes
+
+1
+IB
+Documentation
+
+1. Revised product information.
+
+C.II.7 Introduction of a new Pharmacovigilance system
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) Which has not been assessed by the relevant 
+national competent authority/EMA for another 
+product of the same MAH
+
+
+II
+b) Which has been assessed by the relevant national 
+competent authority/EMA for another product of 
+the same MAH (*)
+
+1, 2
+IB
+Documentation
+
+1.	The new Detailed Description of the Pharmacovigilance System (DDPS)
+
+2.	Reference to the application/procedure and product in which the DDPS was assessed previously
+
+(*) Note: this variation covers the situation where the applicability of an already assessed Pharmacovigilance System will have to be 
+assessed for the new MAs concerned (e.g. at time of transfer of MA)
+
+C.II.8 Change in the frequency and/or date of submission 
+of periodic safety update reports (PSUR)
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+1
+1
+IAIN
+Conditions
+
+1. The change in the frequency and/or date of submission of the PSUR has been agreed by the competent authority
+
+Documentation
+
+1. Attached to the cover letter of the variation application: The relevant decision of the competent authority
+
+
+
+
+D.	PMF/VAMF
+
+D.1 Change in the name and/or address of the VAMF 
+certificate holder
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+1
+1
+IAIN
+Conditions
+
+1. The VAMF certificate holder must remain the same legal entity.
+
+Documentation
+
+1. A formal document from a relevant official body (e.g. Chamber of Commerce) in which the new name or new 
+address is mentioned.
+
+
+
+
+D.2 Change in the name and/or address of the PMF 
+certificate holder
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+1
+1
+IAIN
+Conditions
+
+1. The PMF certificate holder must remain the same legal entity.
+
+Documentation
+
+1. A formal document from a relevant official body (e.g. Chamber of Commerce) in which the new name or new 
+address is mentioned.
+
+D.3 Change or transfer of the current PMF certificate 
+holder to a new PMF certificate holder, i.e. different 
+legal entity
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+1, 2, 3, 4, 5, 6
+IAIN
+Documentation
+
+1.	A document including the identification (name and address) of the current PMF Holder (transferor) and the 
+identification (name and address) of the person to whom the transfer is to be granted (transferee) together 
+with the proposed implementation date - signed by both companies.
+
+2.	Copy of the latest PMF Certificate page 'EMA Plasma Master File (PMF) Certificate of compliance with Community 
+legislation'.
+
+3.	Proof of establishment of the new holder (Excerpt of the commercial register and the English translation of it) - 
+signed by both companies.
+
+4.	Confirmation of the transfer of the complete PMF documentation since the initial PMF certification to the 
+transferee - signed by both companies.
+
+5.	Letter of Authorisation including contact details of the person responsible for communication between the 
+competent authority and the PMF holder - signed by the transferee.
+
+6.	Letter of Undertaking to fulfil all open and remaining commitments (if any) - signed by the transferee.
+
+D.4 Change in the name and/or address of a blood estab 
+lishment including blood/plasma collection centres
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+1, 2
+1, 2, 3
+IA
+Conditions
+
+1.	The blood establishment must remain the same legal entity.
+
+2.	The change must be administrative (e.g. merger, take over); change in the name of the blood establishment/ 
+collection centre provided the blood establishment must remain the same.
+
+Documentation
+
+1.	Signed declaration that the change does not involve a change of the quality system within the blood estab 
+lishment.
+
+2.	Signed declaration that there is no change in the list of the collection centres.
+
+3.	Updated relevant sections and annexes of the PMF dossier.
+
+D.5 Replacement or addition of a blood/plasma 
+collection centre within a blood establishment already 
+included in the PMF
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+1, 2, 3
+IB
+
+
+
+ 
+Documentation
+
+1.	Epidemiological data for viral markers related to the blood/plasma collection centre covering the last 3 years. For 
+newly opened centre(s) or in case no data are yet available, a declaration that epidemiological data will be 
+provided at the time of the next annual update(s).
+
+2.	Statement that the centre is working under the same conditions as the other centres belonging to the blood 
+establishment, as specified in the standard contract between blood establishment and PMF holder.
+
+3.	Updated relevant sections and annexes of the PMF dossier.
+
+D.6 Deletion or change of status (operational/non-oper 
+ational) of establishment(s)/centre(s) used for blood/ 
+plasma collection or in the testing of donations and 
+plasma pools
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+1, 2
+1
+IA
+Conditions
+
+1.	The reason for deletion or change of status should not be related to a GMP issue.
+
+2.	The establishments(s)/centre(s) should comply with the legislation in terms of inspections in case of change of 
+status from non-operational to operational.
+
+Documentation
+
+1.	Updated relevant sections and annexes of the PMF dossier.
+
+D.7 Addition of a new blood establishment for the 
+collection of blood/plasma not included in the PMF
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+
+II
+D.8 Replacement or addition of a blood centre for 
+testing of donations and/or plasma pools within an estab 
+lishment already included in the PMF
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+1, 2
+IB
+Documentation
+
+1.	Statement that the testing is performed following the same SOPs and/or test methods as already accepted.
+
+2.	Updated relevant sections and annexes of the PMF dossier.
+
+D.9 Addition of a new blood establishment for testing of 
+donations and/or plasma pool not included in the PMF
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+
+II
+D.10 Replacement or addition of a new blood estab 
+lishment or centre(s) in which storage of plasma is 
+carried out
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+1, 2
+IB
+Documentation
+
+1.	Statement that the storage centre is working following the same SOPs as the already accepted establishment.
+
+2.	Updated relevant sections and annexes of the PMF dossier.
+
+
+
+
+D.11 Deletion of a blood establishment or centre(s) in 
+which storage of plasma is carried out
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+1
+1
+IA
+Conditions
+
+1. The reason for deletion should not be related to a GMP issues.
+
+Documentation
+
+1. Updated relevant sections and annexes of the PMF dossier.
+
+D.12 Replacement or addition of an organisation 
+involved in the transport of plasma.
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+1
+IB
+Documentation
+
+1. Updated relevant sections and annexes of the PMF dossier, including a list of all the blood establishments using 
+this transport organisation, a summary of the system in place to ensure that the transport is performed under 
+appropriate conditions (time, temperature and GMP compliance) and confirmation that transport conditions are 
+validated.
+
+D.13 Deletion of an organisation involved in the 
+transport of plasma
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+1
+1
+IA
+Conditions
+
+1. The reason for deletion should not be related to GMP issues.
+
+Documentation
+
+1. Updated relevant sections and annexes of the PMF dossier.
+
+D.14 Addition of a CE-marked test kit to test individual 
+donations as a new test kit or as a replacement of an 
+existing test kit
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+1
+1, 2
+IA
+Conditions
+
+1.	The new test kit is CE-marked.
+
+Documentation
+
+1.	List of testing site(s) where the kit is used.
+
+2.	Updated relevant sections and annexes of the PMF dossier, including updated information on testing as requested 
+in the 'Guideline on the scientific data requirements for a PMF'.
+
+D.15 Addition of a non-CE marked test kit to test indi 
+vidual donations as a new test kit or as a replacement of 
+an existing test kit
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) The new test kit has not previously been approved 
+in the PMF for any blood centre for testing of 
+donations
+
+
+II
+b) The new test kit has been approved in the PMF for 
+other blood centre(s) for testing of donations
+
+1, 2
+IA
+
+
+
+ 
+Documentation
+
+1.	List of testing centre(s) where the kit is currently used and a list of testing centre(s) where the kit will be used.
+
+2.	Updated relevant sections and annexes of the PMF dossier, including updated information on testing as requested 
+in the 'Guideline on the scientific data requirements for a PMF'.
+
+D.16 Change of kit/method used to test pools (antibody 
+or antigen or NAT test).
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+
+II
+D.17 Introduction or extension of inventory hold 
+procedure.
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+1
+1
+IA
+Conditions
+
+1. The inventory hold procedure is a more stringent procedure (e.g. release only after retesting of donors).
+
+Documentation
+
+1. Updated relevant sections of the PMF dossier, including the rationale for introduction or extension of inventory 
+hold period, the sites where the inventory hold takes place and for changes to procedure, a decision tree including 
+new conditions.
+
+D.18 Removal of inventory hold period or reduction in 
+its length.
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+1
+IB
+Documentation
+
+1. Updated relevant sections of the PMF dossier
+
+D.19 Replacement or addition of blood containers (e.g. 
+bags, bottles)
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) The new blood containers are CE-marked
+1, 2
+1
+IA
+b) The new blood containers are not CE-marked
+
+
+II
+Conditions
+
+1.	The container is CE-marked.
+
+2.	The quality criteria of the blood in the container remain unchanged.
+
+Documentation
+
+1.	Updated relevant sections and annexes of the PMF dossier, including the name of container, manufacturer, 
+anticoagulant solution specification, confirmation of CE-mark and the name of the blood establishments where 
+the container is used.
+
+D.20 Change in storage/transport
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+a) storage and/or transport conditions
+1
+1
+IA
+b) maximum storage time for the plasma
+1, 2
+1
+IA
+
+
+
+ 
+Conditions
+
+1.	The change should tighten the conditions and be in compliance with Ph. Eur. requirements 
+for Human Plasma for Fractionation.
+
+2.	The maximum storage time is shorter than previously.
+
+Documentation
+
+1.	Updated relevant sections and annexes of the PMF dossier, including detailed description 
+of the new conditions, confirmation of validation of storage/transport conditions and the 
+name of the blood establishment(s) where the change takes place (if relevant).
+
+D.21 Introduction of test for viral markers when this 
+introduction will have significant impact on the viral 
+risk assessment.
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+
+II
+D.22 Change in the plasma pool preparation (e.g. manu 
+facturing method, pool size, storage of plasma pool 
+samples)
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+1
+IB
+Documentation
+
+1. Updated relevant sections of the PMF dossier.
+
+D.23 Change in the steps that would be taken if it is 
+found retrospectively that donation(s) should have been 
+excluded from processing ('look-back' procedure).
+Conditions to 
+be fulfilled
+Documentation 
+to be supplied
+Procedure type
+
+
+
+II
+
