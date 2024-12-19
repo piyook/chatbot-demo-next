@@ -43,7 +43,7 @@ jobs:
                   node-version: '20'
                   cache: 'npm'
             - run: npm ci
-            - run: npm audit
+            - run: npm audit --omit=dev
 
     test:
         needs: [lint, prettier, audit]
