@@ -7,7 +7,7 @@ import { z } from 'zod';
 */
 
 export const clientSchema = z.object({
-    NEXT_PUBLIC_TYPING_SPEED_MS: z.string(),
+    NEXT_PUBLIC_TYPING_SPEED_MS: z.coerce.number(),
 });
 
 export const clientEnv = {
@@ -17,9 +17,9 @@ export const clientEnv = {
 export const serverSchema = z.object({
     PROJECT_NAME: z.string(),
     OPENAI_API_KEY: z.string(),
-    LANGCHAIN_TRACING_V2: z.string().optional(),
+    LANGCHAIN_TRACING_V2: z.enum(['true', 'false']),
     LANGCHAIN_API_KEY: z.string().optional(),
-    LANGCHAIN_CALLBACKS_BACKGROUND: z.string().optional(),
-    DEV_MODE: z.string(),
-    DEV_BASE_URL: z.string(),
+    LANGCHAIN_CALLBACKS_BACKGROUND: z.enum(['true', 'false']),
+    DEV_MODE: z.enum(['true', 'false']),
+    DEV_BASE_URL: z.string().url(),
 });
