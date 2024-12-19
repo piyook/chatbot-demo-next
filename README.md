@@ -1,3 +1,7 @@
+![GitHub Release](https://img.shields.io/github/v/release/piyook/chatbot-demo-next)
+![Github actions](https://github.com/piyook/chatbot-demo-next/actions/workflows/tests.yaml/badge.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # A Subject Specialised Chatbot
 
 ### LLM Retrieval Augmented Generation using LangChain and OpenAI in NextJS/React
@@ -59,9 +63,9 @@ DEV_MODE=true
 DEV_BASE_URL=http://localhost:8001/chatgpt
 ```
 
-By setting the DEV_MODE to true, ALL chatGPT requests will be sent to the mock LLM server which will return either random length LOREM IPSUM or STORED responses depending on the settings in the LLM Mock. 
+By setting the DEV_MODE to true, ALL chatGPT requests will be sent to the mock LLM server which will return either random length LOREM IPSUM or STORED responses depending on the settings in the LLM Mock.
 
-These responses will be sent whatever the input to the LLM and will not use openAI for either requests or embeddings (embeddings requests are also mocked out when the DEV_MODE is on) and so wont incur costs (or need an openAI account or even an internet connection).  
+These responses will be sent whatever the input to the LLM and will not use openAI for either requests or embeddings (embeddings requests are also mocked out when the DEV_MODE is on) and so wont incur costs (or need an openAI account or even an internet connection).
 
 LangSmith is also bypassed when using DEV_MODE but LLM requests can be viewed at the LLM Mock Logs endpoint (see README)
 
