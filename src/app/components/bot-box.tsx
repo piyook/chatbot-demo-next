@@ -1,5 +1,6 @@
 /* eslint-disable react/jsx-no-useless-fragment */
 import React, { useEffect, useRef, useState } from 'react';
+import { clientEnv, clientSchema } from '../utils/env-schema';
 
 const BotBox = ({
     botAnswer,
@@ -10,8 +11,10 @@ const BotBox = ({
     readonly sentenceNumber: number;
     readonly splitSentences: string[];
 }): React.JSX.Element => {
+    const _clientEnv = clientSchema.parse(clientEnv);
+
     const typingSpeed = Number.parseInt(
-        process.env.NEXT_PUBLIC_TYPING_SPEED_MS ?? '30',
+        _clientEnv.NEXT_PUBLIC_TYPING_SPEED_MS ?? '30',
         10,
     );
 

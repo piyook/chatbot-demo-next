@@ -14,6 +14,7 @@ import { AIMessage, HumanMessage } from '@langchain/core/messages';
 import { splitDocuments } from './docloader';
 import { CustomChatMessageHistory } from './chat-history';
 import { sanitiseInput } from './utils';
+import { serverSchema } from './env-schema';
 
 type chatBotProperties = {
     userQuestion: string;
@@ -28,15 +29,16 @@ async function getChatBotReply({
     userQuestion,
     history,
 }: chatBotProperties): Promise<string | undefined> {
+    const _serverEnv = serverSchema.parse(process.env);
     let rt = null;
     // Initiate an openAI object using local mock environment if dev mode is set to true
     const chatModel = new ChatOpenAI({
-        openAIApiKey: process.env.OPENAI_API_KEY,
+        openAIApiKey: _serverEnv.OPENAI_API_KEY,
         modelName: 'gpt-4o-mini',
         configuration:
-            process.env.DEV_MODE === 'true'
+            _serverEnv.DEV_MODE === 'true'
                 ? {
-                      baseURL: process.env.DEV_BASE_URL,
+                      baseURL: _serverEnv.DEV_BASE_URL,
                   }
                 : {},
     });
@@ -67,14 +69,14 @@ async function getChatBotReply({
 
     let embeddings;
 
-    if (process.env.DEV_MODE === 'true') {
+    if (_serverEnv.DEV_MODE === 'true') {
         embeddings = new FakeEmbeddings();
         console.log(
-            `WARNING: DEV MODE IS ON. Using fake embeddings and localhost mock server on ${process.env?.DEV_BASE_URL}`,
+            `WARNING: DEV MODE IS ON. Using fake embeddings and localhost mock server on ${_serverEnv.DEV_BASE_URL}`,
         );
     } else {
         embeddings = new OpenAIEmbeddings({
-            openAIApiKey: process.env.OPENAI_API_KEY,
+            openAIApiKey: _serverEnv.OPENAI_API_KEY,
         });
     }
 
@@ -124,20 +126,22 @@ async function getChatBotReply({
 
     // Submit metrics to LangSmith
 
-    if (!(process.env?.DEV_MODE === 'true')) {
+    if (!(_serverEnv.DEV_MODE === 'true')) {
         console.log('Sending metrics to Langsmith');
         rt = new RunTree({
             run_type: 'llm',
             name: 'OpenAI Call RunTree',
             inputs: { historyAwarePrompt },
-            project_name: process.env?.PROJECT_NAME ?? 'demo',
+            project_name: _serverEnv.PROJECT_NAME ?? 'demo',
         });
 
         try {
             await rt.end(result);
             await rt.postRun();
         } catch {
-            console.log('Error logging to LangSmith API');
+            console.log(
+                'Error logging to LangSmith API - check you have a valid LANGCHAIN_API_KEY value in your .env.local file',
+            );
         }
     }
 
