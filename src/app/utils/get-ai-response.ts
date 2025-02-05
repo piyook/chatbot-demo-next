@@ -35,6 +35,7 @@ async function getChatBotReply({
     const chatModel = new ChatOpenAI({
         openAIApiKey: _serverEnv.OPENAI_API_KEY,
         modelName: 'gpt-4o-mini',
+        temperature: 1,
         configuration:
             _serverEnv.DEV_MODE === 'true'
                 ? {
