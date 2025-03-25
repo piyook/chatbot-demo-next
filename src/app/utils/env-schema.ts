@@ -7,7 +7,7 @@ import { z } from 'zod';
 */
 
 export const clientSchema = z.object({
-    NEXT_PUBLIC_TYPING_SPEED_MS: z.coerce.number(),
+    NEXT_PUBLIC_TYPING_SPEED_MS: z.string().regex(/^\d+$/),
 });
 
 export const clientEnv = {
