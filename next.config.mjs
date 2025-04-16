@@ -2,10 +2,8 @@
 const nextConfig = {
     reactStrictMode: false,
 
-    experimental: {
-        turbo: {
-            // ...
-        },
+    turbopack: {
+        // ...
     },
 };
 
