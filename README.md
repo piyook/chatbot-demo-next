@@ -8,6 +8,11 @@
 
 ![chatbot-demo-1](https://github.com/piyook/chatbot-demo-next/assets/51154763/de157268-8426-493e-af14-f1ba67c1159c)
 
+
+### Requirements
+
+- Node 24+
+
 ### About
 
 This is a simple demo project using LangChain, ChatGPT and NextJS to create a specialised Chatbot. In a real app, the chatbot would be located in a movable/collapsible/scrollable chat window with an improved UI.
@@ -47,7 +52,7 @@ Bot response typing speed can be set in the .env.local using the NEXT_PUBLIC_TYP
 To tear down and rebuild project run
 
 ```bash
-npm run nuke
+npm run torch
 ```
 
 ### Mock Development Server
