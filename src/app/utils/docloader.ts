@@ -1,16 +1,15 @@
 'use server';
-import { TextLoader } from 'langchain/document_loaders/fs/text';
-import { RecursiveCharacterTextSplitter } from 'langchain/text_splitter';
+import fs from 'fs/promises';
+import { Document } from '@langchain/core/documents';
+import { RecursiveCharacterTextSplitter } from '@langchain/textsplitters';
 
 async function splitDocuments() {
     // Create a document splitter object
     const splitter = new RecursiveCharacterTextSplitter();
 
-    // Use Cheerio to split upload and embed a document
-    const loader = new TextLoader('./src/app/assets/docs/FAQS.txt');
-
-    // Load docs using cherio
-    const documents = await loader.load();
+    // load text from file and create a document object
+    const text = await fs.readFile('./src/app/assets/docs/FAQS.txt', 'utf-8');
+    const documents = [new Document({ pageContent: text })];
 
     // Split docs using doc splitter
     return splitter.splitDocuments(documents);

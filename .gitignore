@@ -38,5 +38,5 @@ next-env.d.ts
 # vs-code
 .vscode
 
-# nuke logs
-nuke-it.log
+# torch logs
+torch-it.log

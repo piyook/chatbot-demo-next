@@ -4,12 +4,12 @@ import {
     ChatPromptTemplate,
     MessagesPlaceholder,
 } from '@langchain/core/prompts';
-import { MemoryVectorStore } from 'langchain/vectorstores/memory';
-import { createStuffDocumentsChain } from 'langchain/chains/combine_documents';
-import { createRetrievalChain } from 'langchain/chains/retrieval';
+import { MemoryVectorStore } from '@langchain/classic/vectorstores/memory';
+import { createStuffDocumentsChain } from '@langchain/classic/chains/combine_documents';
+import { createRetrievalChain } from '@langchain/classic/chains/retrieval';
 import { RunTree } from 'langsmith';
-import { createHistoryAwareRetriever } from 'langchain/chains/history_aware_retriever';
-import { FakeEmbeddings } from 'langchain/embeddings/fake';
+import { createHistoryAwareRetriever } from '@langchain/classic/chains/history_aware_retriever';
+import { FakeEmbeddings } from '@langchain/classic/embeddings/fake';
 import { AIMessage, HumanMessage } from '@langchain/core/messages';
 import { splitDocuments } from './docloader';
 import { CustomChatMessageHistory } from './chat-history';
