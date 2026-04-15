@@ -1,0 +1,38 @@
+[2026-04-15T13:28:42.076Z]                   🔥 TORCH LIT 🔥
+[2026-04-15T13:28:42.079Z] ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )
+  (( (( (( (( (( (( (( (( (( (( (( (( (( ((
+ ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )
+  (( (( (( (( (( (( (( (( (( (( (( (( (( ((
+ ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )
+ ____  _   _ ____  _   _ ___ _   _  ____ 
+| __ )| | | |  _ \| \ | |_ _| \ | |/ ___|
+|  _ \| | | | |_) |  \| || ||  \| | |  _ 
+| |_) | |_| |  _ <| |\  || || |\  | |_| |
+|____/ \___/|_| \_\_| \_|___|_| \_|\____|
+
+[2026-04-15T13:28:42.081Z] ▶ 🔥 DOCKER CLEANUP
+[2026-04-15T13:28:42.083Z] 🔥 No Docker configuration found - skipping Docker operations
+[2026-04-15T13:28:42.085Z] ▶ 🔥 BUILD ARTIFACTS & CACHE CLEANUP
+[2026-04-15T13:28:42.088Z] ▶ Scanning for build artifacts and cache directories...
+[2026-04-15T13:28:42.091Z] ▶ Removing node_modules...
+[2026-04-15T13:28:58.502Z] ✅ node_modules removed
+[2026-04-15T13:28:58.507Z] ✅ Removed 1 build/cache directories
+[2026-04-15T13:28:58.509Z] ▶ Cleaning package manager caches...
+[2026-04-15T13:29:02.227Z] ✅ npm cache cleaned
+[2026-04-15T13:29:02.774Z] ✅ yarn cache cleaned
+[2026-04-15T13:29:03.419Z] ✅ pnpm store cleaned
+[2026-04-15T13:29:03.422Z]                🔥 RISING FROM THE ASHES 🔥
+[2026-04-15T13:29:03.425Z] ▶ 🔨 DEPENDENCY INSTALLATION
+[2026-04-15T13:29:03.427Z] ▶ Detecting package manager and installing dependencies...
+[2026-04-15T13:29:03.550Z] ▶ Using npm (detected package-lock.json)...
+[2026-04-15T13:30:16.767Z] ✅ Dependencies installed successfully with npm
+[2026-04-15T13:30:16.771Z] ▶ 🔨 DOCKER REBUILD
+[2026-04-15T13:30:16.774Z] 🔥 PROJECT SUCCESSFULLY TORCHED! 🔥
+[2026-04-15T13:30:16.777Z] 
+[2026-04-15T13:30:16.780Z] 🔥 All build artifacts & caches removed
+[2026-04-15T13:30:16.783Z] 📦 Dependencies freshly installed
+[2026-04-15T13:30:16.785Z] 🐳 No Docker containers found
+[2026-04-15T13:30:16.788Z] 
+[2026-04-15T13:30:16.791Z] 
+[2026-04-15T13:30:16.794Z] 
+[2026-04-15T13:30:16.796Z] 📋 Check torch-it.log for detailed logs
